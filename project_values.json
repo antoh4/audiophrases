@@ -1,0 +1,5 @@
+{
+  "ms_after_sl": 1000,
+  "ms_after_tl": 1000,
+  "tts": [{ "english": "tts_models/en/ljspeech/vits" }, {"french": "tts_models/fr/css10/vits"}]
+}
