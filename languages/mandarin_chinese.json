@@ -8,151 +8,126 @@
     {
       "target_language": "Wǒ xué hànyǔ",
       "english": "I study Chinese",
-      "francais": "J'étudie le Chinois",
       "audio_file": "mand3-01.mp3"
     },
     {
       "target_language": "zhè",
       "english": "This",
-      "francais": "Ceci",
       "audio_file": "mand3-02.mp3"
     },
     {
       "target_language": "nà",
       "english": "that",
-      "francais": "Cela",
       "audio_file": "mand3-03.mp3"
     },
     {
       "target_language": "shì",
       "english": "to be",
-      "francais": "être",
       "audio_file": "mand3-04.mp3"
     },
     {
       "target_language": "chá",
       "english": "tea",
-      "francais": "thé",
       "audio_file": "mand3-05.mp3"
     },
     {
       "target_language": "fàn",
       "english": "rice/meal",
-      "francais": "riz/repas",
       "audio_file": "mand3-06.mp3"
     },
     {
       "target_language": "bēizi",
       "english": "cup",
-      "francais": "tasse",
       "audio_file": "mand3-07.mp3"
     },
     {
       "target_language": "jīdàn",
       "english": "egg",
-      "francais": "œuf",
       "audio_file": "mand3-08.mp3"
     },
     {
       "target_language": "mā",
       "english": "question particle",
-      "francais": "particule interrogative",
       "audio_file": "mand3-09.mp3"
     },
     {
       "target_language": "bù",
       "english": "no",
-      "francais": "Non",
       "audio_file": "mand3-10.mp3"
     },
     {
       "target_language": "shénme",
       "english": "what",
-      "francais": "Quoi",
       "audio_file": "mand3-11.mp3"
     },
     {
       "target_language": "Zhè shì chá",
       "english": "This is tea",
-      "francais": "Ceci est du thé",
       "audio_file": "mand3-12.mp3"
     },
     {
       "target_language": "Nà shì fàn",
       "english": "That is rice",
-      "francais": "Cela est du riz",
       "audio_file": "mand3-13.mp3"
     },
     {
       "target_language": "Zhè shì bēizi",
       "english": "This is a cup",
-      "francais": "Ceci est une tasse",
       "audio_file": "mand3-14.mp3"
     },
     {
       "target_language": "Nà shì jīdàn",
       "english": "That is an egg",
-      "francais": "Cela est un œuf",
       "audio_file": "mand3-15.mp3"
     },
     {
       "target_language": "Zhè shì chá ma?",
       "english": "Is this tea?",
-      "francais": "Ceci est du thé ?",
       "audio_file": "mand3-16.mp3"
     },
     {
       "target_language": "Shì",
       "english": "Yes",
-      "francais": "Oui",
       "audio_file": "mand3-17.mp3"
     },
     {
       "target_language": "Bú shì",
       "english": "No",
-      "francais": "Non",
       "audio_file": "mand3-18.mp3"
     },
     {
       "target_language": "Nà shì fàn ma?",
       "english": "Is that rice?",
-      "francais": "Cela est du riz ?",
       "audio_file": "mand3-19.mp3"
     },
     {
       "target_language": "Zhè shì bēizi ma?",
       "english": "Is this a cup?",
-      "francais": "Ceci est une tasse ?",
       "audio_file": "mand3-20.mp3"
     },
     {
       "target_language": "Nà shì jīdàn ma?",
       "english": "Is that an egg?",
-      "francais": "Cela est un œuf ?",
       "audio_file": "mand3-21.mp3"
     },
     {
       "target_language": "Zhè shì shénme?",
       "english": "What is this?",
-      "francais": "Ceci est quoi ?",
       "audio_file": "mand3-23.mp3"
     },
     {
       "target_language": "Zhè shì chá",
       "english": "This is tea",
-      "francais": "Ceci est du thé",
       "audio_file": "mand3-24.mp3"
     },
     {
       "target_language": "Nà shì shénme?",
       "english": "What is that?",
-      "francais": "Cela est quoi ?",
       "audio_file": "mand3-25.mp3"
     },
     {
       "target_language": "Nà shì bēizi",
       "english": "That is a cup",
-      "francais": "Cela est une tasse",
       "audio_file": "mand3-26.mp3"
     }
   ]
