@@ -5,7 +5,7 @@ from pydub import AudioSegment
 from pydub.silence import *
 
 languages_dir = 'languages'
-output_audio_dir = 'output_audio'
+output_audio_dir = 'site/output_audio'
 tmp_dir = 'tmp'
 
 # Ensure output directories exist
@@ -19,6 +19,15 @@ tts = TTS("tts_models/en/ljspeech/vits")
 
 print(f"Found {len(json_files)} JSON files in '{languages_dir}': {json_files}\n")
 
+html_content = """<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Audio language courses</title>
+  </head>
+<body>"""
+
 # Iterate and parse each json file
 for json_file in json_files:
     file_path = os.path.join(languages_dir, json_file)
@@ -28,6 +37,7 @@ for json_file in json_files:
         language_name = data['language_name']
         language_slug = data['slug']
         print(f"\n--- Processing {language_name} ({json_file}) ---\n")
+
 
         course_audio = AudioSegment.empty()
         silence = AudioSegment.silent(duration=1000) # 1 second silence
@@ -66,4 +76,19 @@ for json_file in json_files:
         course_audio.export(output_filepath, format="wav")
         print(f"Successfully created course audio: {output_filepath}")
 
+        html_content += f"""<div class="audio-item">
+            <h2>English to {data['language_name']}</h2>
+            <audio controls>
+                <source src="{output_filepath}" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            <a href="{output_filepath}" download>Download course</a>
+        </div>"""
+
 print("\nAll courses processed.")
+
+html_content += """</body>
+</html>"""
+
+with open("site/index.html", 'w', encoding='utf-8') as f:
+    f.write(html_content)
