@@ -27,7 +27,9 @@ html_content = """<!doctype html>
   </head>
 <body>
 <h1>Audio language-learning phrases</h1>
-<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>"""
+<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>
+<p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again.</p>
+<p>The courses are made to be listened multiple times, make your memory work by using recall, and get used to the sonorities of the language.</p>"""
 
 # Iterate and parse each json file
 for json_file in json_files:
