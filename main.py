@@ -15,7 +15,6 @@ os.makedirs(tmp_dir, exist_ok=True)
 json_files = [f for f in os.listdir(languages_dir) if f.endswith('.json')]
 
 
-
 print(f"Found {len(json_files)} JSON files in '{languages_dir}': {json_files}\n")
 
 html_content = """<!doctype html>
@@ -23,12 +22,12 @@ html_content = """<!doctype html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Audio language courses</title>
+    <title>Audio language learning phrases</title>
     <link rel="stylesheet" href="styles.css">
   </head>
 <body>
-<h1>Audio language courses</h1>
-<p>Learn the basics of foreign languages, to communicate with locals.</p>"""
+<h1>Audio language learning phrases</h1>
+<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>"""
 
 # Iterate and parse each json file
 for json_file in json_files:
@@ -43,23 +42,29 @@ for json_file in json_files:
 
 
         course_audio = AudioSegment.empty()
-        silence = AudioSegment.silent(duration=1000) # 1 second silence
+        silence = AudioSegment.silent(duration=2000) # ms
 
         for i, sentence in enumerate(data['sentences']):
-            target_audio_filename = sentence["audio_file"]
+            target_audio_filename = sentence["target_audio"]
+            english_audio_filename = sentence["english_audio"]
 
-            # Assuming native audio files are in a subdirectory named after the slug within languages_dir
-            native_audio_path = os.path.join(languages_dir, language_slug, target_audio_filename)
+            # Assuming target audio files are in a subdirectory named after the slug within languages_dir
+            target_audio_path = os.path.join(languages_dir, language_slug, target_audio_filename)
+            english_audio_path = os.path.join(languages_dir, language_slug, english_audio_filename)
 
-            if not os.path.exists(native_audio_path):
-                print(f"WARNING: Native audio file not found: {native_audio_path}. Skipping this sentence.")
+            if not os.path.exists(target_audio_path):
+                print(f"WARNING: target audio file not found: {target_audio_path}. Skipping this sentence.")
+                continue
+            if not os.path.exists(english_audio_path):
+                print(f"WARNING: english audio file not found: {english_audio_path}. Skipping this sentence.")
                 continue
 
-            # Load native speaker audio
-            native_audio = AudioSegment.from_file(native_audio_path)
+            # Load audios
+            target_audio = AudioSegment.from_file(target_audio_path)
+            english_audio = AudioSegment.from_file(english_audio_path)
 
-            # Concatenate native audio + silence + TTS audio + silence
-            combined_sentence_audio = native_audio + silence + translated_tts_audio + silence
+            # Concatenate target audio + silence + english audio + silence
+            combined_sentence_audio = target_audio + silence + english_audio + silence
             course_audio += combined_sentence_audio
 
         # Export the final course audio
@@ -76,6 +81,7 @@ for json_file in json_files:
                 Your browser does not support the audio element.
             </audio>
             <a href="{site_output_filepath}" download>Download course</a>
+            <p>Sources: <a href={data['sources'][0]}>{data['sources'][0]}</a></p>
         </div>"""
 
 print("\nAll courses processed.")

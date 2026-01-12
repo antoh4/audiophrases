@@ -8,127 +8,152 @@
     {
       "target_language": "Wǒ xué hànyǔ",
       "english": "I study Chinese",
-      "audio_file": "mand3-01.mp3"
+      "target_audio": "mand3-02.mp3",
+      "english_audio": "mand3-01.mp3"
     },
     {
       "target_language": "zhè",
       "english": "This",
-      "audio_file": "mand3-02.mp3"
+      "target_audio": "mand3-04.mp3",
+      "english_audio": "mand3-03.mp3"
     },
     {
       "target_language": "nà",
       "english": "that",
-      "audio_file": "mand3-03.mp3"
+      "target_audio": "mand3-06.mp3",
+      "english_audio": "mand3-05.mp3"
     },
     {
       "target_language": "shì",
       "english": "to be",
-      "audio_file": "mand3-04.mp3"
+      "target_audio": "mand3-08.mp3",
+      "english_audio": "mand3-07.mp3"
     },
     {
       "target_language": "chá",
       "english": "tea",
-      "audio_file": "mand3-05.mp3"
+      "target_audio": "mand3-10.mp3",
+      "english_audio": "mand3-09.mp3"
     },
     {
       "target_language": "fàn",
       "english": "rice/meal",
-      "audio_file": "mand3-06.mp3"
+      "target_audio": "mand3-12.mp3",
+      "english_audio": "mand3-11.mp3"
     },
     {
       "target_language": "bēizi",
       "english": "cup",
-      "audio_file": "mand3-07.mp3"
+      "target_audio": "mand3-14.mp3",
+      "english_audio": "mand3-13.mp3"
     },
     {
       "target_language": "jīdàn",
       "english": "egg",
-      "audio_file": "mand3-08.mp3"
+      "target_audio": "mand3-16.mp3",
+      "english_audio": "mand3-15.mp3"
     },
     {
       "target_language": "mā",
       "english": "question particle",
-      "audio_file": "mand3-09.mp3"
+      "target_audio": "mand3-18.mp3",
+      "english_audio": "mand3-17.mp3"
     },
     {
       "target_language": "bù",
       "english": "no",
-      "audio_file": "mand3-10.mp3"
+      "target_audio": "mand3-20.mp3",
+      "english_audio": "mand3-19.mp3"
     },
     {
       "target_language": "shénme",
       "english": "what",
-      "audio_file": "mand3-11.mp3"
+      "target_audio": "mand3-22.mp3",
+      "english_audio": "mand3-21.mp3"
     },
     {
       "target_language": "Zhè shì chá",
       "english": "This is tea",
-      "audio_file": "mand3-12.mp3"
+      "target_audio": "mand3-24.mp3",
+      "english_audio": "mand3-23.mp3"
     },
     {
       "target_language": "Nà shì fàn",
       "english": "That is rice",
-      "audio_file": "mand3-13.mp3"
+      "target_audio": "mand3-26.mp3",
+      "english_audio": "mand3-25.mp3"
     },
     {
       "target_language": "Zhè shì bēizi",
       "english": "This is a cup",
-      "audio_file": "mand3-14.mp3"
+      "target_audio": "mand3-28.mp3",
+      "english_audio": "mand3-27.mp3"
     },
     {
       "target_language": "Nà shì jīdàn",
       "english": "That is an egg",
-      "audio_file": "mand3-15.mp3"
+      "target_audio": "mand3-30.mp3",
+      "english_audio": "mand3-29.mp3"
     },
     {
       "target_language": "Zhè shì chá ma?",
       "english": "Is this tea?",
-      "audio_file": "mand3-16.mp3"
+      "target_audio": "mand3-32.mp3",
+      "english_audio": "mand3-31.mp3"
     },
     {
       "target_language": "Shì",
       "english": "Yes",
-      "audio_file": "mand3-17.mp3"
+      "target_audio": "mand3-35.mp3",
+      "english_audio": "mand3-33.mp3"
     },
     {
       "target_language": "Bú shì",
       "english": "No",
-      "audio_file": "mand3-18.mp3"
+      "target_audio": "mand3-36.mp3",
+      "english_audio": "mand3-34.mp3"
     },
     {
       "target_language": "Nà shì fàn ma?",
       "english": "Is that rice?",
-      "audio_file": "mand3-19.mp3"
+      "target_audio": "mand3-38.mp3",
+      "english_audio": "mand3-37.mp3"
     },
     {
       "target_language": "Zhè shì bēizi ma?",
       "english": "Is this a cup?",
-      "audio_file": "mand3-20.mp3"
+      "target_audio": "mand3-40.mp3",
+      "english_audio": "mand3-39.mp3"
     },
     {
       "target_language": "Nà shì jīdàn ma?",
       "english": "Is that an egg?",
-      "audio_file": "mand3-21.mp3"
+      "target_audio": "mand3-42.mp3",
+      "english_audio": "mand3-41.mp3"
     },
     {
       "target_language": "Zhè shì shénme?",
       "english": "What is this?",
-      "audio_file": "mand3-23.mp3"
+      "target_audio": "mand3-44.mp3",
+      "english_audio": "mand3-43.mp3"
     },
     {
       "target_language": "Zhè shì chá",
       "english": "This is tea",
-      "audio_file": "mand3-24.mp3"
+      "target_audio": "mand3-46.mp3",
+      "english_audio": "mand3-45.mp3"
     },
     {
       "target_language": "Nà shì shénme?",
       "english": "What is that?",
-      "audio_file": "mand3-25.mp3"
+      "target_audio": "mand3-48.mp3",
+      "english_audio": "mand3-47.mp3"
     },
     {
       "target_language": "Nà shì bēizi",
       "english": "That is a cup",
-      "audio_file": "mand3-26.mp3"
+      "target_audio": "mand3-50.mp3",
+      "english_audio": "mand3-49.mp3"
     }
   ]
 }
