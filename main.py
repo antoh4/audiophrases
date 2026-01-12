@@ -22,11 +22,11 @@ html_content = """<!doctype html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Audio language learning phrases</title>
+    <title>Audio language-learning phrases</title>
     <link rel="stylesheet" href="styles.css">
   </head>
 <body>
-<h1>Audio language learning phrases</h1>
+<h1>Audio language-learning phrases</h1>
 <p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>"""
 
 # Iterate and parse each json file
@@ -35,11 +35,9 @@ for json_file in json_files:
     with open(file_path, 'r') as file:
         data = json.load(file)
 
-        
         language_name = data['language_name']
         language_slug = data['slug']
         print(f"\n--- Processing {language_name} ({json_file}) ---\n")
-
 
         course_audio = AudioSegment.empty()
         silence = AudioSegment.silent(duration=2000) # ms

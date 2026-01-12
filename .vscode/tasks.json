@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Deploy to Codeberg Pages",
+      "type": "shell",
+      "command": "cd _site && git add --all && git commit -m 'Deploy' && git push origin pages && cd ..",
+      "group": "build"
+    }
+  ]
+}
