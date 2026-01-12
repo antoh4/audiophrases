@@ -22,11 +22,11 @@ html_content = """<!doctype html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Language-learning audio phrases</title>
+    <title>Language learning audio phrases</title>
     <link rel="stylesheet" href="styles.css">
   </head>
 <body>
-<h1>Language-learning audio phrases</h1>
+<h1>Language learning audio phrases</h1>
 <p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>
 <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
 <p>The courses are made to be listened multiple times (for instance while going on walks), make your memory work (mix of repetition and recall), and get used to the sonorities of the language.</p>"""
@@ -70,13 +70,13 @@ for json_file in json_files:
         # Export the final course audio
         output_filename = f"{language_slug}_course.mp3"
         output_filepath = os.path.join(output_audio_dir, output_filename)
-        site_output_filepath = os.path.join('output_audio', output_filename)
+        site_output_filepath = os.path.join('course', output_filename)
         course_audio = course_audio.set_frame_rate(22050)
         course_audio = course_audio.set_sample_width(2)
         course_audio.export(output_filepath, format="mp3", bitrate="128k")
         print(f"Successfully created course audio: {output_filepath}")
 
-        html_content += f"""<div class="audio-item">
+        html_content += f"""<hr><div class="audio-item">
             <h2>{data['language_name']} course</h2>
             <audio controls>
                 <source src="{site_output_filepath}" type="audio/mpeg">
@@ -84,12 +84,12 @@ for json_file in json_files:
             </audio>
             <br>
             <a href="{site_output_filepath}" download>Download course</a>
-            <p>Sources: <a href={data['sources'][0]}>{data['sources'][0]}</a></p>
+            <p>Audio source: <a href={data['sources'][0]}>{data['sources'][0]}</a></p>
         </div>"""
 
 print("\nAll courses processed.")
 
-html_content += """<br><a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a></body>
+html_content += """<br><hr><a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a>. <p>The courses are built by extracting and organizing content from other existing public domain sources. Those external sources have their link provided.</p></body>
 </html>"""
 
 with open("_site/index.html", 'w', encoding='utf-8') as f:
