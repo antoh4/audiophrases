@@ -1,0 +1,916 @@
+{
+  "language_name": "Mandarin Chinese 1",
+  "slug": "mandarin-1",
+  "sources": [
+    "https://www.livelingua.com/course/peace_corps/chinese_language_lessons"
+  ],
+  "sentences": [
+    
+    {
+      "target_language": "Zhè shì chá",
+      "english": "This is tea",
+      "target_audio": "mand3-24.mp3",
+      "english_audio": "mand3-23.mp3"
+    },
+    {
+      "target_language": "Zhè shì bēizi",
+      "english": "This is a cup",
+      "target_audio": "mand3-28.mp3",
+      "english_audio": "mand3-27.mp3"
+    },
+    {
+      "target_language": "Nà shì fàn",
+      "english": "That is rice",
+      "target_audio": "mand3-26.mp3",
+      "english_audio": "mand3-25.mp3"
+    },
+    {
+      "target_language": "Nà shì jīdàn",
+      "english": "That is an egg",
+      "target_audio": "mand3-30.mp3",
+      "english_audio": "mand3-29.mp3"
+    },
+    {
+      "target_language": "Zhè shì chá ma?",
+      "english": "Is this tea?",
+      "target_audio": "mand3-32.mp3",
+      "english_audio": "mand3-31.mp3"
+    },
+    {
+      "target_language": "Zhè shì bēizi ma?",
+      "english": "Is this a cup?",
+      "target_audio": "mand3-40.mp3",
+      "english_audio": "mand3-39.mp3"
+    },
+    {
+      "target_language": "Nà shì fàn ma?",
+      "english": "Is that rice?",
+      "target_audio": "mand3-38.mp3",
+      "english_audio": "mand3-37.mp3"
+    },
+    {
+      "target_language": "Nà shì jīdàn ma?",
+      "english": "Is that an egg?",
+      "target_audio": "mand3-42.mp3",
+      "english_audio": "mand3-41.mp3"
+    },
+    {
+      "target_language": "Shì",
+      "english": "Yes",
+      "target_audio": "mand3-35.mp3",
+      "english_audio": "mand3-33.mp3"
+    },
+    {
+      "target_language": "Bú shì",
+      "english": "No",
+      "target_audio": "mand3-36.mp3",
+      "english_audio": "mand3-34.mp3"
+    },
+    {
+      "target_language": "Zhè shì shénme?",
+      "english": "What is this?",
+      "target_audio": "mand3-44.mp3",
+      "english_audio": "mand3-43.mp3"
+    },
+    {
+      "target_language": "Nà shì shénme?",
+      "english": "What is that?",
+      "target_audio": "mand3-48.mp3",
+      "english_audio": "mand3-47.mp3"
+    },
+    {
+      "target_language": "Nà shì bēizi",
+      "english": "That is a cup",
+      "target_audio": "mand3-50.mp3",
+      "english_audio": "mand3-49.mp3"
+    },
+    {
+      "target_language": "wǒ",
+      "english": "I, me",
+      "english_audio": "mand4-03.mp3",
+      "target_audio": "mand4-04.mp3"
+    },
+    {
+      "target_language": "nǐ",
+      "english": "you (singular)",
+      "english_audio": "mand4-01.mp3",
+      "target_audio": "mand4-02.mp3"
+    },
+    {
+      "target_language": "hăo",
+      "english": "good, all right",
+      "english_audio": "mand4-05.mp3",
+      "target_audio": "mand4-06.mp3"
+    },
+    {
+      "target_language": "zàijiàn",
+      "english": "good bye",
+      "english_audio": "mand4-07.mp3",
+      "target_audio": "mand4-08.mp3"
+    },
+    {
+      "target_language": "Nǐ hăo.",
+      "english": "How are you?",
+      "english_audio": "mand4-17.mp3",
+      "target_audio": "mand4-18.mp3"
+    },
+    {
+      "target_language": "Zăo (or Zăoshàng hăo)",
+      "english": "Good morning",
+      "english_audio": "mand4-19.mp3",
+      "target_audio": "mand4-20.mp3"
+    },
+    {
+      "target_language": "Nǐ jiào shénme míngzi?",
+      "english": "What is your name?",
+      "english_audio": "mand5-27.mp3",
+      "target_audio": "mand5-28.mp3"
+    },
+    {
+      "target_language": "Qǐngwèn...",
+      "english": "May I ask...?",
+      "english_audio": "mand5-01.mp3",
+      "target_audio": "mand5-02.mp3"
+    },
+    {
+      "target_language": "Qǐngwèn, nǐ jiào shénme míngzi?",
+      "english": "May I ask your name?",
+      "english_audio": "mand5-15.mp3",
+      "target_audio": "mand5-16.mp3"
+    },
+    {
+      "target_language": "Qǐngwèn, nǐ xìng shénme?",
+      "english": "May I ask your surname?",
+      "english_audio": "mand5-19.mp3",
+      "target_audio": "mand5-20.mp3"
+    },
+    {
+      "target_language": "Wǒ jiào Zhāng Wěi.",
+      "english": "I'm called Zhang Wei.",
+      "english_audio": "mand5-17.mp3",
+      "target_audio": "mand5-18.mp3"
+    },
+    {
+      "target_language": "Wǒ jiào Wáng Jiàndé.",
+      "english": "I'm called Wang Jiande.",
+      "english_audio": "mand5-23.mp3",
+      "target_audio": "mand5-24.mp3"
+    },
+    {
+      "target_language": "Wǒ xìng Wáng,",
+      "english": "My family name is Wang.",
+      "english_audio": "mand5-21.mp3",
+      "target_audio": "mand5-22.mp3"
+    },
+    {
+      "target_language": "Nǐ ne?",
+      "english": "And you?",
+      "english_audio": "mand5-25.mp3",
+      "target_audio": "mand5-26.mp3"
+    },
+    {
+      "target_language": "Wǒ xìng Zhāng, jiào Zhāng Wěi",
+      "english": "My family name is Zhang. I am called Zhang Wei.",
+      "english_audio": "mand5-29.mp3",
+      "target_audio": "mand5-30.mp3"
+    },
+    {
+      "english": "Thank you.",
+      "target_language": "Xièxiè.",
+      "english_audio": "mand9-01.mp3",
+      "target_audio": "mand9-02.mp3"
+    },
+    {
+      "english": "You're welcome",
+      "target_language": "Búxiè.",
+      "english_audio": "mand9-03.mp3",
+      "target_audio": "mand9-04.mp3"
+    },
+    {
+      "english": "I am sorry.",
+      "target_language": "Duìbuqǐ.",
+      "english_audio": "mand9-05.mp3",
+      "target_audio": "mand9-06.mp3"
+    },
+    {
+      "english": "That's all right",
+      "target_language": "Méiguānxì.",
+      "english_audio": "mand9-07.mp3",
+      "target_audio": "mand9-08.mp3"
+    },
+    {
+      "english": "Do you speak English?",
+      "target_language": "Nǐ huìshuō yīngyǔ ma?",
+      "english_audio": "mand9-11.mp3",
+      "target_audio": "mand9-12.mp3"
+    },
+    {
+      "english": "I am an American.",
+      "target_language": "Wǒ shì měiguó rén.",
+      "english_audio": "mand9-13.mp3",
+      "target_audio": "mand9-14.mp3"
+    },
+    {
+      "english": "I don't speak Chinese.",
+      "target_language": "Wǒ búhuì hànyǔ.",
+      "english_audio": "mand9-17.mp3",
+      "target_audio": "mand9-18.mp3"
+    },
+    {
+      "english": "Do you understand?",
+      "target_language": "Nǐ néng tīngdǒng ma?",
+      "english_audio": "mand9-19.mp3",
+      "target_audio": "mand9-20.mp3"
+    },
+    {
+      "english": "I don't understand.",
+      "target_language": "Wǒ tīng bùdǒng.",
+      "english_audio": "mand9-21.mp3",
+      "target_audio": "mand9-22.mp3"
+    },
+    {
+      "english": "Please say it again.",
+      "target_language": "Qǐng zài shuō yíbiàn.",
+      "english_audio": "mand9-23.mp3",
+      "target_audio": "mand9-24.mp3"
+    },
+    {
+      "english": "Please speak slowly.",
+      "target_language": "Qǐng shuō màn yìdiăn.",
+      "english_audio": "mand9-25.mp3",
+      "target_audio": "mand9-26.mp3"
+    },
+    {
+      "english": "I am sick.",
+      "target_language": "Wǒ shēngbìng le.",
+      "english_audio": "mand10-01.mp3",
+      "target_audio": "mand10-02.mp3"
+    },
+    {
+      "english": "I have a cold.",
+      "target_language": "Wǒ gănmào le.",
+      "english_audio": "mand10-03.mp3",
+      "target_audio": "mand10-04.mp3"
+    },
+    {
+      "english": "I am allergic to this.",
+      "target_language": "Wǒ duì zhège guòmǐn.",
+      "english_audio": "mand10-05.mp3",
+      "target_audio": "mand10-06.mp3"
+    },
+    {
+      "english": "I am tired.",
+      "target_language": "Wǒ lèi le.",
+      "english_audio": "mand10-07.mp3",
+      "target_audio": "mand10-08.mp3"
+    },
+    {
+      "english": "I want to go to bed.",
+      "target_language": "Wǒ xiăng shuìjiào le.",
+      "english_audio": "mand10-09.mp3",
+      "target_audio": "mand10-10.mp3"
+    },
+    {
+      "english": "I need to go to the hospital.",
+      "target_language": "Wǒ yào dào yīyuàn.",
+      "english_audio": "mand10-13.mp3",
+      "target_audio": "mand10-14.mp3"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "target_language": "Xǐshǒujiān zài nă?",
+      "english_audio": "mand10-11.mp3",
+      "target_audio": "mand10-12.mp3"
+    },
+    {
+      "english": "May I ask where the hospital is?",
+      "target_language": "Qǐngwèn, yīyuàn zài nă?",
+      "english_audio": "mand10-15.mp3",
+      "target_audio": "mand10-16.mp3"
+    },
+    {
+      "english": "Help!",
+      "target_language": "Jiù mìng!",
+      "english_audio": "mand10-17.mp3",
+      "target_audio": "mand10-18.mp3"
+    },
+    {
+      "english": "Police!",
+      "target_language": "Jǐngchá!",
+      "english_audio": "mand10-19.mp3",
+      "target_audio": "mand10-20.mp3"
+    },
+    {
+      "english": "May I use your telephone?",
+      "target_language": "Wǒ kěyǐ yòng nǐde diànhuà ma?",
+      "english_audio": "mand10-21.mp3",
+      "target_audio": "mand10-22.mp3"
+    },
+    {
+      "english": "I need to call the police 110.",
+      "target_language": "Wǒ yào dă yāo-yāo-líng",
+      "english_audio": "mand10-23.mp3",
+      "target_audio": "mand10-24.mp3"
+    },
+    {
+      "english": "Where is the...?",
+      "target_language": "...zài năr?",
+      "english_audio": "mand11-01.mp3",
+      "target_audio": "mand11-02.mp3"
+    },
+    {
+      "english": "Excuse me, how much is this?",
+      "target_language": "Qǐng wèn, zhège duōshăo qián?",
+      "english_audio": "mand6-47.mp3",
+      "target_audio": "mand6-48.mp3"
+    },
+    {
+      "english": "I want this one. Thanks.",
+      "target_language": "Wǒ yào zhège. Xièxiè",
+      "english_audio": "mand6-51.mp3",
+      "target_audio": "mand6-52.mp3"
+    },
+    {
+      "english": "What do you want to buy?",
+      "target_language": "Nǐ yào măi shénme?",
+      "english_audio": "mand6-53.mp3",
+      "target_audio": "mand6-54.mp3"
+    },
+    {
+      "english": "I want to buy mineral water. How much is it (per bottle)?",
+      "target_language": "Wǒ yào măi kuàngquánshuǐ.Duōshăo qián yì- píng?",
+      "english_audio": "mand6-55.mp3",
+      "target_audio": "mand6-56.mp3"
+    },
+    {
+      "english": "Two-sixty. How many bottles do you want?",
+      "target_language": "Liăng-kuài-liù. Yào jǐ-píng?",
+      "english_audio": "mand6-57.mp3",
+      "target_audio": "mand6-58.mp3"
+    },
+    {
+      "english": "this",
+      "target_language": "zhège",
+      "english_audio": "mand6-61.mp3",
+      "target_audio": "mand6-62.mp3"
+    },
+    {
+      "english": "that",
+      "target_language": "nàge",
+      "english_audio": "mand6-63.mp3",
+      "target_audio": "mand6-64.mp3"
+    },
+    {
+      "english": "which",
+      "target_language": "năge",
+      "english_audio": "mand6-65.mp3",
+      "target_audio": "mand6-66.mp3"
+    },
+    {
+      "english": "how much? how many?",
+      "target_language": "duōshăo",
+      "english_audio": "mand6-67.mp3",
+      "target_audio": "mand6-68.mp3"
+    },
+    {
+      "english": "money",
+      "target_language": "qián",
+      "english_audio": "mand6-69.mp3",
+      "target_audio": "mand6-70.mp3"
+    },
+    {
+      "english": "'dollar' or Chinese yuan",
+      "target_language": "kuài (yuán is slightly more formal)",
+      "english_audio": "mand6-71.mp3",
+      "target_audio": "mand6-72.mp3"
+    },
+    {
+      "english": "want",
+      "target_language": "yào",
+      "english_audio": "mand6-73.mp3",
+      "target_audio": "mand6-74.mp3"
+    },
+    {
+      "english": "thanks, thank you",
+      "target_language": "xièxie",
+      "english_audio": "mand6-75.mp3",
+      "target_audio": "mand6-76.mp3"
+    },
+    {
+      "english": "rice",
+      "target_language": "mǐfàn",
+      "english_audio": "mand7-01.mp3",
+      "target_audio": "mand7-02.mp3"
+    },
+    {
+      "english": "noodle",
+      "target_language": "miàntiáo",
+      "english_audio": "mand7-03.mp3",
+      "target_audio": "mand7-04.mp3"
+    },
+    {
+      "english": "dumpling",
+      "target_language": "jiăozi",
+      "english_audio": "mand7-05.mp3",
+      "target_audio": "mand7-06.mp3"
+    },
+    {
+      "english": "bread",
+      "target_language": "miànbāo",
+      "english_audio": "mand7-07.mp3",
+      "target_audio": "mand7-08.mp3"
+    },
+    {
+      "english": "vegetable",
+      "target_language": "shūcài",
+      "english_audio": "mand7-09.mp3",
+      "target_audio": "mand7-10.mp3"
+    },
+    {
+      "english": "pork",
+      "target_language": "zhūròu",
+      "english_audio": "mand7-11.mp3",
+      "target_audio": "mand7-12.mp3"
+    },
+    {
+      "english": "beef",
+      "target_language": "niúròu",
+      "english_audio": "mand7-13.mp3",
+      "target_audio": "mand7-14.mp3"
+    },
+    {
+      "english": "fish",
+      "target_language": "yú",
+      "english_audio": "mand7-15.mp3",
+      "target_audio": "mand7-16.mp3"
+    },
+    {
+      "english": "water",
+      "target_language": "shuǐ",
+      "english_audio": "mand7-17.mp3",
+      "target_audio": "mand7-18.mp3"
+    },
+    {
+      "english": "mineral water",
+      "target_language": "kuàngquănshuǐ",
+      "english_audio": "mand7-19.mp3",
+      "target_audio": "mand7-20.mp3"
+    },
+    {
+      "english": "coffee",
+      "target_language": "kāfēi",
+      "english_audio": "mand7-21.mp3",
+      "target_audio": "mand7-22.mp3"
+    },
+    {
+      "english": "tea",
+      "target_language": "chá",
+      "english_audio": "mand7-23.mp3",
+      "target_audio": "mand7-24.mp3"
+    },
+    {
+      "english": "milk",
+      "target_language": "niúnăi.",
+      "english_audio": "mand7-25.mp3",
+      "target_audio": "mand7-26.mp3"
+    },
+    {
+      "english": "juice",
+      "target_language": "guǒ zhī.",
+      "english_audio": "mand7-27.mp3",
+      "target_audio": "mand7-28.mp3"
+    },
+    {
+      "english": "beer",
+      "target_language": "píjiǔ",
+      "english_audio": "mand7-29.mp3",
+      "target_audio": "mand7-30.mp3"
+    },
+    {
+      "english": "yogurt",
+      "target_language": "suānnăi",
+      "english_audio": "mand7-31.mp3",
+      "target_audio": "mand7-32.mp3"
+    },
+    {
+      "english": "bowl",
+      "target_language": "wăn",
+      "english_audio": "mand7-33.mp3",
+      "target_audio": "mand7-34.mp3"
+    },
+    {
+      "english": "plate",
+      "target_language": "pánzi",
+      "english_audio": "mand7-35.mp3",
+      "target_audio": "mand7-36.mp3"
+    },
+    {
+      "english": "cup",
+      "target_language": "bēizi; píngzi",
+      "english_audio": "mand7-37.mp3",
+      "target_audio": "mand7-38.mp3"
+    },
+    {
+      "english": "sugar",
+      "target_language": "táng",
+      "english_audio": "mand7-39.mp3",
+      "target_audio": "mand7-40.mp3"
+    },
+    {
+      "english": "salt",
+      "target_language": "yán",
+      "english_audio": "mand7-41.mp3",
+      "target_audio": "mand7-42.mp3"
+    },
+    {
+      "english": "chili",
+      "target_language": "làjiāo",
+      "english_audio": "mand7-43.mp3",
+      "target_audio": "mand7-44.mp3"
+    },
+    {
+      "english": "oil",
+      "target_language": "yóu",
+      "english_audio": "mand7-45.mp3",
+      "target_audio": "mand7-46.mp3"
+    },
+    {
+      "english": "MSG",
+      "target_language": "wèijing",
+      "english_audio": "mand7-47.mp3",
+      "target_audio": "mand7-48.mp3"
+    },
+    {
+      "english": "hot",
+      "target_language": "rède; tàngde",
+      "english_audio": "mand7-49.mp3",
+      "target_audio": "mand7-50.mp3"
+    },
+    {
+      "english": "iced",
+      "target_language": "bīngdòngde",
+      "english_audio": "mand7-51.mp3",
+      "target_audio": "mand7-52.mp3"
+    },
+    {
+      "english": "and",
+      "target_language": "hé",
+      "english_audio": "mand7-53.mp3",
+      "target_audio": "mand7-54.mp3"
+    },
+    {
+      "english": "I'd like to have noodles",
+      "target_language": "Wǒ yào miàntiáo.",
+      "english_audio": "mand7-55.mp3",
+      "target_audio": "mand7-56.mp3"
+    },
+    {
+      "english": "I don't want noodles",
+      "target_language": "Wǒ búyào miàntiáo.",
+      "english_audio": "mand7-57.mp3",
+      "target_audio": "mand7-58.mp3"
+    },
+    {
+      "english": "Do you have... or not?",
+      "target_language": "Yǒu méiyǒu...?",
+      "english_audio": "mand7-59.mp3",
+      "target_audio": "mand7-60.mp3"
+    },
+    {
+      "english": "Don't make it too hot.",
+      "target_language": "Búyào tài là.",
+      "english_audio": "mand7-61.mp3",
+      "target_audio": "mand7-62.mp3"
+    },
+    {
+      "english": "I like dumplings.",
+      "target_language": "Wǒ xǐhuān jiăozi.",
+      "english_audio": "mand7-63.mp3",
+      "target_audio": "mand7-64.mp3"
+    },
+    {
+      "english": "I don't like rice.",
+      "target_language": "Wǒ bùxǐhuān mǐfàn.",
+      "english_audio": "mand7-65.mp3",
+      "target_audio": "mand7-66.mp3"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "target_language": "Măidān/Suànzhàng",
+      "english_audio": "mand7-67.mp3",
+      "target_audio": "mand7-68.mp3"
+    },
+    {
+      "english": "shop",
+      "target_language": "shāngdiàn",
+      "english_audio": "mand11-17.mp3",
+      "target_audio": "mand11-18.mp3"
+    },
+    {
+      "english": "street",
+      "target_language": "jiē(dào)",
+      "english_audio": "mand11-19.mp3",
+      "target_audio": "mand11-20.mp3"
+    },
+    {
+      "english": "restaurant",
+      "target_language": "fànguăn",
+      "english_audio": "mand11-21.mp3",
+      "target_audio": "mand11-22.mp3"
+    },
+    {
+      "english": "school",
+      "target_language": "xuéxiào",
+      "english_audio": "mand11-23.mp3",
+      "target_audio": "mand11-24.mp3"
+    },
+    {
+      "english": "bus station",
+      "target_language": "chēzhàn",
+      "english_audio": "mand11-29.mp3",
+      "target_audio": "mand11-30.mp3"
+    },
+    {
+      "english": "railway station",
+      "target_language": "huǒchēzhàn",
+      "english_audio": "mand11-31.mp3",
+      "target_audio": "mand11-32.mp3"
+    },
+    {
+      "english": "Clothes",
+      "target_language": "Yīfu",
+      "english_audio": "mand12-01.mp3",
+      "target_audio": "mand12-02.mp3"
+    },
+    {
+      "english": "pants",
+      "target_language": "kùzi",
+      "english_audio": "mand12-03.mp3",
+      "target_audio": "mand12-04.mp3"
+    },
+    {
+      "english": "shirt",
+      "target_language": "chènshān",
+      "english_audio": "mand12-07.mp3",
+      "target_audio": "mand12-08.mp3"
+    },
+    {
+      "english": "skirt",
+      "target_language": "qúnzi",
+      "english_audio": "mand12-09.mp3",
+      "target_audio": "mand12-10.mp3"
+    },
+    {
+      "english": "jacket",
+      "target_language": "jiákè",
+      "english_audio": "mand12-11.mp3",
+      "target_audio": "mand12-12.mp3"
+    },
+    {
+      "english": "shoes",
+      "target_language": "xié",
+      "english_audio": "mand12-13.mp3",
+      "target_audio": "mand12-14.mp3"
+    },
+    {
+      "english": "Colors",
+      "target_language": "yánsè",
+      "english_audio": "mand12-19.mp3",
+      "target_audio": "mand12-20.mp3"
+    },
+    {
+      "english": "mother",
+      "target_language": "māma",
+      "english_audio": "mand14-01.mp3",
+      "target_audio": "mand14-02.mp3"
+    },
+    {
+      "english": "father",
+      "target_language": "bàba",
+      "english_audio": "mand14-03.mp3",
+      "target_audio": "mand14-04.mp3"
+    },
+    {
+      "english": "older sister",
+      "target_language": "jiějie",
+      "english_audio": "mand14-05.mp3",
+      "target_audio": "mand14-06.mp3"
+    },
+    {
+      "english": "younger sister",
+      "target_language": "mèimei",
+      "english_audio": "mand14-07.mp3",
+      "target_audio": "mand14-08.mp3"
+    },
+    {
+      "english": "older brother",
+      "target_language": "gēge",
+      "english_audio": "mand14-09.mp3",
+      "target_audio": "mand14-10.mp3"
+    },
+    {
+      "english": "younger brother",
+      "target_language": "dìdi",
+      "english_audio": "mand14-11.mp3",
+      "target_audio": "mand14-12.mp3"
+    },
+    {
+      "english": "daughter",
+      "target_language": "nǚ'er",
+      "english_audio": "mand14-13.mp3",
+      "target_audio": "mand14-14.mp3"
+    },
+    {
+      "english": "son",
+      "target_language": "érzi",
+      "english_audio": "mand14-15.mp3",
+      "target_audio": "mand14-16.mp3"
+    },
+    {
+      "english": "grandmother",
+      "target_language": "năinai",
+      "english_audio": "mand14-17.mp3",
+      "target_audio": "mand14-18.mp3"
+    },
+    {
+      "english": "grandfather",
+      "target_language": "yéye",
+      "english_audio": "mand14-19.mp3",
+      "target_audio": "mand14-20.mp3"
+    },
+    {
+      "english": "niece",
+      "target_language": "zhínǚ",
+      "english_audio": "mand14-21.mp3",
+      "target_audio": "mand14-22.mp3"
+    },
+    {
+      "english": "nephew",
+      "target_language": "zhízi",
+      "english_audio": "mand14-23.mp3",
+      "target_audio": "mand14-24.mp3"
+    },
+    {
+      "english": "man",
+      "target_language": "nánrén",
+      "english_audio": "mand14-25.mp3",
+      "target_audio": "mand14-26.mp3"
+    },
+    {
+      "english": "woman",
+      "target_language": "nǚrén",
+      "english_audio": "mand14-27.mp3",
+      "target_audio": "mand14-28.mp3"
+    },
+    {
+      "english": "boy",
+      "target_language": "nánhái'r",
+      "english_audio": "mand14-29.mp3",
+      "target_audio": "mand14-30.mp3"
+    },
+    {
+      "english": "girl",
+      "target_language": "nǚhái'r",
+      "english_audio": "mand14-31.mp3",
+      "target_audio": "mand14-32.mp3"
+    },
+    {
+      "english": "glass / cup",
+      "target_language": "bēizi",
+      "english_audio": "mand15-01.mp3",
+      "target_audio": "mand15-02.mp3"
+    },
+    {
+      "english": "chopsticks",
+      "target_language": "kuàizi",
+      "english_audio": "mand15-03.mp3",
+      "target_audio": "mand15-04.mp3"
+    },
+    {
+      "english": "bowl",
+      "target_language": "wăn",
+      "english_audio": "mand15-05.mp3",
+      "target_audio": "mand15-06.mp3"
+    },
+    {
+      "english": "plate",
+      "target_language": "pánzi",
+      "english_audio": "mand15-07.mp3",
+      "target_audio": "mand15-08.mp3"
+    },
+    {
+      "english": "spoon",
+      "target_language": "tāngshí",
+      "english_audio": "mand15-09.mp3",
+      "target_audio": "mand15-10.mp3"
+    },
+    {
+      "english": "fork",
+      "target_language": "chāzi",
+      "english_audio": "mand15-11.mp3",
+      "target_audio": "mand15-12.mp3"
+    },
+    {
+      "english": "knife",
+      "target_language": "dāo",
+      "english_audio": "mand15-13.mp3",
+      "target_audio": "mand15-14.mp3"
+    },
+    {
+      "english": "table",
+      "target_language": "zhuōzi",
+      "english_audio": "mand15-15.mp3",
+      "target_audio": "mand15-16.mp3"
+    },
+    {
+      "english": "chair",
+      "target_language": "yǐzi",
+      "english_audio": "mand15-17.mp3",
+      "target_audio": "mand15-18.mp3"
+    },
+    {
+      "english": "door",
+      "target_language": "mén",
+      "english_audio": "mand15-19.mp3",
+      "target_audio": "mand15-20.mp3"
+    },
+    {
+      "english": "window",
+      "target_language": "chuāng",
+      "english_audio": "mand15-21.mp3",
+      "target_audio": "mand15-22.mp3"
+    },
+    {
+      "english": "home",
+      "target_language": "jiā",
+      "english_audio": "mand15-23.mp3",
+      "target_audio": "mand15-24.mp3"
+    },
+    {
+      "english": "hotel",
+      "target_language": "bīnguăn",
+      "english_audio": "mand15-25.mp3",
+      "target_audio": "mand15-26.mp3"
+    },
+    {
+      "english": "room",
+      "target_language": "fángjiān",
+      "english_audio": "mand15-27.mp3",
+      "target_audio": "mand15-28.mp3"
+    },
+    {
+      "english": "bathroom",
+      "target_language": "wèishēng jiān/cèsuǒ",
+      "english_audio": "mand15-29.mp3",
+      "target_audio": "mand15-30.mp3"
+    },
+    {
+      "english": "toilet",
+      "target_language": "mătǒng",
+      "english_audio": "mand15-31.mp3",
+      "target_audio": "mand15-32.mp3"
+    },
+    {
+      "english": "toilet paper",
+      "target_language": "wèishēng zhǐ",
+      "english_audio": "mand15-33.mp3",
+      "target_audio": "mand15-34.mp3"
+    },
+    {
+      "english": "soap",
+      "target_language": "féizào",
+      "english_audio": "mand15-35.mp3",
+      "target_audio": "mand15-36.mp3"
+    },
+    {
+      "english": "towel",
+      "target_language": "máojīn",
+      "english_audio": "mand15-37.mp3",
+      "target_audio": "mand15-38.mp3"
+    },
+    {
+      "english": "bed",
+      "target_language": "chuáng",
+      "english_audio": "mand15-39.mp3",
+      "target_audio": "mand15-40.mp3"
+    },
+    {
+      "english": "bed sheet",
+      "target_language": "chuángdān",
+      "english_audio": "mand15-41.mp3",
+      "target_audio": "mand15-42.mp3"
+    },
+    {
+      "english": "blanket",
+      "target_language": "tănzi",
+      "english_audio": "mand15-43.mp3",
+      "target_audio": "mand15-44.mp3"
+    },
+    {
+      "english": "pillow",
+      "target_language": "zhěntou",
+      "english_audio": "mand15-45.mp3",
+      "target_audio": "mand15-46.mp3"
+    }
+  ]
+}

@@ -12,7 +12,7 @@ os.makedirs(output_audio_dir, exist_ok=True)
 os.makedirs(tmp_dir, exist_ok=True)
 
 # List all json files in the languages directory
-json_files = [f for f in os.listdir(languages_dir) if f.endswith('.json')]
+json_files = sorted([f for f in os.listdir(languages_dir) if f.endswith('.json')])
 
 
 print(f"Found {len(json_files)} JSON files in '{languages_dir}': {json_files}\n")
@@ -29,7 +29,7 @@ html_content = """<!doctype html>
 <h1>Language learning audio phrases</h1>
 <p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>
 <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
-<p>The courses are made to be listened multiple times (for instance while going on walks), make your memory work (mix of repetition and recall), and get used to the sonorities of the language.</p>"""
+<p>The courses are made to be listened multiple times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
 
 # Iterate and parse each json file
 for json_file in json_files:
@@ -49,8 +49,8 @@ for json_file in json_files:
             english_audio_filename = sentence["english_audio"]
 
             # Assuming target audio files are in a subdirectory named after the slug within languages_dir
-            target_audio_path = os.path.join(languages_dir, language_slug, target_audio_filename)
-            english_audio_path = os.path.join(languages_dir, language_slug, english_audio_filename)
+            target_audio_path = os.path.join(languages_dir, "individual_audios", target_audio_filename)
+            english_audio_path = os.path.join(languages_dir, "individual_audios", english_audio_filename)
 
             if not os.path.exists(target_audio_path):
                 print(f"WARNING: target audio file not found: {target_audio_path}. Skipping this sentence.")
