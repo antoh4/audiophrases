@@ -44,6 +44,13 @@ for json_file in json_files:
         course_audio = AudioSegment.empty()
         silence = AudioSegment.silent(duration=2000) # ms
 
+        sentences_table = """<details>
+            <summary>Show detail of sentences</summary><table>
+            <tr>
+                <th>Target language</th>
+                <th>English</th>
+            </tr>"""
+
         for i, sentence in enumerate(data['sentences']):
             target_audio_filename = sentence["target_audio"]
             english_audio_filename = sentence["english_audio"]
@@ -67,6 +74,13 @@ for json_file in json_files:
             combined_sentence_audio = target_audio + silence + english_audio + silence
             course_audio += combined_sentence_audio
 
+            sentences_table += f"""<tr>
+                    <td>{sentence["target_language"]}</td>
+                    <td>{sentence["english"]}</td>
+                </tr>"""
+
+        sentences_table += """</table></details>"""
+
         # Export the final course audio
         output_filename = f"{language_slug}_course.mp3"
         output_filepath = os.path.join(output_audio_dir, output_filename)
@@ -84,8 +98,11 @@ for json_file in json_files:
             </audio>
             <br>
             <a href="{site_output_filepath}" download>Download course</a>
-            <p>Audio source: <a href={data['sources'][0]}>{data['sources'][0]}</a></p>
-        </div>"""
+            <p><small>Audio source: <a href={data['sources'][0]}>{data['sources'][0]}</a></small></p>"""
+
+        html_content += sentences_table
+
+        html_content += """</div>"""
 
 print("\nAll courses processed.")
 
