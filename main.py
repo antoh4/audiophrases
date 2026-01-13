@@ -2,7 +2,6 @@ import json
 import os
 from pydub import AudioSegment
 from pydub.silence import *
-from datetime import datetime
 
 languages_dir = 'languages'
 output_audio_dir = '_site/course'
@@ -83,8 +82,7 @@ for json_file in json_files:
         sentences_table += """</table></details>"""
 
         # Export the final course audio
-        date_stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_filename = f"{language_slug}_course_{date_stamp}.mp3"
+        output_filename = f"{language_slug}_course.mp3"
         output_filepath = os.path.join(output_audio_dir, output_filename)
         site_output_filepath = os.path.join('course', output_filename)
         course_audio = course_audio.set_frame_rate(22050)
@@ -99,7 +97,6 @@ for json_file in json_files:
                 Your browser does not support the audio element.
             </audio>
             <br>
-            <a href="{site_output_filepath}" download>Download course</a>
             <p><small>Audio source: <a href={data['sources'][0]}>{data['sources'][0]}</a></small></p>"""
 
         html_content += sentences_table
@@ -108,7 +105,7 @@ for json_file in json_files:
 
 print("\nAll courses processed.")
 
-html_content += """<br><hr><a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a>. <p>The courses are built by extracting and organizing content from other existing public domain sources. Those external sources have their link provided.</p></body>
+html_content += """<br><hr><small><p>The courses are built by extracting and organizing content from other existing public domain sources. Those external sources have their link provided. <a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a>.</p></small></body>
 </html>"""
 
 with open("_site/index.html", 'w', encoding='utf-8') as f:
