@@ -2,6 +2,7 @@ import json
 import os
 from pydub import AudioSegment
 from pydub.silence import *
+from datetime import datetime
 
 languages_dir = 'languages'
 output_audio_dir = '_site/course'
@@ -27,7 +28,7 @@ html_content = """<!doctype html>
   </head>
 <body>
 <h1>Language learning audio phrases</h1>
-<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world.</p>
+<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
 <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
 <p>The courses are made to be listened multiple times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
 
@@ -82,7 +83,8 @@ for json_file in json_files:
         sentences_table += """</table></details>"""
 
         # Export the final course audio
-        output_filename = f"{language_slug}_course.mp3"
+        date_stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_filename = f"{language_slug}_course_{date_stamp}.mp3"
         output_filepath = os.path.join(output_audio_dir, output_filename)
         site_output_filepath = os.path.join('course', output_filename)
         course_audio = course_audio.set_frame_rate(22050)
