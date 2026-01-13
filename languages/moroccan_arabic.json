@@ -1,0 +1,1047 @@
+{
+  "language_name": "Moroccan Arabic",
+  "slug": "moroccan",
+  "sources": [
+    "https://www.livelingua.com/course/peace-corps/arabic-moroccan-language-primer"
+  ],
+  "sentences": [
+    {
+      "english": "Peace be upon you",
+      "target_language": "s-salamu عalaykum",
+      "english_audio": "moro1-01.mp3",
+      "target_audio": "moro1-02.mp3"
+    },
+    {
+      "english": "And peace be upon you (too)",
+      "target_language": "wa عalaykum s-salam",
+      "english_audio": "moro1-03.mp3",
+      "target_audio": "moro1-04.mp3"
+    },
+    {
+      "english": "good morning",
+      "target_language": "ṣbaн l-xir",
+      "english_audio": "moro1-05.mp3",
+      "target_audio": "moro1-06.mp3"
+    },
+    {
+      "english": "Good afternoon / evening",
+      "target_language": "msa l-xir",
+      "english_audio": "moro1-07.mp3",
+      "target_audio": "moro1-08.mp3"
+    },
+    {
+      "english": "name",
+      "target_language": "smiya",
+      "english_audio": "moro1-09.mp3",
+      "target_audio": "moro1-10.mp3"
+    },
+    {
+      "english": "What's your name?",
+      "target_language": "šnu smitk?",
+      "english_audio": "moro1-11.mp3",
+      "target_audio": "moro1-12.mp3"
+    },
+    {
+      "english": "my name... ",
+      "target_language": "smiti...",
+      "english_audio": "moro1-13.mp3",
+      "target_audio": "moro1-14.mp3"
+    },
+    {
+      "english": "your name...",
+      "target_language": "smitk...",
+      "english_audio": "moro1-15.mp3",
+      "target_audio": "moro1-16.mp3"
+    },
+    {
+      "english": "his name...",
+      "target_language": "smitu...",
+      "english_audio": "moro1-17.mp3",
+      "target_audio": "moro1-18.mp3"
+    },
+    {
+      "english": "her name...",
+      "target_language": "smitha...",
+      "english_audio": "moro1-19.mp3",
+      "target_audio": "moro1-20.mp3"
+    },
+    {
+      "english": "Nice to meet you.",
+      "target_language": "mtšrfin",
+      "english_audio": "moro1-21.mp3",
+      "target_audio": "moro1-22.mp3"
+    },
+    {
+      "english": "How are you (masc.)?",
+      "target_language": "kif dayr?",
+      "english_audio": "moro1-23.mp3",
+      "target_audio": "moro1-24.mp3"
+    },
+    {
+      "english": "How are you (fem.)?",
+      "target_language": "kif dayra?",
+      "english_audio": "moro1-25.mp3",
+      "target_audio": "moro1-26.mp3"
+    },
+    {
+      "english": "Are you fine?",
+      "target_language": "labas?",
+      "english_audio": "moro1-27.mp3",
+      "target_audio": "moro1-28.mp3"
+    },
+    {
+      "english": "Good, thanks be to God.",
+      "target_language": "labas, l-нamdullah",
+      "english_audio": "moro1-29.mp3",
+      "target_audio": "moro1-30.mp3"
+    },
+    {
+      "english": "Good, thanks be to God.",
+      "target_language": "bixir, l-нamdullah",
+      "english_audio": "moro1-31.mp3",
+      "target_audio": "moro1-32.mp3"
+    },
+    {
+      "english": "Everything is fine.",
+      "target_language": "kulši bixir",
+      "english_audio": "moro1-33.mp3",
+      "target_audio": "moro1-34.mp3"
+    },
+    {
+      "english": "Good-bye",
+      "target_language": "bslama",
+      "english_audio": "moro1-35.mp3",
+      "target_audio": "moro1-36.mp3"
+    },
+    {
+      "english": "Good night",
+      "target_language": "layla saعida",
+      "english_audio": "moro1-37.mp3",
+      "target_audio": "moro1-38.mp3"
+    },
+    {
+      "english": "Where are you (masc.) from?",
+      "target_language": "mnin nta?",
+      "english_audio": "moro4-01.mp3",
+      "target_audio": "moro4-02.mp3"
+    },
+    {
+      "english": "Where are you (fem.) from?",
+      "target_language": "mnin nti?",
+      "english_audio": "moro4-03.mp3",
+      "target_audio": "moro4-04.mp3"
+    },
+    {
+      "english": "I am from the U.S.",
+      "target_language": "ana mn mirikan.",
+      "english_audio": "moro4-05.mp3",
+      "target_audio": "moro4-06.mp3"
+    },
+    {
+      "english": "I am American. (masc.)",
+      "target_language": "ana mirikani.",
+      "english_audio": "moro4-07.mp3",
+      "target_audio": "moro4-08.mp3"
+    },
+    {
+      "english": "I am American. (fem.)",
+      "target_language": "ana mirikaniya.",
+      "english_audio": "moro4-09.mp3",
+      "target_audio": "moro4-10.mp3"
+    },
+    {
+      "english": "I am from Morocco.",
+      "target_language": "ana mn l-mġrib.",
+      "english_audio": "moro4-11.mp3",
+      "target_audio": "moro4-12.mp3"
+    },
+    {
+      "english": "I am Moroccan. (masc.)",
+      "target_language": "ana mġribi.",
+      "english_audio": "moro4-13.mp3",
+      "target_audio": "moro4-14.mp3"
+    },
+    {
+      "english": "I am Moroccan. (fem.)",
+      "target_language": "ana mġribiya.",
+      "english_audio": "moro4-15.mp3",
+      "target_audio": "moro4-16.mp3"
+    },
+    {
+      "english": "Are you ... ? (fem.)",
+      "target_language": "weš nti ... ?َ",
+      "english_audio": "moro4-17.mp3",
+      "target_audio": "moro4-18.mp3"
+    },
+    {
+      "english": "Are you ... ? (masc.)",
+      "target_language": "weš nta ... ?َ",
+      "english_audio": "moro4-19.mp3",
+      "target_audio": "moro4-20.mp3"
+    },
+    {
+      "english": "Are you from the U.S.? (masc.)",
+      "target_language": "weš nta mn mirikan?َ",
+      "english_audio": "moro4-21.mp3",
+      "target_audio": "moro4-22.mp3"
+    },
+    {
+      "english": "Are you from the U.S.? (fem.)",
+      "target_language": "weš nti mn mirikan?َ",
+      "english_audio": "moro4-23.mp3",
+      "target_audio": "moro4-24.mp3"
+    },
+    {
+      "english": "Where are you from in the U.S.? (masc.)",
+      "target_language": "mnin nta f mirikan?َ",
+      "english_audio": "moro4-25.mp3",
+      "target_audio": "moro4-26.mp3"
+    },
+    {
+      "english": "Where are you from in the U.S.? (fem.)",
+      "target_language": "mnin nti f mirikan?َ",
+      "english_audio": "moro4-27.mp3",
+      "target_audio": "moro4-28.mp3"
+    },
+    {
+      "english": "And you? (fem.)",
+      "target_language": "u nti?َ",
+      "english_audio": "moro4-29.mp3",
+      "target_audio": "moro4-30.mp3"
+    },
+    {
+      "english": "And you? (masc.)",
+      "target_language": "u nti?َ",
+      "english_audio": "moro4-31.mp3",
+      "target_audio": "moro4-32.mp3"
+    },
+    {
+      "english": "city",
+      "target_language": "mdina",
+      "english_audio": "moro4-33.mp3",
+      "target_audio": "moro4-34.mp3"
+    },
+    {
+      "english": "big (fem.)",
+      "target_language": "kbira",
+      "english_audio": "moro4-35.mp3",
+      "target_audio": "moro4-36.mp3"
+    },
+    {
+      "english": "small (fem.)",
+      "target_language": "ṣġira",
+      "english_audio": "moro4-37.mp3",
+      "target_audio": "moro4-38.mp3"
+    },
+    {
+      "english": "Excuse me. (to man)",
+      "target_language": "smн li",
+      "english_audio": "moro4-39.mp3",
+      "target_audio": "moro4-40.mp3"
+    },
+    {
+      "english": "Excuse me. (to woman)",
+      "target_language": "smнi li",
+      "english_audio": "moro4-41.mp3",
+      "target_audio": "moro4-42.mp3"
+    },
+    {
+      "english": "I am not ...",
+      "target_language": "ana maši ...",
+      "english_audio": "moro4-43.mp3",
+      "target_audio": "moro4-44.mp3"
+    },
+    {
+      "english": "but",
+      "target_language": "welakin",
+      "english_audio": "moro4-45.mp3",
+      "target_audio": "moro4-46.mp3"
+    },
+    {
+      "english": "engaged (fem.)",
+      "target_language": "mxṭuba",
+      "english_audio": "moro4-47.mp3",
+      "target_audio": "moro4-48.mp3"
+    },
+    {
+      "english": "married (masc.)",
+      "target_language": "mzuwja",
+      "english_audio": "moro4-49.mp3",
+      "target_audio": "moro4-50.mp3"
+    },
+    {
+      "english": "married (fem.)",
+      "target_language": "mzuwja",
+      "english_audio": "moro4-51.mp3",
+      "target_audio": "moro4-52.mp3"
+    },
+    {
+      "english": "No, not yet.",
+      "target_language": "lla mazal / lla baqi",
+      "english_audio": "moro4-53.mp3",
+      "target_audio": "moro4-54.mp3"
+    },
+    {
+      "english": "Are you a tourist? (masc.)",
+      "target_language": "weš nta turist?َ",
+      "english_audio": "moro4-55.mp3",
+      "target_audio": "moro4-56.mp3"
+    },
+    {
+      "english": "Are you a tourist? (fem.)",
+      "target_language": "weš nti turist?َ",
+      "english_audio": "moro4-57.mp3",
+      "target_audio": "moro4-58.mp3"
+    },
+    {
+      "english": "In the name of God (said when you begin an activity: eating, drinking, working, studying, traveling, etc.) .",
+      "target_language": "bismillah",
+      "english_audio": "moro7-01.mp3",
+      "target_audio": "moro7-02.mp3"
+    },
+    {
+      "english": "Thanks to God (said after finishing a meal, or after expressing that all is well in life).",
+      "target_language": "l-нamdullah",
+      "english_audio": "moro7-03.mp3",
+      "target_audio": "moro7-04.mp3"
+    },
+    {
+      "english": "I don't eat meat",
+      "target_language": "ma-kan-akul-š l-lнm",
+      "english_audio": "moro7-05.mp3",
+      "target_audio": "moro7-06.mp3"
+    },
+    {
+      "english": "I don't eat eggs",
+      "target_language": "ma-kan-akul-š l-biḍ",
+      "english_audio": "moro7-07.mp3",
+      "target_audio": "moro7-08.mp3"
+    },
+    {
+      "english": "I don't eat fish",
+      "target_language": "ma-kan-akul-š l-нut",
+      "english_audio": "moro7-09.mp3",
+      "target_audio": "moro7-10.mp3"
+    },
+    {
+      "english": "I don't eat chicken",
+      "target_language": "ma-kan-akul-š d-djaj",
+      "english_audio": "moro7-11.mp3",
+      "target_audio": "moro7-12.mp3"
+    },
+    {
+      "english": "I drink tea",
+      "target_language": "kan-šrb atay",
+      "english_audio": "moro7-13.mp3",
+      "target_audio": "moro7-14.mp3"
+    },
+    {
+      "english": "I drink coffee without sugar.",
+      "target_language": "l-qhwa bla skkar",
+      "english_audio": "moro7-15.mp3",
+      "target_audio": "moro7-16.mp3"
+    },
+    {
+      "english": "I eat everything.",
+      "target_language": "kan-akul kulši",
+      "english_audio": "moro7-17.mp3",
+      "target_audio": "moro7-18.mp3"
+    },
+    {
+      "english": "I eat vegetables only.",
+      "target_language": "kan-akul ġir l-xoḍ ra.",
+      "english_audio": "moro7-19.mp3",
+      "target_audio": "moro7-20.mp3"
+    },
+    {
+      "english": "I don't feel like eating.",
+      "target_language": "ma-fiya ma-y-akul.",
+      "english_audio": "moro7-21.mp3",
+      "target_audio": "moro7-22.mp3"
+    },
+    {
+      "english": "I want just/only ...",
+      "target_language": "bġit ġir ...",
+      "english_audio": "moro7-23.mp3",
+      "target_audio": "moro7-24.mp3"
+    },
+    {
+      "english": "I don't want to have breakfast.",
+      "target_language": "ma-bġit-š n-fṭ r.",
+      "english_audio": "moro7-25.mp3",
+      "target_audio": "moro7-26.mp3"
+    },
+    {
+      "english": "The food is delicious.",
+      "target_language": "l-makla bnina.",
+      "english_audio": "moro7-27.mp3",
+      "target_audio": "moro7-28.mp3"
+    },
+    {
+      "english": "I'm full.",
+      "target_language": "šbعt.",
+      "english_audio": "moro7-29.mp3",
+      "target_audio": "moro7-30.mp3"
+    },
+    {
+      "english": "I want to learn how to cook.",
+      "target_language": "bġit n-tعllm n-ṭ iyb",
+      "english_audio": "moro7-31.mp3",
+      "target_audio": "moro7-32.mp3"
+    },
+    {
+      "english": "May God replenish / reward you. (said after a meal to thank host)",
+      "target_language": "lla y-xlf.",
+      "english_audio": "moro7-33.mp3",
+      "target_audio": "moro7-34.mp3"
+    },
+    {
+      "english": "To your health (said to someone after eating, drinking, coming out of the hammam, wearing new clothes, having a hair cut, etc.)",
+      "target_language": "bṣṣннa.",
+      "english_audio": "moro7-35.mp3",
+      "target_audio": "moro7-36.mp3"
+    },
+    {
+      "english": "May God grant you health too. (response to the above)",
+      "target_language": "lla y-عtik ṣṣннa",
+      "english_audio": "moro7-37.mp3",
+      "target_audio": "moro7-38.mp3"
+    },
+    {
+      "english": "Thank you.",
+      "target_language": "šukran.",
+      "english_audio": "moro10-01.mp3",
+      "target_audio": "moro10-02.mp3"
+    },
+    {
+      "english": "You're welcome.",
+      "target_language": "bla jmil.",
+      "english_audio": "moro10-03.mp3",
+      "target_audio": "moro10-04.mp3"
+    },
+    {
+      "english": "I'm tired. (male speaker)",
+      "target_language": "ana عiyan.",
+      "english_audio": "moro10-05.mp3",
+      "target_audio": "moro10-06.mp3"
+    },
+    {
+      "english": "I'm tired. (female speaker)",
+      "target_language": "ana عiyana",
+      "english_audio": "moro10-07.mp3",
+      "target_audio": "moro10-08.mp3"
+    },
+    {
+      "english": "I want to read a little bit.",
+      "target_language": "bġit n-qra šwiya.",
+      "english_audio": "moro10-09.mp3",
+      "target_audio": "moro10-10.mp3"
+    },
+    {
+      "english": "I want to go to bed.",
+      "target_language": "bġit n-nعs.",
+      "english_audio": "moro10-11.mp3",
+      "target_audio": "moro10-12.mp3"
+    },
+    {
+      "english": "Where I am going to sleep?",
+      "target_language": "fin ġadi n-nعs.",
+      "english_audio": "moro10-13.mp3",
+      "target_audio": "moro10-14.mp3"
+    },
+    {
+      "english": "Excuse me, I want to go to bed. (addressing a group of people)",
+      "target_language": "smнu li, bġit n-mši n-nعs.",
+      "english_audio": "moro10-15.mp3",
+      "target_audio": "moro10-16.mp3"
+    },
+    {
+      "english": "I want to go to bed early.",
+      "target_language": "bġit n-nعs bkri.",
+      "english_audio": "moro10-17.mp3",
+      "target_audio": "moro10-18.mp3"
+    },
+    {
+      "english": "I want to get up early.",
+      "target_language": "bġit n-fiq bkri.",
+      "english_audio": "moro10-19.mp3",
+      "target_audio": "moro10-20.mp3"
+    },
+    {
+      "english": "I want a blanket.",
+      "target_language": "bġit waнd l-manṭ a.",
+      "english_audio": "moro10-21.mp3",
+      "target_audio": "moro10-22.mp3"
+    },
+    {
+      "english": "I want to wash my hands with soap.",
+      "target_language": "bġit n-ġsl yddi bṣ-ṣabun.",
+      "english_audio": "moro10-23.mp3",
+      "target_audio": "moro10-24.mp3"
+    },
+    {
+      "english": "I want to brush my teeth.",
+      "target_language": "bġit n-ġsl snani.",
+      "english_audio": "moro10-25.mp3",
+      "target_audio": "moro10-26.mp3"
+    },
+    {
+      "english": "I want hot water, please.",
+      "target_language": "bġit l-ma s-sxun عafak.",
+      "english_audio": "moro10-27.mp3",
+      "target_audio": "moro10-28.mp3"
+    },
+    {
+      "english": "I want to take a shower.",
+      "target_language": "bġit n-duwš.",
+      "english_audio": "moro10-29.mp3",
+      "target_audio": "moro10-30.mp3"
+    },
+    {
+      "english": "I want to go to the hammam.",
+      "target_language": "bġit n-mši l-нmmam.",
+      "english_audio": "moro10-31.mp3",
+      "target_audio": "moro10-32.mp3"
+    },
+    {
+      "english": "I want to change my clothes.",
+      "target_language": "bġit n-bddl нwayji.",
+      "english_audio": "moro10-33.mp3",
+      "target_audio": "moro10-34.mp3"
+    },
+    {
+      "english": "Where is the toilet?",
+      "target_language": "fin bit l-ma?",
+      "english_audio": "moro10-35.mp3",
+      "target_audio": "moro10-36.mp3"
+    },
+    {
+      "english": "I want to do laundry.",
+      "target_language": "bġit n-ṣbbn нwayji.",
+      "english_audio": "moro10-37.mp3",
+      "target_audio": "moro10-38.mp3"
+    },
+    {
+      "english": "Where can I do laundry?",
+      "target_language": "fin ymkn n-ṣ bbn нwayji.",
+      "english_audio": "moro10-39.mp3",
+      "target_audio": "moro10-40.mp3"
+    },
+    {
+      "english": "Can I help you?",
+      "target_language": "weš n-عawnk?",
+      "english_audio": "moro13-01.mp3",
+      "target_audio": "moro13-02.mp3"
+    },
+    {
+      "english": "Excuse me. (to a man)",
+      "target_language": "smн li.",
+      "english_audio": "moro13-03.mp3",
+      "target_audio": "moro13-04.mp3"
+    },
+    {
+      "english": "Excuse me. (to a woman)",
+      "target_language": "smнi li.",
+      "english_audio": "moro13-05.mp3",
+      "target_audio": "moro13-06.mp3"
+    },
+    {
+      "english": "Give me ... please.",
+      "target_language": "عṭ ini ... عafak. ",
+      "english_audio": "moro13-07.mp3",
+      "target_audio": "moro13-08.mp3"
+    },
+    {
+      "english": "I'm sick. (male speaker)",
+      "target_language": "ana mriḍ",
+      "english_audio": "moro13-09.mp3",
+      "target_audio": "moro13-10.mp3"
+    },
+    {
+      "english": "I'm sick. (female speaker)",
+      "target_language": "ana mriḍ a.",
+      "english_audio": "moro13-11.mp3",
+      "target_audio": "moro13-12.mp3"
+    },
+    {
+      "english": "I want to rest a bit.",
+      "target_language": "bġit n-rtaн swiya.",
+      "english_audio": "moro13-13.mp3",
+      "target_audio": "moro13-14.mp3"
+    },
+    {
+      "english": "Do you feel better?",
+      "target_language": "briti šwiya? ",
+      "english_audio": "moro13-15.mp3",
+      "target_audio": "moro13-16.mp3"
+    },
+    {
+      "english": "I want to go to ...",
+      "target_language": "bġit n-mši l ...",
+      "english_audio": "moro13-17.mp3",
+      "target_audio": "moro13-18.mp3"
+    },
+    {
+      "english": "Take me to ... please.",
+      "target_language": "ddini l ... عafak.",
+      "english_audio": "moro13-19.mp3",
+      "target_audio": "moro13-20.mp3"
+    },
+    {
+      "english": "Stop here, please.",
+      "target_language": "wqf hna عafak.",
+      "english_audio": "moro13-21.mp3",
+      "target_audio": "moro13-22.mp3"
+    },
+    {
+      "english": "Is the meter on?",
+      "target_language": "weš l-kuntur xddam?",
+      "english_audio": "moro13-23.mp3",
+      "target_audio": "moro13-24.mp3"
+    },
+    {
+      "english": "Turn on the meter, please.",
+      "target_language": "xddm l-kuntur عafak. ",
+      "english_audio": "moro13-25.mp3",
+      "target_audio": "moro13-26.mp3"
+    },
+    {
+      "english": "It's not a problem.",
+      "target_language": "maši muškil.",
+      "english_audio": "moro16-01.mp3",
+      "target_audio": "moro16-02.mp3"
+    },
+    {
+      "english": "There is no problem.",
+      "target_language": "ma-kayn muškil. ",
+      "english_audio": "moro16-03.mp3",
+      "target_audio": "moro16-04.mp3"
+    },
+    {
+      "english": "Congratulations.",
+      "target_language": "mbruk",
+      "english_audio": "moro16-05.mp3",
+      "target_audio": "moro16-06.mp3"
+    },
+    {
+      "english": "Happy holiday.",
+      "target_language": "mbruk l-عid.",
+      "english_audio": "moro16-07.mp3",
+      "target_audio": "moro16-08.mp3"
+    },
+    {
+      "english": "May God grant you grace. (response to the above)",
+      "target_language": "lla y-bark fik. ",
+      "english_audio": "moro16-09.mp3",
+      "target_audio": "moro16-10.mp3"
+    },
+    {
+      "english": "I don't understand.",
+      "target_language": "ma-fhmt-š.",
+      "english_audio": "moro16-11.mp3",
+      "target_audio": "moro16-12.mp3"
+    },
+    {
+      "english": "I don't know.",
+      "target_language": "ma-n-عrf.",
+      "english_audio": "moro16-13.mp3",
+      "target_audio": "moro16-14.mp3"
+    },
+    {
+      "english": "Slowly please.",
+      "target_language": "b šwiya عafak.",
+      "english_audio": "moro16-15.mp3",
+      "target_audio": "moro16-16.mp3"
+    },
+    {
+      "english": "Repeat please. (to a man)",
+      "target_language": "عawd عafak.",
+      "english_audio": "moro16-17.mp3",
+      "target_audio": "moro16-18.mp3"
+    },
+    {
+      "english": "Repeat please. (to a woman)",
+      "target_language": "عawdi عafak.",
+      "english_audio": "moro16-19.mp3",
+      "target_audio": "moro16-20.mp3"
+    },
+    {
+      "english": "What did you say?",
+      "target_language": "šnu glti?",
+      "english_audio": "moro16-21.mp3",
+      "target_audio": "moro16-22.mp3"
+    },
+    {
+      "english": "store",
+      "target_language": "нanut",
+      "english_audio": "moro22-01.mp3",
+      "target_audio": "moro22-02.mp3"
+    },
+    {
+      "english": "store keeper",
+      "target_language": "mul l-нanut",
+      "english_audio": "moro22-03.mp3",
+      "target_audio": "moro22-04.mp3"
+    },
+    {
+      "english": "soda",
+      "target_language": "l-monada",
+      "english_audio": "moro22-05.mp3",
+      "target_audio": "moro22-06.mp3"
+    },
+    {
+      "english": "chocolate",
+      "target_language": "š-šklaṭ",
+      "english_audio": "moro22-07.mp3",
+      "target_audio": "moro22-08.mp3"
+    },
+    {
+      "english": "candies",
+      "target_language": "l-нlwa",
+      "english_audio": "moro22-09.mp3",
+      "target_audio": "moro22-10.mp3"
+    },
+    {
+      "english": "gum",
+      "target_language": "l-mska",
+      "english_audio": "moro22-11.mp3",
+      "target_audio": "moro22-12.mp3"
+    },
+    {
+      "english": "cookies",
+      "target_language": "l-biskwi",
+      "english_audio": "moro22-13.mp3",
+      "target_audio": "moro22-14.mp3"
+    },
+    {
+      "english": "juice",
+      "target_language": "l-عaṣir",
+      "english_audio": "moro22-15.mp3",
+      "target_audio": "moro22-16.mp3"
+    },
+    {
+      "english": "bread",
+      "target_language": "l-xubz",
+      "english_audio": "moro22-17.mp3",
+      "target_audio": "moro22-18.mp3"
+    },
+    {
+      "english": "jam",
+      "target_language": "l-konfitur ",
+      "english_audio": "moro22-19.mp3",
+      "target_audio": "moro22-20.mp3"
+    },
+    {
+      "english": "butter",
+      "target_language": "z-zbda",
+      "english_audio": "moro22-21.mp3",
+      "target_audio": "moro22-22.mp3"
+    },
+    {
+      "english": "eggs",
+      "target_language": "l-biḍ",
+      "english_audio": "moro22-23.mp3",
+      "target_audio": "moro22-24.mp3"
+    },
+    {
+      "english": "yogurt",
+      "target_language": "danon",
+      "english_audio": "moro22-25.mp3",
+      "target_audio": "moro22-26.mp3"
+    },
+    {
+      "english": "milk",
+      "target_language": "l-нlib",
+      "english_audio": "moro22-27.mp3",
+      "target_audio": "moro22-28.mp3"
+    },
+    {
+      "english": "coffee",
+      "target_language": "l-qhwa",
+      "english_audio": "moro22-29.mp3",
+      "target_audio": "moro22-30.mp3"
+    },
+    {
+      "english": "tea",
+      "target_language": "atay",
+      "english_audio": "moro22-31.mp3",
+      "target_audio": "moro22-32.mp3"
+    },
+    {
+      "english": "sugar",
+      "target_language": "s-skkar",
+      "english_audio": "moro22-33.mp3",
+      "target_audio": "moro22-34.mp3"
+    },
+    {
+      "english": "cheese",
+      "target_language": "l-frmaj",
+      "english_audio": "moro22-35.mp3",
+      "target_audio": "moro22-36.mp3"
+    },
+    {
+      "english": "oil",
+      "target_language": "z-zit",
+      "english_audio": "moro22-37.mp3",
+      "target_audio": "moro22-38.mp3"
+    },
+    {
+      "english": "peanuts",
+      "target_language": "kaw kaw",
+      "english_audio": "moro22-39.mp3",
+      "target_audio": "moro22-40.mp3"
+    },
+    {
+      "english": "almonds",
+      "target_language": "l-luz",
+      "english_audio": "moro22-41.mp3",
+      "target_audio": "moro22-42.mp3"
+    },
+    {
+      "english": "bottle",
+      "target_language": "l-qrعa",
+      "english_audio": "moro22-43.mp3",
+      "target_audio": "moro22-44.mp3"
+    },
+    {
+      "english": "bottle of water",
+      "target_language": "qrعa d l-ma",
+      "english_audio": "moro22-45.mp3",
+      "target_audio": "moro22-46.mp3"
+    },
+    {
+      "english": "Kleenex",
+      "target_language": "kliniks",
+      "english_audio": "moro22-47.mp3",
+      "target_audio": "moro22-48.mp3"
+    },
+    {
+      "english": "toilet paper",
+      "target_language": "ppapiyi jinik",
+      "english_audio": "moro22-49.mp3",
+      "target_audio": "moro22-50.mp3"
+    },
+    {
+      "english": "tooth paste",
+      "target_language": "dontifris",
+      "english_audio": "moro22-51.mp3",
+      "target_audio": "moro22-52.mp3"
+    },
+    {
+      "english": "soap",
+      "target_language": "ṣ-ṣabun",
+      "english_audio": "moro22-53.mp3",
+      "target_audio": "moro22-54.mp3"
+    },
+    {
+      "english": "shampoo",
+      "target_language": "š-šampwan",
+      "english_audio": "moro22-55.mp3",
+      "target_audio": "moro22-56.mp3"
+    },
+    {
+      "english": "detergent",
+      "target_language": "tid",
+      "english_audio": "moro22-57.mp3",
+      "target_audio": "moro22-58.mp3"
+    },
+    {
+      "english": "bleach",
+      "target_language": "javel",
+      "english_audio": "moro22-59.mp3",
+      "target_audio": "moro22-60.mp3"
+    },
+    {
+      "english": "batteries",
+      "target_language": "l-нjrat d r-radyu",
+      "english_audio": "moro22-61.mp3",
+      "target_audio": "moro22-62.mp3"
+    },
+    {
+      "english": "razor",
+      "target_language": "r-razwar",
+      "english_audio": "moro22-63.mp3",
+      "target_audio": "moro22-64.mp3"
+    },
+    {
+      "english": "tobacco store",
+      "target_language": "ṣ-ṣaka",
+      "english_audio": "moro22-65.mp3",
+      "target_audio": "moro22-66.mp3"
+    },
+    {
+      "english": "cigarettes",
+      "target_language": "l-garru",
+      "english_audio": "moro22-67.mp3",
+      "target_audio": "moro22-68.mp3"
+    },
+    {
+      "english": "package",
+      "target_language": "bakiya",
+      "english_audio": "moro22-69.mp3",
+      "target_audio": "moro22-70.mp3"
+    },
+    {
+      "english": "packages",
+      "target_language": "bakiyat",
+      "english_audio": "moro22-71.mp3",
+      "target_audio": "moro22-72.mp3"
+    },
+    {
+      "english": "money",
+      "target_language": "l-flus",
+      "english_audio": "moro22-73.mp3",
+      "target_audio": "moro22-74.mp3"
+    },
+    {
+      "english": "change",
+      "target_language": "ṣ-ṣrf",
+      "english_audio": "moro22-75.mp3",
+      "target_audio": "moro22-76.mp3"
+    },
+    {
+      "english": "Do you have ... ?",
+      "target_language": "weš عndk ... ?",
+      "english_audio": "moro25-01.mp3",
+      "target_audio": "moro25-02.mp3"
+    },
+    {
+      "english": "Yes, I do (have).",
+      "target_language": "iyeh, عndi.",
+      "english_audio": "moro25-03.mp3",
+      "target_audio": "moro25-04.mp3"
+    },
+    {
+      "english": "No, I don't (have).",
+      "target_language": "lla, ma-عndi-š.",
+      "english_audio": "moro25-05.mp3",
+      "target_audio": "moro25-06.mp3"
+    },
+    {
+      "english": "Is there ... ?",
+      "target_language": "weš kayn ... ?",
+      "english_audio": "moro25-07.mp3",
+      "target_audio": "moro25-08.mp3"
+    },
+    {
+      "english": "Yes, there is. (masc.)",
+      "target_language": "iyeh, kayn / mujud",
+      "english_audio": "moro25-09.mp3",
+      "target_audio": "moro25-10.mp3"
+    },
+    {
+      "english": "Yes, there is. (fem.)",
+      "target_language": "iyeh, kayna / mujuda",
+      "english_audio": "moro25-11.mp3",
+      "target_audio": "moro25-12.mp3"
+    },
+    {
+      "english": "No, there isn't. (masc.)",
+      "target_language": "lla, ma-kayn-š.",
+      "english_audio": "moro25-13.mp3",
+      "target_audio": "moro25-14.mp3"
+    },
+    {
+      "english": "No, there isn't. (fem.)",
+      "target_language": "lla, ma-kayna-š.",
+      "english_audio": "moro25-15.mp3",
+      "target_audio": "moro25-16.mp3"
+    },
+    {
+      "english": "Give me ... please.",
+      "target_language": "عṭ ini ... عafak.",
+      "english_audio": "moro25-17.mp3",
+      "target_audio": "moro25-18.mp3"
+    },
+    {
+      "english": "What do you want ma'am / sir?",
+      "target_language": "šnu bġiti a lalla/sidi?",
+      "english_audio": "moro25-19.mp3",
+      "target_audio": "moro25-20.mp3"
+    },
+    {
+      "english": "How much?",
+      "target_language": "bšнal?",
+      "english_audio": "moro25-21.mp3",
+      "target_audio": "moro25-22.mp3"
+    },
+    {
+      "english": "Do you have change?",
+      "target_language": "weš عndk ṣ-ṣrf?",
+      "english_audio": "moro25-23.mp3",
+      "target_audio": "moro25-24.mp3"
+    },
+    {
+      "english": "Do you have change for ... ?",
+      "target_language": "weš عndk ṣ-ṣrf dyal..? ",
+      "english_audio": "moro25-25.mp3",
+      "target_audio": "moro25-26.mp3"
+    },
+    {
+      "english": "I want",
+      "target_language": "bġit",
+      "english_audio": "moro25-27.mp3",
+      "target_audio": "moro25-28.mp3"
+    },
+    {
+      "english": "you want (sing.)",
+      "target_language": "bġiti",
+      "english_audio": "moro25-29.mp3",
+      "target_audio": "moro25-30.mp3"
+    },
+    {
+      "english": "he wants",
+      "target_language": "bġa",
+      "english_audio": "moro25-31.mp3",
+      "target_audio": "moro25-32.mp3"
+    },
+    {
+      "english": "she wants",
+      "target_language": "bġat",
+      "english_audio": "moro25-33.mp3",
+      "target_audio": "moro25-34.mp3"
+    },
+    {
+      "english": "we want",
+      "target_language": "bġina",
+      "english_audio": "moro25-35.mp3",
+      "target_audio": "moro25-36.mp3"
+    },
+    {
+      "english": "you want (plur.)",
+      "target_language": "bġitu",
+      "english_audio": "moro25-37.mp3",
+      "target_audio": "moro25-38.mp3"
+    },
+    {
+      "english": "they want",
+      "target_language": "bġau",
+      "english_audio": "moro25-39.mp3",
+      "target_audio": "moro25-40.mp3"
+    },
+    {
+      "english": "I want tea.",
+      "target_language": "bġit atay.",
+      "english_audio": "moro25-41.mp3",
+      "target_audio": "moro25-42.mp3"
+    },
+    {
+      "english": "Do you want coffee with sugar?",
+      "target_language": "weš bġiti l-qhwa b skkar?",
+      "english_audio": "moro25-43.mp3",
+      "target_audio": "moro25-44.mp3"
+    },
+    {
+      "english": "Ali wants a glass of water.",
+      "target_language": "Ali bġa kas d l-ma.",
+      "english_audio": "moro25-45.mp3",
+      "target_audio": "moro25-46.mp3"
+    },
+    {
+      "english": "Driss and Fatima don't want soda.",
+      "target_language": "Driss u Fatima ma-bġau-š l-monada.",
+      "english_audio": "moro25-47.mp3",
+      "target_audio": "moro25-48.mp3"
+    }
+  ]
+}
