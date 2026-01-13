@@ -12,24 +12,6 @@
       "english_audio": "mand3-01.mp3"
     },
     {
-      "target_language": "zhè",
-      "english": "This",
-      "target_audio": "mand3-04.mp3",
-      "english_audio": "mand3-03.mp3"
-    },
-    {
-      "target_language": "nà",
-      "english": "that",
-      "target_audio": "mand3-06.mp3",
-      "english_audio": "mand3-05.mp3"
-    },
-    {
-      "target_language": "shì",
-      "english": "to be",
-      "target_audio": "mand3-08.mp3",
-      "english_audio": "mand3-07.mp3"
-    },
-    {
       "target_language": "chá",
       "english": "tea",
       "target_audio": "mand3-10.mp3",
@@ -52,72 +34,6 @@
       "english": "egg",
       "target_audio": "mand3-16.mp3",
       "english_audio": "mand3-15.mp3"
-    },
-    {
-      "target_language": "mā",
-      "english": "question particle",
-      "target_audio": "mand3-18.mp3",
-      "english_audio": "mand3-17.mp3"
-    },
-    {
-      "target_language": "bù",
-      "english": "no",
-      "target_audio": "mand3-20.mp3",
-      "english_audio": "mand3-19.mp3"
-    },
-    {
-      "target_language": "shénme",
-      "english": "what",
-      "target_audio": "mand3-22.mp3",
-      "english_audio": "mand3-21.mp3"
-    },
-    {
-      "target_language": "zăo",
-      "english": "morning",
-      "english_audio": "mand4-09.mp3",
-      "target_audio": "mand4-10.mp3"
-    },
-    {
-      "target_language": "zăoshàng",
-      "english": "morning",
-      "english_audio": "mand4-11.mp3",
-      "target_audio": "mand4-12.mp3"
-    },
-    {
-      "target_language": "xiàwǔ",
-      "english": "afternoon",
-      "english_audio": "mand4-13.mp3",
-      "target_audio": "mand4-14.mp3"
-    },
-    {
-      "target_language": "wănshàng",
-      "english": "evening",
-      "english_audio": "mand4-15.mp3",
-      "target_audio": "mand4-16.mp3"
-    },
-    {
-      "target_language": "jiào",
-      "english": "call, to be called, to be named",
-      "english_audio": "mand5-11.mp3",
-      "target_audio": "mand5-12.mp3"
-    },
-    {
-      "target_language": "xìng",
-      "english": "(V) to be surnamed; (N) surname",
-      "english_audio": "mand5-13.mp3",
-      "target_audio": "mand5-14.mp3"
-    },
-    {
-      "target_language": "wǒ",
-      "english": "I/me",
-      "english_audio": "mand5-31.mp3",
-      "target_audio": "mand5-32.mp3"
-    },
-    {
-      "target_language": "nǐ",
-      "english": "You",
-      "english_audio": "mand5-33.mp3",
-      "target_audio": "mand5-34.mp3"
     },
     {
       "target_language": "tā",

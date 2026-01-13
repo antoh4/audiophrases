@@ -5,13 +5,6 @@
     "https://www.livelingua.com/course/peace_corps/chinese_language_lessons"
   ],
   "sentences": [
-    
-    {
-      "target_language": "Zhè shì chá",
-      "english": "This is tea",
-      "target_audio": "mand3-24.mp3",
-      "english_audio": "mand3-23.mp3"
-    },
     {
       "target_language": "Zhè shì bēizi",
       "english": "This is a cup",
@@ -19,16 +12,10 @@
       "english_audio": "mand3-27.mp3"
     },
     {
-      "target_language": "Nà shì fàn",
-      "english": "That is rice",
-      "target_audio": "mand3-26.mp3",
-      "english_audio": "mand3-25.mp3"
-    },
-    {
-      "target_language": "Nà shì jīdàn",
-      "english": "That is an egg",
-      "target_audio": "mand3-30.mp3",
-      "english_audio": "mand3-29.mp3"
+      "target_language": "Zhè shì chá",
+      "english": "This is tea",
+      "target_audio": "mand3-24.mp3",
+      "english_audio": "mand3-23.mp3"
     },
     {
       "target_language": "Zhè shì chá ma?",
@@ -43,10 +30,28 @@
       "english_audio": "mand3-39.mp3"
     },
     {
+      "target_language": "mā",
+      "english": "question particle",
+      "target_audio": "mand3-18.mp3",
+      "english_audio": "mand3-17.mp3"
+    },
+    {
+      "target_language": "Nà shì fàn",
+      "english": "That is rice",
+      "target_audio": "mand3-26.mp3",
+      "english_audio": "mand3-25.mp3"
+    },
+    {
       "target_language": "Nà shì fàn ma?",
       "english": "Is that rice?",
       "target_audio": "mand3-38.mp3",
       "english_audio": "mand3-37.mp3"
+    },
+    {
+      "target_language": "Nà shì jīdàn",
+      "english": "That is an egg",
+      "target_audio": "mand3-30.mp3",
+      "english_audio": "mand3-29.mp3"
     },
     {
       "target_language": "Nà shì jīdàn ma?",
@@ -55,22 +60,40 @@
       "english_audio": "mand3-41.mp3"
     },
     {
-      "target_language": "Shì",
-      "english": "Yes",
+      "target_language": "shì",
+      "english": "to be",
+      "target_audio": "mand3-08.mp3",
+      "english_audio": "mand3-07.mp3"
+    },
+    {
+      "target_language": "shì",
+      "english": "yes",
       "target_audio": "mand3-35.mp3",
       "english_audio": "mand3-33.mp3"
     },
     {
-      "target_language": "Bú shì",
-      "english": "No",
+      "target_language": "bú shì",
+      "english": "no",
       "target_audio": "mand3-36.mp3",
       "english_audio": "mand3-34.mp3"
+    },
+    {
+      "target_language": "bù",
+      "english": "no",
+      "target_audio": "mand3-20.mp3",
+      "english_audio": "mand3-19.mp3"
     },
     {
       "target_language": "Zhè shì shénme?",
       "english": "What is this?",
       "target_audio": "mand3-44.mp3",
       "english_audio": "mand3-43.mp3"
+    },
+    {
+      "target_language": "shénme",
+      "english": "what",
+      "target_audio": "mand3-22.mp3",
+      "english_audio": "mand3-21.mp3"
     },
     {
       "target_language": "Nà shì shénme?",
@@ -85,10 +108,58 @@
       "english_audio": "mand3-49.mp3"
     },
     {
+      "english": "I am an American.",
+      "target_language": "Wǒ shì měiguó rén.",
+      "english_audio": "mand9-13.mp3",
+      "target_audio": "mand9-14.mp3"
+    },
+    {
       "target_language": "wǒ",
       "english": "I, me",
       "english_audio": "mand4-03.mp3",
       "target_audio": "mand4-04.mp3"
+    },
+    {
+      "target_language": "zhè",
+      "english": "This",
+      "target_audio": "mand3-04.mp3",
+      "english_audio": "mand3-03.mp3"
+    },
+    {
+      "english": "this",
+      "target_language": "zhège",
+      "english_audio": "mand6-61.mp3",
+      "target_audio": "mand6-62.mp3"
+    },
+    {
+      "english": "that",
+      "target_language": "nà",
+      "english_audio": "mand3-05.mp3",
+      "target_audio": "mand3-06.mp3"
+    },
+    {
+      "english": "that",
+      "target_language": "nàge",
+      "english_audio": "mand6-63.mp3",
+      "target_audio": "mand6-64.mp3"
+    },
+    {
+      "english": "which",
+      "target_language": "năge",
+      "english_audio": "mand6-65.mp3",
+      "target_audio": "mand6-66.mp3"
+    },
+    {
+      "target_language": "Nǐ hăo.",
+      "english": "How are you?",
+      "english_audio": "mand4-17.mp3",
+      "target_audio": "mand4-18.mp3"
+    },
+    {
+      "target_language": "Nǐ ne?",
+      "english": "And you?",
+      "english_audio": "mand5-25.mp3",
+      "target_audio": "mand5-26.mp3"
     },
     {
       "target_language": "nǐ",
@@ -103,28 +174,64 @@
       "target_audio": "mand4-06.mp3"
     },
     {
-      "target_language": "zàijiàn",
-      "english": "good bye",
-      "english_audio": "mand4-07.mp3",
-      "target_audio": "mand4-08.mp3"
-    },
-    {
-      "target_language": "Nǐ hăo.",
-      "english": "How are you?",
-      "english_audio": "mand4-17.mp3",
-      "target_audio": "mand4-18.mp3"
-    },
-    {
       "target_language": "Zăo (or Zăoshàng hăo)",
       "english": "Good morning",
       "english_audio": "mand4-19.mp3",
       "target_audio": "mand4-20.mp3"
     },
     {
+      "target_language": "zăo",
+      "english": "morning",
+      "english_audio": "mand4-09.mp3",
+      "target_audio": "mand4-10.mp3"
+    },
+    {
+      "target_language": "zăoshàng",
+      "english": "morning",
+      "english_audio": "mand4-11.mp3",
+      "target_audio": "mand4-12.mp3"
+    },
+    {
+      "target_language": "xiàwǔ",
+      "english": "afternoon",
+      "english_audio": "mand4-13.mp3",
+      "target_audio": "mand4-14.mp3"
+    },
+    {
+      "target_language": "wănshàng",
+      "english": "evening",
+      "english_audio": "mand4-15.mp3",
+      "target_audio": "mand4-16.mp3"
+    },
+    {
+      "target_language": "zàijiàn",
+      "english": "good bye",
+      "english_audio": "mand4-07.mp3",
+      "target_audio": "mand4-08.mp3"
+    },
+    {
       "target_language": "Nǐ jiào shénme míngzi?",
       "english": "What is your name?",
       "english_audio": "mand5-27.mp3",
       "target_audio": "mand5-28.mp3"
+    },
+    {
+      "target_language": "Wǒ jiào Zhāng Wěi.",
+      "english": "I'm called Zhang Wei.",
+      "english_audio": "mand5-17.mp3",
+      "target_audio": "mand5-18.mp3"
+    },
+    {
+      "target_language": "Wǒ jiào Wáng Jiàndé.",
+      "english": "I'm called Wang Jiande.",
+      "english_audio": "mand5-23.mp3",
+      "target_audio": "mand5-24.mp3"
+    },
+    {
+      "target_language": "jiào",
+      "english": "call, to be called, to be named",
+      "english_audio": "mand5-11.mp3",
+      "target_audio": "mand5-12.mp3"
     },
     {
       "target_language": "Qǐngwèn...",
@@ -145,28 +252,16 @@
       "target_audio": "mand5-20.mp3"
     },
     {
-      "target_language": "Wǒ jiào Zhāng Wěi.",
-      "english": "I'm called Zhang Wei.",
-      "english_audio": "mand5-17.mp3",
-      "target_audio": "mand5-18.mp3"
-    },
-    {
-      "target_language": "Wǒ jiào Wáng Jiàndé.",
-      "english": "I'm called Wang Jiande.",
-      "english_audio": "mand5-23.mp3",
-      "target_audio": "mand5-24.mp3"
-    },
-    {
       "target_language": "Wǒ xìng Wáng,",
       "english": "My family name is Wang.",
       "english_audio": "mand5-21.mp3",
       "target_audio": "mand5-22.mp3"
     },
     {
-      "target_language": "Nǐ ne?",
-      "english": "And you?",
-      "english_audio": "mand5-25.mp3",
-      "target_audio": "mand5-26.mp3"
+      "target_language": "xìng",
+      "english": "(V) to be surnamed; (N) surname",
+      "english_audio": "mand5-13.mp3",
+      "target_audio": "mand5-14.mp3"
     },
     {
       "target_language": "Wǒ xìng Zhāng, jiào Zhāng Wěi",
@@ -203,12 +298,6 @@
       "target_language": "Nǐ huìshuō yīngyǔ ma?",
       "english_audio": "mand9-11.mp3",
       "target_audio": "mand9-12.mp3"
-    },
-    {
-      "english": "I am an American.",
-      "target_language": "Wǒ shì měiguó rén.",
-      "english_audio": "mand9-13.mp3",
-      "target_audio": "mand9-14.mp3"
     },
     {
       "english": "I don't speak Chinese.",
@@ -253,12 +342,6 @@
       "target_audio": "mand10-04.mp3"
     },
     {
-      "english": "I am allergic to this.",
-      "target_language": "Wǒ duì zhège guòmǐn.",
-      "english_audio": "mand10-05.mp3",
-      "target_audio": "mand10-06.mp3"
-    },
-    {
       "english": "I am tired.",
       "target_language": "Wǒ lèi le.",
       "english_audio": "mand10-07.mp3",
@@ -271,16 +354,22 @@
       "target_audio": "mand10-10.mp3"
     },
     {
-      "english": "I need to go to the hospital.",
-      "target_language": "Wǒ yào dào yīyuàn.",
-      "english_audio": "mand10-13.mp3",
-      "target_audio": "mand10-14.mp3"
+      "english": "I am allergic to this.",
+      "target_language": "Wǒ duì zhège guòmǐn.",
+      "english_audio": "mand10-05.mp3",
+      "target_audio": "mand10-06.mp3"
     },
     {
       "english": "Where is the bathroom?",
       "target_language": "Xǐshǒujiān zài nă?",
       "english_audio": "mand10-11.mp3",
       "target_audio": "mand10-12.mp3"
+    },
+    {
+      "english": "I need to go to the hospital.",
+      "target_language": "Wǒ yào dào yīyuàn.",
+      "english_audio": "mand10-13.mp3",
+      "target_audio": "mand10-14.mp3"
     },
     {
       "english": "May I ask where the hospital is?",
@@ -320,7 +409,7 @@
     },
     {
       "english": "Excuse me, how much is this?",
-      "target_language": "Qǐng wèn, zhège duōshăo qián?",
+      "target_language": "Qǐngwèn, zhège duōshăo qián?",
       "english_audio": "mand6-47.mp3",
       "target_audio": "mand6-48.mp3"
     },
@@ -338,7 +427,7 @@
     },
     {
       "english": "I want to buy mineral water. How much is it (per bottle)?",
-      "target_language": "Wǒ yào măi kuàngquánshuǐ.Duōshăo qián yì- píng?",
+      "target_language": "Wǒ yào măi kuàngquánshuǐ. Duōshăo qián yì- píng?",
       "english_audio": "mand6-55.mp3",
       "target_audio": "mand6-56.mp3"
     },
@@ -347,24 +436,6 @@
       "target_language": "Liăng-kuài-liù. Yào jǐ-píng?",
       "english_audio": "mand6-57.mp3",
       "target_audio": "mand6-58.mp3"
-    },
-    {
-      "english": "this",
-      "target_language": "zhège",
-      "english_audio": "mand6-61.mp3",
-      "target_audio": "mand6-62.mp3"
-    },
-    {
-      "english": "that",
-      "target_language": "nàge",
-      "english_audio": "mand6-63.mp3",
-      "target_audio": "mand6-64.mp3"
-    },
-    {
-      "english": "which",
-      "target_language": "năge",
-      "english_audio": "mand6-65.mp3",
-      "target_audio": "mand6-66.mp3"
     },
     {
       "english": "how much? how many?",
