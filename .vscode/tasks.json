@@ -6,6 +6,12 @@
       "type": "shell",
       "command": "cd _site && git add --all && git commit -m 'Deploy' && git push origin pages && cd ..",
       "group": "build"
+    },
+    {
+      "label": "Deploy with History Squash",
+      "type": "shell",
+      "command": "cd _site && git add --all && git commit -m 'Deploy' && git checkout --orphan temp && git add -A && git commit -m 'Fresh start' && git branch -D pages && git branch -m pages && git push origin pages --force && cd ..",
+      "group": "build"
     }
   ]
 }

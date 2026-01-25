@@ -27,7 +27,7 @@ html_content = """<!doctype html>
   </head>
 <body>
 <h1>Language learning audio phrases</h1>
-<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
+<p>Learn the basics of foreign languages with audio phrases spoken by native speakers, to communicate more easily around the world and make people smile.</p>
 <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
 <p>The courses are made to be listened multiple times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
 
@@ -42,7 +42,7 @@ for json_file in json_files:
         print(f"\n--- Processing {language_name} ({json_file}) ---\n")
 
         course_audio = AudioSegment.empty()
-        silence = AudioSegment.silent(duration=2000) # ms
+        silence = AudioSegment.silent(duration=4000) # ms
 
         sentences_table = """<details>
             <summary>Show detail of sentences</summary><table>
