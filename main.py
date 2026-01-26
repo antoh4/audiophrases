@@ -35,8 +35,7 @@ html_content = """<!doctype html>
 <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
 <p>The courses are made to be listened a lot of times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>
 <hr>
-<h2>Courses</h2>
-<ul>"""
+<h2>Courses</h2>"""
 
 
 LANG_NAMES = {
@@ -50,6 +49,7 @@ LANG_NAMES = {
     "it-IT": "Italian",
 }
 
+tmp_current_lang = ""
 
 # Iterate and parse each json file
 for json_file in json_files:
@@ -60,6 +60,8 @@ for json_file in json_files:
     possible_translations = {"en-US": [[AudioSegment.empty()], 0], "fr-FR": [[AudioSegment.empty()], 0]}
 
     course_name = data['course_name']
+    language_category = LANG_NAMES.get(data['language_code'], data['language_code'])
+
     print(f"\n--- Processing {course_name} ({json_file}) ---\n")
 
     # html_content += f"""<hr><h2>{course_name} courses</h2><ul>"""
@@ -117,6 +119,12 @@ for json_file in json_files:
             tr_language_name = LANG_NAMES.get(language, language)
 
             page_url = f"courses/{json_file.removesuffix('.json')}_{language}_.html"
+
+            if language_category != tmp_current_lang:
+                if tmp_current_lang != "":
+                    html_content += "</ul>"
+                html_content += f"<h3>{language_category}</h3><ul>"
+                tmp_current_lang = language_category
 
             html_content += f"""<li><a href="{page_url}"><b>{course_name}</b> for <i>{tr_language_name} speakers</i></a> ({possible_translations[language][1]} phrases)</li>"""
 
