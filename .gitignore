@@ -1,2 +1,4 @@
 languages/*/
 _site/
+google-credentials.json
+.env

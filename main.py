@@ -27,85 +27,105 @@ html_content = """<!doctype html>
   </head>
 <body>
 <h1>Language learning audio phrases</h1>
-<p>Learn the basics of foreign languages with audio phrases spoken by native speakers, to communicate more easily around the world and make people smile.</p>
+<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
 <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
-<p>The courses are made to be listened multiple times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
+<p>The courses are made to be listened a lot of times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
+
+
+LANG_NAMES = {
+    "en-US": "English",
+    "fr-FR": "French",
+    "cmn-CN": "Mandarin Chinese",
+    "ru-RU": "Russian",
+    "es-ES": "Spanish",
+    "de-DE": "German",
+    "hi-IN": "Hindi",
+    "it-IT": "Italian",
+}
+
 
 # Iterate and parse each json file
 for json_file in json_files:
     file_path = os.path.join(languages_dir, json_file)
     with open(file_path, 'r') as file:
         data = json.load(file)
+    
+    possible_translations = {"en-US": [AudioSegment.empty(), 0], "fr-FR": [AudioSegment.empty(), 0]}
 
-        language_name = data['language_name']
-        language_slug = data['slug']
-        print(f"\n--- Processing {language_name} ({json_file}) ---\n")
+    language_name = data['language_name']
+    language_slug = data['slug']
+    print(f"\n--- Processing {language_name} ({json_file}) ---\n")
 
-        course_audio = AudioSegment.empty()
-        silence = AudioSegment.silent(duration=4000) # ms
+    html_content += f"""<hr><h2>{language_name} courses</h2>"""
 
-        sentences_table = """<details>
-            <summary>Show detail of sentences</summary><table>
-            <tr>
-                <th>Target language</th>
-                <th>English</th>
-            </tr>"""
+    pre_silence = AudioSegment.silent(duration=3000) # ms
+    post_silence = AudioSegment.silent(duration=2500) # ms
+    small_silence = AudioSegment.silent(duration=2000) # ms
 
-        for i, sentence in enumerate(data['sentences']):
-            target_audio_filename = sentence["target_audio"]
-            english_audio_filename = sentence["english_audio"]
+    for i, sentence in enumerate(data['sentences']):
+        target_audio_filename1 = sentence['sentence'][1]
+        target_audio_filename2 = sentence['sentence'][2]
+
+        if target_audio_filename1 != "" and target_audio_filename2 != "":
 
             # Assuming target audio files are in a subdirectory named after the slug within languages_dir
-            target_audio_path = os.path.join(languages_dir, "individual_audios", target_audio_filename)
-            english_audio_path = os.path.join(languages_dir, "individual_audios", english_audio_filename)
+            target_audio_path1 = os.path.join(languages_dir, "individual_audios", target_audio_filename1)
+            target_audio_path2 = os.path.join(languages_dir, "individual_audios", target_audio_filename2)
 
-            if not os.path.exists(target_audio_path):
-                print(f"WARNING: target audio file not found: {target_audio_path}. Skipping this sentence.")
-                continue
-            if not os.path.exists(english_audio_path):
-                print(f"WARNING: english audio file not found: {english_audio_path}. Skipping this sentence.")
+            if not os.path.exists(target_audio_path1) or not os.path.exists(target_audio_path2):
+                print(f"WARNING: target audio file not found: {target_audio_path1}. Skipping this sentence.")
                 continue
 
             # Load audios
-            target_audio = AudioSegment.from_file(target_audio_path)
-            english_audio = AudioSegment.from_file(english_audio_path)
+            target_audio1 = AudioSegment.from_file(target_audio_path1)
+            target_audio2 = AudioSegment.from_file(target_audio_path2)
 
-            # Concatenate target audio + silence + english audio + silence
-            combined_sentence_audio = target_audio + silence + english_audio + silence
-            course_audio += combined_sentence_audio
+            for language in possible_translations:
 
-            sentences_table += f"""<tr>
-                    <td>{sentence["target_language"]}</td>
-                    <td>{sentence["english"]}</td>
-                </tr>"""
+                #translation_filename = [t[2] for t in sentence['translations'] if t[0] == language][0]
+                translation_filename = next((t[2] for t in sentence['translations'] if t[0] == language), None)
+                    
+                if translation_filename is not None and translation_filename != "":
+                    translation_audio_path = os.path.join(languages_dir, "individual_audios", translation_filename)
+                    
+                    if not os.path.exists(translation_audio_path):
+                        print(f"WARNING: translation audio file not found: {translation_audio_path}. Skipping this sentence.")
+                        continue
 
-        sentences_table += """</table></details>"""
+                    translation_audio = AudioSegment.from_file(translation_audio_path)
 
-        # Export the final course audio
-        output_filename = f"{language_slug}_course.mp3"
-        output_filepath = os.path.join(output_audio_dir, output_filename)
-        site_output_filepath = os.path.join('course', output_filename)
-        course_audio = course_audio.set_frame_rate(22050)
-        course_audio = course_audio.set_sample_width(2)
-        course_audio.export(output_filepath, format="mp3", bitrate="128k")
-        print(f"Successfully created course audio: {output_filepath}")
+                    combined_sentence_audio = target_audio2 + small_silence + target_audio1 + pre_silence + translation_audio + post_silence
 
-        html_content += f"""<hr><div class="audio-item">
-            <h2>{data['language_name']} course</h2>
-            <audio controls>
-                <source src="{site_output_filepath}" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            <br>
-            <p><small>Audio source: <a href={data['sources'][0]}>{data['sources'][0]}</a></small></p>"""
+                    possible_translations[language][0] += combined_sentence_audio
+                    possible_translations[language][1] += 1
 
-        html_content += sentences_table
+    for language in possible_translations:
+        course_audio = possible_translations[language][0]
+        if len(course_audio) > 10:
+            tr_language_name = LANG_NAMES.get(language, language)
 
-        html_content += """</div>"""
+            # Export the final course audio
+            output_filename = f"{language_slug}_{tr_language_name}_course.mp3"
+            output_filepath = os.path.join(output_audio_dir, output_filename)
+            site_output_filepath = os.path.join('course', output_filename)
+            course_audio = course_audio.set_frame_rate(22050)
+            course_audio = course_audio.set_sample_width(2)
+            course_audio.export(output_filepath, format="mp3", bitrate="128k")
+            print(f"Successfully created course audio: {output_filepath}")
+
+            html_content += f"""<div class="audio-item">
+                <h3>{tr_language_name} → {language_name}</h3>
+                <audio controls>
+                    <source src="{site_output_filepath}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+                <p>({possible_translations[language][1]} phrases)</p>
+                </div>
+                """
 
 print("\nAll courses processed.")
 
-html_content += """<br><hr><small><p>The courses are built by extracting and organizing content from other existing public domain sources. Those external sources have their link provided. <a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a>.</p></small></body>
+html_content += """<br><hr><small><p><a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a></p></small></body>
 </html>"""
 
 with open("_site/index.html", 'w', encoding='utf-8') as f:
