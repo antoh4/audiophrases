@@ -1,0 +1,1406 @@
+{
+  "course_name": "French basics",
+  "language_code": "fr-FR",
+  "sentences": [
+    {
+      "sentence": [
+        "Bonjour",
+        "french_0_20260126_105911.mp3",
+        "french_0_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hello, good morning",
+          "french_0_0_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bonsoir",
+        "french_1_20260126_105911.mp3",
+        "french_1_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good evening",
+          "french_1_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Salut",
+        "french_2_20260126_105911.mp3",
+        "french_2_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hi (informal)",
+          "french_2_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Au revoir",
+        "french_3_20260126_105911.mp3",
+        "french_3_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Goodbye",
+          "french_3_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "À bientôt",
+        "french_4_20260126_105911.mp3",
+        "french_4_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "See you soon",
+          "french_4_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bonne nuit",
+        "french_5_20260126_105911.mp3",
+        "french_5_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good night",
+          "french_5_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "S'il vous plaît",
+        "french_6_20260126_105410.mp3",
+        "french_6_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please (formal)",
+          "french_6_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Merci",
+        "french_7_20260126_092127.mp3",
+        "french_7_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you",
+          "french_7_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Merci beaucoup",
+        "french_8_20260126_092127.mp3",
+        "french_8_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you very much",
+          "french_8_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "De rien",
+        "french_9_20260126_092127.mp3",
+        "french_9_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You're welcome",
+          "french_9_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Excusez-moi",
+        "french_10_20260126_092127.mp3",
+        "french_10_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Excuse me (formal)",
+          "french_10_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pardon",
+        "french_11_20260126_092127.mp3",
+        "french_11_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Sorry/Pardon me",
+          "french_11_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Oui",
+        "french_12_20260126_092127.mp3",
+        "french_12_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Yes",
+          "french_12_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Non",
+        "french_13_20260126_092127.mp3",
+        "french_13_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "No",
+          "french_13_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "D'accord",
+        "french_14_20260126_092127.mp3",
+        "french_14_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Okay/Alright",
+          "french_14_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je m'appelle...",
+        "french_15_20260126_092127.mp3",
+        "french_15_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "My name is...",
+          "french_15_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Enchanté(e)",
+        "french_16_20260126_092127.mp3",
+        "french_16_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Nice to meet you",
+          "french_16_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Comment allez-vous?",
+        "french_17_20260126_105410.mp3",
+        "french_17_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How are you? (formal)",
+          "french_17_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ça va?",
+        "french_18_20260126_092127.mp3",
+        "french_18_2_20260126_112149.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How are you? (informal)",
+          "french_18_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ça va bien",
+        "french_19_20260126_092127.mp3",
+        "french_19_t2_20260126_112549.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm fine",
+          "french_19_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Et vous?",
+        "french_20_20260126_092127.mp3",
+        "french_20_t2_20260126_112549.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "And you? (formal)",
+          "french_20_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je suis américain(e)",
+        "french_21_20260126_092127.mp3",
+        "french_21_t2_20260126_112549.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm American",
+          "french_21_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je ne parle pas français",
+        "french_22_20260126_092127.mp3",
+        "french_22_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't speak French",
+          "french_22_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Parlez-vous anglais?",
+        "french_23_20260126_092127.mp3",
+        "french_23_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you speak English?",
+          "french_23_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je ne comprends pas",
+        "french_24_20260126_092127.mp3",
+        "french_24_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't understand",
+          "french_24_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pouvez-vous m'aider?",
+        "french_25_20260126_092127.mp3",
+        "french_25_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can you help me?",
+          "french_25_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je suis perdu(e)",
+        "french_26_20260126_092127.mp3",
+        "french_26_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm lost",
+          "french_26_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Où sont les toilettes?",
+        "french_27_20260126_092127.mp3",
+        "french_27_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where are the toilets?",
+          "french_27_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Appelez la police",
+        "french_28_20260126_092127.mp3",
+        "french_28_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Call the police",
+          "french_28_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai besoin d'un médecin",
+        "french_29_20260126_092127.mp3",
+        "french_29_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I need a doctor",
+          "french_29_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Au secours!",
+        "french_30_20260126_092127.mp3",
+        "french_30_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Help!",
+          "french_30_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pouvez-vous répéter?",
+        "french_31_20260126_092127.mp3",
+        "french_31_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can you repeat?",
+          "french_31_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Plus lentement, s'il vous plaît",
+        "french_32_20260126_092127.mp3",
+        "french_32_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Slower, please",
+          "french_32_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Comment dit-on...?",
+        "french_33_20260126_092127.mp3",
+        "french_33_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How do you say...?",
+          "french_33_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Qu'est-ce que c'est?",
+        "french_34_20260126_092127.mp3",
+        "french_34_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What is this?",
+          "french_34_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Où est...?",
+        "french_35_20260126_092127.mp3",
+        "french_35_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is...?",
+          "french_35_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "La gare",
+        "french_36_20260126_092127.mp3",
+        "french_36_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The train station",
+          "french_36_0_20260126_092127.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "L'aéroport",
+        "french_37_20260126_093538.mp3",
+        "french_37_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The airport",
+          "french_37_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "L'hôtel",
+        "french_38_20260126_093538.mp3",
+        "french_38_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The hotel",
+          "french_38_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Le métro",
+        "french_39_20260126_093538.mp3",
+        "french_39_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The subway",
+          "french_39_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un taxi",
+        "french_40_20260126_093538.mp3",
+        "french_40_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A taxi",
+          "french_40_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "À gauche",
+        "french_41_20260126_093538.mp3",
+        "french_41_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "To the left",
+          "french_41_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "À droite",
+        "french_42_20260126_093538.mp3",
+        "french_42_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "To the right",
+          "french_42_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tout droit",
+        "french_43_20260126_093538.mp3",
+        "french_43_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Straight ahead",
+          "french_43_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Près d'ici",
+        "french_44_20260126_093538.mp3",
+        "french_44_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Near here",
+          "french_44_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Loin d'ici",
+        "french_45_20260126_093538.mp3",
+        "french_45_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Far from here",
+          "french_45_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un billet",
+        "french_46_20260126_093538.mp3",
+        "french_46_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A ticket",
+          "french_46_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Combien coûte le billet?",
+        "french_47_20260126_093538.mp3",
+        "french_47_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much is the ticket?",
+          "french_47_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je voudrais aller à...",
+        "french_48_20260126_093538.mp3",
+        "french_48_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I would like to go to...",
+          "french_48_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Arrêtez ici",
+        "french_49_20260126_093538.mp3",
+        "french_49_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Stop here",
+          "french_49_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est combien?",
+        "french_50_20260126_093538.mp3",
+        "french_50_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much is it?",
+          "french_50_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Trop cher",
+        "french_51_20260126_093538.mp3",
+        "french_51_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Too expensive",
+          "french_51_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je cherche...",
+        "french_52_20260126_093538.mp3",
+        "french_52_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm looking for...",
+          "french_52_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Quelle taille?",
+        "french_53_20260126_093538.mp3",
+        "french_53_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What size?",
+          "french_53_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Petit",
+        "french_54_20260126_093538.mp3",
+        "french_54_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Small",
+          "french_54_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Moyen",
+        "french_55_20260126_093538.mp3",
+        "french_55_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Medium",
+          "french_55_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Grand",
+        "french_56_20260126_093538.mp3",
+        "french_56_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Large",
+          "french_56_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je peux essayer?",
+        "french_57_20260126_093538.mp3",
+        "french_57_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can I try it on?",
+          "french_57_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je prends ça",
+        "french_58_20260126_093538.mp3",
+        "french_58_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'll take this",
+          "french_58_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Acceptez-vous les cartes de crédit?",
+        "french_59_20260126_093538.mp3",
+        "french_59_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you accept credit cards?",
+          "french_59_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un reçu, s'il vous plaît",
+        "french_60_20260126_093538.mp3",
+        "french_60_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A receipt, please",
+          "french_60_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est tout",
+        "french_61_20260126_093538.mp3",
+        "french_61_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "That's all",
+          "french_61_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une pharmacie",
+        "french_62_20260126_093538.mp3",
+        "french_62_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A pharmacy",
+          "french_62_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une boulangerie",
+        "french_63_20260126_093538.mp3",
+        "french_63_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A bakery",
+          "french_63_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un supermarché",
+        "french_64_20260126_093538.mp3",
+        "french_64_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A supermarket",
+          "french_64_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un restaurant",
+        "french_65_20260126_093538.mp3",
+        "french_65_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A restaurant",
+          "french_65_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un café",
+        "french_66_20260126_093538.mp3",
+        "french_66_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A café",
+          "french_66_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une table pour deux",
+        "french_67_20260126_093538.mp3",
+        "french_67_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A table for two",
+          "french_67_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Le menu, s'il vous plaît",
+        "french_68_20260126_093538.mp3",
+        "french_68_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The menu, please",
+          "french_68_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je voudrais...",
+        "french_69_20260126_093538.mp3",
+        "french_69_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I would like...",
+          "french_69_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "L'addition, s'il vous plaît",
+        "french_70_20260126_093538.mp3",
+        "french_70_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The bill, please",
+          "french_70_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est délicieux",
+        "french_71_20260126_093538.mp3",
+        "french_71_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's delicious",
+          "french_71_0_20260126_093538.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "L'eau",
+        "french_72_20260126_095225.mp3",
+        "french_72_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Water",
+          "french_72_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Du pain",
+        "french_73_20260126_095225.mp3",
+        "french_73_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Bread",
+          "french_73_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Du vin",
+        "french_74_20260126_095225.mp3",
+        "french_74_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Wine",
+          "french_74_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une bière",
+        "french_75_20260126_095225.mp3",
+        "french_75_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A beer",
+          "french_75_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un café",
+        "french_76_20260126_095225.mp3",
+        "french_76_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A coffee",
+          "french_76_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Du thé",
+        "french_77_20260126_095225.mp3",
+        "french_77_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Tea",
+          "french_77_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bon appétit!",
+        "french_78_20260126_095225.mp3",
+        "french_78_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Enjoy your meal!",
+          "french_78_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je suis végétarien(ne)",
+        "french_79_20260126_095225.mp3",
+        "french_79_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm vegetarian",
+          "french_79_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Sans gluten",
+        "french_80_20260126_095225.mp3",
+        "french_80_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Gluten-free",
+          "french_80_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une entrée",
+        "french_81_20260126_095225.mp3",
+        "french_81_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "An appetizer",
+          "french_81_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un plat principal",
+        "french_82_20260126_095225.mp3",
+        "french_82_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A main course",
+          "french_82_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un dessert",
+        "french_83_20260126_095225.mp3",
+        "french_83_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A dessert",
+          "french_83_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Le petit déjeuner",
+        "french_84_20260126_095225.mp3",
+        "french_84_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Breakfast",
+          "french_84_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai une réservation",
+        "french_85_20260126_095225.mp3",
+        "french_85_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a reservation",
+          "french_85_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une chambre simple",
+        "french_86_20260126_095225.mp3",
+        "french_86_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A single room",
+          "french_86_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Une chambre double",
+        "french_87_20260126_095225.mp3",
+        "french_87_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "A double room",
+          "french_87_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pour combien de nuits?",
+        "french_88_20260126_095225.mp3",
+        "french_88_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "For how many nights?",
+          "french_88_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Le WiFi",
+        "french_89_20260126_095225.mp3",
+        "french_89_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The WiFi",
+          "french_89_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "La clé",
+        "french_90_20260126_095225.mp3",
+        "french_90_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The key",
+          "french_90_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "À quelle heure est le petit déjeuner?",
+        "french_91_20260126_095225.mp3",
+        "french_91_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What time is breakfast?",
+          "french_91_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Quelle heure est-il?",
+        "french_92_20260126_095225.mp3",
+        "french_92_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What time is it?",
+          "french_92_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Aujourd'hui",
+        "french_93_20260126_095225.mp3",
+        "french_93_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Today",
+          "french_93_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Demain",
+        "french_94_20260126_095225.mp3",
+        "french_94_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Tomorrow",
+          "french_94_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Hier",
+        "french_95_20260126_095225.mp3",
+        "french_95_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Yesterday",
+          "french_95_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Maintenant",
+        "french_96_20260126_095225.mp3",
+        "french_96_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Now",
+          "french_96_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Plus tard",
+        "french_97_20260126_095225.mp3",
+        "french_97_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Later",
+          "french_97_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Un, deux, trois",
+        "french_98_20260126_095225.mp3",
+        "french_98_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "One, two, three",
+          "french_98_0_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Combien de temps?",
+        "french_99_20260126_095225.mp3",
+        "french_99_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How long/How much time?",
+          "french_99_0_20260126_095225.mp3"
+        ]
+      ]
+    }
+  ]
+}

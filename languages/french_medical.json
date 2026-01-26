@@ -1,0 +1,1406 @@
+{
+  "course_name": "Medical French basics",
+  "language_code": "fr-FR",
+  "sentences": [
+    {
+      "sentence": [
+        "Bonjour, je suis le docteur Martin.",
+        "french-medical_0_t1_20260126_170552.mp3",
+        "french-medical_0_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hello, I am Doctor Martin.",
+          "french-medical_0_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Comment vous appelez-vous?",
+        "french-medical_1_t1_20260126_170552.mp3",
+        "french-medical_1_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What is your name?",
+          "french-medical_1_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Asseyez-vous, s'il vous plaît.",
+        "french_medical.json_2_t1_20260126_195953.mp3",
+        "french-medical_2_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please sit down.",
+          "french-medical_2_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Comment vous sentez-vous aujourd'hui?",
+        "french-medical_3_t1_20260126_170552.mp3",
+        "french-medical_3_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How are you feeling today?",
+          "french-medical_3_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Qu'est-ce qui vous amène aujourd'hui?",
+        "french-medical_4_t1_20260126_170552.mp3",
+        "french-medical_4_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What brings you here today?",
+          "french-medical_4_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Où avez-vous mal?",
+        "french-medical_5_t1_20260126_170552.mp3",
+        "french-medical_5_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where does it hurt?",
+          "french-medical_5_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai mal à la tête.",
+        "french-medical_6_t1_20260126_170552.mp3",
+        "french-medical_6_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a headache.",
+          "french-medical_6_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai mal au ventre.",
+        "french-medical_7_t1_20260126_170552.mp3",
+        "french-medical_7_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a stomachache.",
+          "french-medical_7_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai de la fièvre.",
+        "french-medical_8_t1_20260126_170552.mp3",
+        "french-medical_8_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a fever.",
+          "french-medical_8_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je tousse beaucoup.",
+        "french-medical_9_t1_20260126_170552.mp3",
+        "french-medical_9_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm coughing a lot.",
+          "french-medical_9_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai des nausées.",
+        "french-medical_10_t1_20260126_170552.mp3",
+        "french-medical_10_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I feel nauseous.",
+          "french-medical_10_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai des vertiges.",
+        "french-medical_11_t1_20260126_170552.mp3",
+        "french-medical_11_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I feel dizzy.",
+          "french-medical_11_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai mal à la gorge.",
+        "french-medical_12_t1_20260126_170552.mp3",
+        "french-medical_12_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a sore throat.",
+          "french-medical_12_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai des douleurs thoraciques.",
+        "french-medical_13_t1_20260126_170552.mp3",
+        "french-medical_13_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have chest pain.",
+          "french-medical_13_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je me sens faible.",
+        "french-medical_14_t1_20260126_170552.mp3",
+        "french-medical_14_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I feel weak.",
+          "french-medical_14_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai du mal à respirer.",
+        "french-medical_15_t1_20260126_170552.mp3",
+        "french-medical_15_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm having trouble breathing.",
+          "french-medical_15_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai vomi.",
+        "french-medical_16_t1_20260126_170552.mp3",
+        "french-medical_16_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I vomited.",
+          "french-medical_16_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai la diarrhée.",
+        "french-medical_17_t1_20260126_170552.mp3",
+        "french-medical_17_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have diarrhea.",
+          "french-medical_17_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je suis constipé(e).",
+        "french-medical_18_t1_20260126_170552.mp3",
+        "french-medical_18_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm constipated.",
+          "french-medical_18_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai des démangeaisons.",
+        "french-medical_19_t1_20260126_170552.mp3",
+        "french-medical_19_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have itching.",
+          "french-medical_19_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avez-vous des allergies?",
+        "french-medical_20_t1_20260126_170552.mp3",
+        "french-medical_20_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have any allergies?",
+          "french-medical_20_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Prenez-vous des médicaments?",
+        "french-medical_21_t1_20260126_170552.mp3",
+        "french-medical_21_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Are you taking any medications?",
+          "french-medical_21_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avez-vous des antécédents médicaux?",
+        "french-medical_22_t1_20260126_170552.mp3",
+        "french-medical_22_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have any medical history?",
+          "french-medical_22_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Êtes-vous enceinte?",
+        "french-medical_23_t1_20260126_170552.mp3",
+        "french-medical_23_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Are you pregnant?",
+          "french-medical_23_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Fumez-vous?",
+        "french-medical_24_t1_20260126_170552.mp3",
+        "french-medical_24_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you smoke?",
+          "french-medical_24_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Buvez-vous de l'alcool?",
+        "french-medical_25_t1_20260126_170552.mp3",
+        "french-medical_25_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you drink alcohol?",
+          "french-medical_25_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avez-vous des problèmes cardiaques?",
+        "french-medical_26_t1_20260126_170552.mp3",
+        "french-medical_26_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have heart problems?",
+          "french-medical_26_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Êtes-vous diabétique?",
+        "french-medical_27_t1_20260126_170552.mp3",
+        "french-medical_27_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Are you diabetic?",
+          "french-medical_27_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avez-vous de l'hypertension?",
+        "french-medical_28_t1_20260126_170552.mp3",
+        "french-medical_28_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have high blood pressure?",
+          "french-medical_28_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avez-vous déjà été opéré(e)?",
+        "french-medical_29_t1_20260126_170552.mp3",
+        "french-medical_29_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Have you ever had surgery?",
+          "french-medical_29_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je vais prendre votre tension artérielle.",
+        "french-medical_30_t1_20260126_170552.mp3",
+        "french-medical_30_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm going to take your blood pressure.",
+          "french-medical_30_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ouvrez la bouche.",
+        "french-medical_31_t1_20260126_170552.mp3",
+        "french-medical_31_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Open your mouth.",
+          "french-medical_31_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tirez la langue.",
+        "french-medical_32_t1_20260126_170552.mp3",
+        "french-medical_32_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Stick out your tongue.",
+          "french-medical_32_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Respirez profondément.",
+        "french-medical_33_t1_20260126_170552.mp3",
+        "french-medical_33_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Breathe deeply.",
+          "french-medical_33_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Toussez, s'il vous plaît.",
+        "french-medical_34_t1_20260126_170552.mp3",
+        "french-medical_34_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Cough, please.",
+          "french-medical_34_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Levez votre bras.",
+        "french-medical_35_t1_20260126_170552.mp3",
+        "french-medical_35_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Raise your arm.",
+          "french-medical_35_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je vais écouter votre cœur.",
+        "french-medical_36_t1_20260126_170552.mp3",
+        "french-medical_36_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm going to listen to your heart.",
+          "french-medical_36_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je vais palper votre abdomen.",
+        "french-medical_37_t1_20260126_170552.mp3",
+        "french-medical_37_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm going to palpate your abdomen.",
+          "french-medical_37_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Allongez-vous sur le dos.",
+        "french-medical_38_t1_20260126_170552.mp3",
+        "french-medical_38_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Lie down on your back.",
+          "french-medical_38_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tournez-vous sur le côté.",
+        "french-medical_39_t1_20260126_170552.mp3",
+        "french-medical_39_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Turn on your side.",
+          "french-medical_39_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Nous devons faire une prise de sang.",
+        "french-medical_40_t1_20260126_170552.mp3",
+        "french-medical_40_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "We need to do a blood test.",
+          "french-medical_40_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je vais vous prescrire une radiographie.",
+        "french-medical_41_t1_20260126_170552.mp3",
+        "french-medical_41_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm going to order an X-ray for you.",
+          "french-medical_41_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Il faut faire un scanner.",
+        "french-medical_42_t1_20260126_170552.mp3",
+        "french-medical_42_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "We need to do a CT scan.",
+          "french-medical_42_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous aurez besoin d'une échographie.",
+        "french-medical_43_t1_20260126_170552.mp3",
+        "french-medical_43_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You'll need an ultrasound.",
+          "french-medical_43_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je vais faire une piqûre.",
+        "french-medical_44_t1_20260126_170552.mp3",
+        "french-medical_44_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm going to give you an injection.",
+          "french-medical_44_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Il faut faire un électrocardiogramme (ECG).",
+        "french-medical_45_t1_20260126_170552.mp3",
+        "french-medical_45_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "We need to do an electrocardiogram (ECG).",
+          "french-medical_45_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Nous allons faire une biopsie.",
+        "french-medical_46_t1_20260126_170552.mp3",
+        "french-medical_46_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "We're going to do a biopsy.",
+          "french-medical_46_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Les résultats seront prêts dans deux jours.",
+        "french-medical_47_t1_20260126_170552.mp3",
+        "french-medical_47_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The results will be ready in two days.",
+          "french-medical_47_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous devez être à jeun.",
+        "french-medical_48_t1_20260126_170552.mp3",
+        "french-medical_48_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You must be fasting.",
+          "french-medical_48_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Il faut uriner dans ce récipient.",
+        "french-medical_49_t1_20260126_170552.mp3",
+        "french-medical_49_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You need to urinate in this container.",
+          "french-medical_49_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous avez une infection.",
+        "french-medical_50_t1_20260126_170552.mp3",
+        "french-medical_50_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You have an infection.",
+          "french-medical_50_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est une grippe.",
+        "french-medical_51_t1_20260126_170552.mp3",
+        "french-medical_51_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's the flu.",
+          "french-medical_51_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous avez une angine.",
+        "french-medical_52_t1_20260126_170552.mp3",
+        "french-medical_52_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You have tonsillitis.",
+          "french-medical_52_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est une fracture.",
+        "french-medical_53_t1_20260126_170552.mp3",
+        "french-medical_53_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's a fracture.",
+          "french-medical_53_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous avez une entorse.",
+        "french-medical_54_t1_20260126_170552.mp3",
+        "french-medical_54_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You have a sprain.",
+          "french-medical_54_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est une inflammation.",
+        "french-medical_55_t1_20260126_170552.mp3",
+        "french-medical_55_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's an inflammation.",
+          "french-medical_55_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous avez une bronchite.",
+        "french-medical_56_t1_20260126_170552.mp3",
+        "french-medical_56_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You have bronchitis.",
+          "french-medical_56_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est une pneumonie.",
+        "french-medical_57_t1_20260126_170552.mp3",
+        "french-medical_57_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's pneumonia.",
+          "french-medical_57_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous avez une gastro-entérite.",
+        "french-medical_58_t1_20260126_170552.mp3",
+        "french-medical_58_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You have gastroenteritis.",
+          "french-medical_58_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est bénin.",
+        "french-medical_59_t1_20260126_170552.mp3",
+        "french-medical_59_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's benign.",
+          "french-medical_59_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je vais vous prescrire des antibiotiques.",
+        "french-medical_60_t1_20260126_170552.mp3",
+        "french-medical_60_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm going to prescribe you antibiotics.",
+          "french-medical_60_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Prenez ce médicament trois fois par jour.",
+        "french-medical_61_t1_20260126_170552.mp3",
+        "french-medical_61_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Take this medication three times a day.",
+          "french-medical_61_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Prenez-le avant les repas.",
+        "french-medical_62_t1_20260126_170552.mp3",
+        "french-medical_62_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Take it before meals.",
+          "french-medical_62_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Prenez-le après les repas.",
+        "french-medical_63_t1_20260126_170552.mp3",
+        "french-medical_63_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Take it after meals.",
+          "french-medical_63_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avalez le comprimé avec de l'eau.",
+        "french-medical_64_t1_20260126_170552.mp3",
+        "french-medical_64_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Swallow the tablet with water.",
+          "french-medical_64_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "N'arrêtez pas le traitement.",
+        "french-medical_65_t1_20260126_170552.mp3",
+        "french-medical_65_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Don't stop the treatment.",
+          "french-medical_65_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Appliquez cette crème deux fois par jour.",
+        "french-medical_66_t1_20260126_170552.mp3",
+        "french-medical_66_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Apply this cream twice a day.",
+          "french-medical_66_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Prenez ce sirop contre la toux.",
+        "french-medical_67_t1_20260126_170552.mp3",
+        "french-medical_67_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Take this cough syrup.",
+          "french-medical_67_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Utilisez ces gouttes pour les yeux.",
+        "french-medical_68_t1_20260126_170552.mp3",
+        "french-medical_68_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Use these eye drops.",
+          "french-medical_68_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Respectez la posologie.",
+        "french-medical_69_t1_20260126_170552.mp3",
+        "french-medical_69_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Follow the dosage instructions.",
+          "french-medical_69_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Appelez une ambulance!",
+        "french-medical_70_t1_20260126_170552.mp3",
+        "french-medical_70_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Call an ambulance!",
+          "french-medical_70_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "C'est une urgence.",
+        "french-medical_71_t1_20260126_170552.mp3",
+        "french-medical_71_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's an emergency.",
+          "french-medical_71_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Où sont les urgences?",
+        "french-medical_72_t1_20260126_170552.mp3",
+        "french-medical_72_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is the emergency room?",
+          "french-medical_72_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "J'ai besoin d'un médecin.",
+        "french-medical_73_t1_20260126_170552.mp3",
+        "french-medical_73_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I need a doctor.",
+          "french-medical_73_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Je dois être hospitalisé(e).",
+        "french-medical_74_t1_20260126_170552.mp3",
+        "french-medical_74_t2_20260126_170552.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I need to be hospitalized.",
+          "french-medical_74_0_20260126_170552.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous devez rester à l'hôpital.",
+        "french-medical_75_t1_20260126_180413.mp3",
+        "french-medical_75_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You need to stay in the hospital.",
+          "french-medical_75_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Quel est votre groupe sanguin?",
+        "french-medical_76_t1_20260126_180413.mp3",
+        "french-medical_76_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What is your blood type?",
+          "french-medical_76_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Avez-vous une assurance maladie?",
+        "french-medical_77_t1_20260126_180413.mp3",
+        "french-medical_77_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have health insurance?",
+          "french-medical_77_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Signez ici, s'il vous plaît.",
+        "french-medical_78_t1_20260126_180413.mp3",
+        "french-medical_78_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Sign here, please.",
+          "french-medical_78_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Le chirurgien va vous voir.",
+        "french-medical_79_t1_20260126_180413.mp3",
+        "french-medical_79_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "The surgeon will see you.",
+          "french-medical_79_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "la tête",
+        "french-medical_80_t1_20260126_180413.mp3",
+        "french-medical_80_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the head",
+          "french-medical_80_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le cou",
+        "french-medical_81_t1_20260126_180413.mp3",
+        "french-medical_81_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the neck",
+          "french-medical_81_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "l'épaule",
+        "french-medical_82_t1_20260126_180413.mp3",
+        "french-medical_82_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the shoulder",
+          "french-medical_82_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le bras",
+        "french-medical_83_t1_20260126_180413.mp3",
+        "french-medical_83_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the arm",
+          "french-medical_83_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le coude",
+        "french-medical_84_t1_20260126_180413.mp3",
+        "french-medical_84_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the elbow",
+          "french-medical_84_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le poignet",
+        "french-medical_85_t1_20260126_180413.mp3",
+        "french-medical_85_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the wrist",
+          "french-medical_85_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "la main",
+        "french-medical_86_t1_20260126_180413.mp3",
+        "french-medical_86_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the hand",
+          "french-medical_86_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "la poitrine",
+        "french-medical_87_t1_20260126_180413.mp3",
+        "french-medical_87_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the chest",
+          "french-medical_87_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le dos",
+        "french-medical_88_t1_20260126_180413.mp3",
+        "french-medical_88_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the back",
+          "french-medical_88_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le genou",
+        "french-medical_89_t1_20260126_180413.mp3",
+        "french-medical_89_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the knee",
+          "french-medical_89_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "la cheville",
+        "french-medical_90_t1_20260126_180413.mp3",
+        "french-medical_90_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the ankle",
+          "french-medical_90_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "le pied",
+        "french-medical_91_t1_20260126_180413.mp3",
+        "french-medical_91_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "the foot",
+          "french-medical_91_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Revenez me voir dans une semaine.",
+        "french-medical_92_t1_20260126_180413.mp3",
+        "french-medical_92_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Come back to see me in a week.",
+          "french-medical_92_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous devez vous reposer.",
+        "french-medical_93_t1_20260126_180413.mp3",
+        "french-medical_93_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You need to rest.",
+          "french-medical_93_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Buvez beaucoup d'eau.",
+        "french-medical_94_t1_20260126_180413.mp3",
+        "french-medical_94_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Drink plenty of water.",
+          "french-medical_94_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Évitez l'alcool.",
+        "french-medical_95_t1_20260126_180413.mp3",
+        "french-medical_95_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Avoid alcohol.",
+          "french-medical_95_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Mangez léger.",
+        "french-medical_96_t1_20260126_180413.mp3",
+        "french-medical_96_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Eat light foods.",
+          "french-medical_96_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ne faites pas d'efforts physiques.",
+        "french-medical_97_t1_20260126_180413.mp3",
+        "french-medical_97_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Don't do any physical exertion.",
+          "french-medical_97_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vous allez vous rétablir rapidement.",
+        "french-medical_98_t1_20260126_180413.mp3",
+        "french-medical_98_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You will recover quickly.",
+          "french-medical_98_0_20260126_180413.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "1Prenez soin de vous.",
+        "french-medical_99_t1_20260126_180413.mp3",
+        "french-medical_99_t2_20260126_180413.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Take care of yourself.",
+          "french-medical_99_0_20260126_180413.mp3"
+        ]
+      ]
+    }
+  ]
+}

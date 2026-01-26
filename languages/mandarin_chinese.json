@@ -1,0 +1,2856 @@
+{
+  "course_name": "Mandarin Chinese basics",
+  "language_code": "cmn-CN",
+  "sentences": [
+    {
+      "sentence": [
+        "你好",
+        "mandarin_0_t1_20260126_152429.mp3",
+        "mandarin_0_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hello",
+          "mandarin-1_0_0_20260125_184314.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonjour",
+          "mandarin-1_0_1_20260125_184314.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "谢谢",
+        "mandarin_1_t1_20260126_134420.mp3",
+        "mandarin_1_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you",
+          "mandarin-1_1_0_20260125_184314.mp3"
+        ],
+        [
+          "fr-FR",
+          "Merci",
+          "mandarin-1_1_1_20260125_184314.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "不客气",
+        "mandarin_2_t1_20260126_152429.mp3",
+        "mandarin_2_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You're welcome",
+          "mandarin-1_2_0_20260125_184314.mp3"
+        ],
+        [
+          "fr-FR",
+          "De rien",
+          "mandarin-1_2_1_20260125_184314.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "对不起",
+        "mandarin_3_t1_20260126_152429.mp3",
+        "mandarin_3_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Sorry",
+          "mandarin-1_3_0_20260125_184314.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pardon",
+          "mandarin_3_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "再见",
+        "mandarin_4_t1_20260126_152429.mp3",
+        "mandarin_4_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Goodbye",
+          "mandarin-1_4_0_20260125_184314.mp3"
+        ],
+        [
+          "fr-FR",
+          "Au revoir",
+          "mandarin-1_4_1_20260125_184314.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "早上好",
+        "mandarin_5_t1_20260126_152429.mp3",
+        "mandarin_5_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good morning",
+          "mandarin-1_5_0_20260125_184507.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonjour (matin)",
+          "mandarin-1_5_1_20260125_184507.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "晚上好",
+        "mandarin-1_6_20260125_184507.mp3",
+        "mandarin_6_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good evening",
+          "mandarin-1_6_0_20260125_184507.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonsoir",
+          "mandarin-1_6_1_20260125_184507.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "请",
+        "mandarin_7_t1_20260126_152429.mp3",
+        "mandarin_7_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please",
+          "mandarin-1_7_0_20260125_184507.mp3"
+        ],
+        [
+          "fr-FR",
+          "S'il vous plaît",
+          "mandarin-1_7_1_20260125_184507.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "是",
+        "mandarin-1_8_20260125_184507.mp3",
+        "mandarin_8_t2_20260126_152429.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Yes",
+          "mandarin-1_8_0_20260125_184507.mp3"
+        ],
+        [
+          "fr-FR",
+          "Oui",
+          "mandarin-1_8_1_20260125_184507.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "不是",
+        "mandarin-1_9_20260125_203828.mp3",
+        "mandarin_9_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "No",
+          "mandarin-1_9_0_20260125_203828.mp3"
+        ],
+        [
+          "fr-FR",
+          "Non",
+          "mandarin-1_9_1_20260125_203828.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "这是哪里?",
+        "mandarin-1_10_20260125_203852.mp3",
+        "mandarin_10_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is this?",
+          "mandarin-1_10_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où est-ce?",
+          "mandarin-1_10_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "洗手间在哪里?",
+        "mandarin-1_11_20260125_203852.mp3",
+        "mandarin_11_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is the bathroom?",
+          "mandarin-1_11_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où sont les toilettes?",
+          "mandarin-1_11_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我迷路了",
+        "mandarin-1_12_20260125_203852.mp3",
+        "mandarin_12_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm lost",
+          "mandarin-1_12_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis perdu(e)",
+          "mandarin-1_12_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "多少钱?",
+        "mandarin-1_13_20260125_203852.mp3",
+        "mandarin_13_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much?",
+          "mandarin-1_13_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Combien ça coûte?",
+          "mandarin-1_13_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "太贵了",
+        "mandarin-1_14_20260125_203852.mp3",
+        "mandarin_14_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Too expensive",
+          "mandarin-1_14_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Trop cher",
+          "mandarin-1_14_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "出租车",
+        "mandarin-1_15_20260125_203852.mp3",
+        "mandarin_15_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Taxi",
+          "mandarin-1_15_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Taxi",
+          "mandarin-1_15_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "地铁",
+        "mandarin-1_16_20260125_203852.mp3",
+        "mandarin_16_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Subway",
+          "mandarin-1_16_0_20260125_203852.mp3"
+        ],
+        [
+          "fr-FR",
+          "Métro",
+          "mandarin-1_16_1_20260125_203852.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "火车站",
+        "mandarin-1_17_20260125_204835.mp3",
+        "mandarin_17_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Train station",
+          "mandarin-1_17_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Gare",
+          "mandarin-1_17_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "机场",
+        "mandarin-1_18_20260125_204835.mp3",
+        "mandarin_18_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Airport",
+          "mandarin-1_18_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aéroport",
+          "mandarin-1_18_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "酒店",
+        "mandarin-1_19_20260125_204835.mp3",
+        "mandarin_19_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hotel",
+          "mandarin-1_19_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Hôtel",
+          "mandarin-1_19_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我不懂",
+        "mandarin-1_20_20260125_204835.mp3",
+        "mandarin_20_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't understand",
+          "mandarin-1_20_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je ne comprends pas",
+          "mandarin-1_20_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "你会说英语吗?",
+        "mandarin-1_21_20260125_204835.mp3",
+        "mandarin_21_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you speak English?",
+          "mandarin-1_21_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Parlez-vous anglais?",
+          "mandarin-1_21_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "请慢一点说",
+        "mandarin-1_22_20260125_204835.mp3",
+        "mandarin_22_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please speak slowly",
+          "mandarin-1_22_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Parlez plus lentement s'il vous plaît",
+          "mandarin-1_22_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我叫...",
+        "mandarin-1_23_20260125_204835.mp3",
+        "mandarin_23_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "My name is...",
+          "mandarin-1_23_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je m'appelle...",
+          "mandarin-1_23_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "你叫什么名字?",
+        "mandarin-1_24_20260125_204835.mp3",
+        "mandarin_24_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What's your name?",
+          "mandarin-1_24_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment vous appelez-vous?",
+          "mandarin-1_24_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我饿了",
+        "mandarin-1_25_20260125_204835.mp3",
+        "mandarin_25_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm hungry",
+          "mandarin-1_25_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai faim",
+          "mandarin-1_25_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我渴了",
+        "mandarin-1_26_20260125_204835.mp3",
+        "mandarin_26_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm thirsty",
+          "mandarin-1_26_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai soif",
+          "mandarin-1_26_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "菜单",
+        "mandarin-1_27_20260125_204835.mp3",
+        "mandarin_27_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Menu",
+          "mandarin-1_27_0_20260125_204835.mp3"
+        ],
+        [
+          "fr-FR",
+          "Menu",
+          "mandarin-1_27_1_20260125_204835.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "水",
+        "mandarin_28_20260125_222310.mp3",
+        "mandarin_28_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Water",
+          "mandarin_28_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Eau",
+          "mandarin_28_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "啤酒",
+        "mandarin_29_20260125_222310.mp3",
+        "mandarin_29_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Beer",
+          "mandarin_29_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bière",
+          "mandarin_29_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "茶",
+        "mandarin_30_20260125_222310.mp3",
+        "mandarin_30_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Tea",
+          "mandarin_30_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Thé",
+          "mandarin_30_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "咖啡",
+        "mandarin_31_20260125_222310.mp3",
+        "mandarin_31_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Coffee",
+          "mandarin_31_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Café",
+          "mandarin_31_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "米饭",
+        "mandarin_32_20260125_222310.mp3",
+        "mandarin_32_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Rice",
+          "mandarin_32_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Riz",
+          "mandarin_32_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "好吃",
+        "mandarin_33_20260125_222310.mp3",
+        "mandarin_33_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Delicious",
+          "mandarin_33_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Délicieux",
+          "mandarin_33_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "买单",
+        "mandarin_34_20260125_222310.mp3",
+        "mandarin_34_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Check please",
+          "mandarin_34_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "L'addition s'il vous plaît",
+          "mandarin_34_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我不吃肉",
+        "mandarin_35_20260125_222310.mp3",
+        "mandarin_35_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't eat meat",
+          "mandarin_35_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je ne mange pas de viande",
+          "mandarin_35_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我想买这个",
+        "mandarin_36_20260125_222310.mp3",
+        "mandarin_36_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I want to buy this",
+          "mandarin_36_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je veux acheter ceci",
+          "mandarin_36_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "可以便宜一点吗?",
+        "mandarin_37_20260125_222310.mp3",
+        "mandarin_37_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can it be cheaper?",
+          "mandarin_37_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pouvez-vous baisser le prix?",
+          "mandarin_37_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我只是看看",
+        "mandarin_38_20260125_222310.mp3",
+        "mandarin_38_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm just looking",
+          "mandarin_38_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je regarde seulement",
+          "mandarin_38_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "救命",
+        "mandarin_39_20260125_222310.mp3",
+        "mandarin_39_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Help",
+          "mandarin_39_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Au secours",
+          "mandarin_39_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "医院",
+        "mandarin_40_20260125_222310.mp3",
+        "mandarin_40_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hospital",
+          "mandarin_40_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Hôpital",
+          "mandarin_40_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "医生",
+        "mandarin_41_20260125_222310.mp3",
+        "mandarin_41_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Doctor",
+          "mandarin_41_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Médecin",
+          "mandarin_41_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "报警",
+        "mandarin_42_20260125_222310.mp3",
+        "mandarin_42_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Call the police",
+          "mandarin_42_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Appeler la police",
+          "mandarin_42_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我生病了",
+        "mandarin_43_20260125_222310.mp3",
+        "mandarin_43_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm sick",
+          "mandarin_43_0_20260125_222310.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis malade",
+          "mandarin_43_1_20260125_222310.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "没问题",
+        "mandarin_44_20260126_095225.mp3",
+        "mandarin_44_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "No problem",
+          "mandarin_44_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pas de problème",
+          "mandarin_44_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "等一下",
+        "mandarin_45_20260126_095225.mp3",
+        "mandarin_45_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Wait a moment",
+          "mandarin_45_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Attendez un instant",
+          "mandarin_45_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我明白了",
+        "mandarin_46_20260126_095225.mp3",
+        "mandarin_46_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I understand",
+          "mandarin_46_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je comprends",
+          "mandarin_46_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "非常好",
+        "mandarin_47_20260126_095225.mp3",
+        "mandarin_47_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Very good",
+          "mandarin_47_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Très bien",
+          "mandarin_47_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "今天",
+        "mandarin_48_20260126_095225.mp3",
+        "mandarin_48_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Today",
+          "mandarin_48_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aujourd'hui",
+          "mandarin_48_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "明天",
+        "mandarin_49_20260126_095225.mp3",
+        "mandarin_49_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Tomorrow",
+          "mandarin_49_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Demain",
+          "mandarin_49_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "你好吗?",
+        "mandarin_50_20260126_095225.mp3",
+        "mandarin_50_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How are you?",
+          "mandarin_50_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment allez-vous?",
+          "mandarin_50_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我很好",
+        "mandarin_51_20260126_095225.mp3",
+        "mandarin_51_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm fine",
+          "mandarin_51_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je vais bien",
+          "mandarin_51_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "很高兴认识你",
+        "mandarin_52_20260126_095225.mp3",
+        "mandarin_52_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Nice to meet you",
+          "mandarin_52_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Enchanté(e)",
+          "mandarin_52_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "劳驾",
+        "mandarin_53_20260126_095225.mp3",
+        "mandarin_53_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Excuse me",
+          "mandarin_53_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Excusez-moi",
+          "mandarin_53_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "没关系",
+        "mandarin_54_20260126_095225.mp3",
+        "mandarin_54_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's okay/Never mind",
+          "mandarin_54_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Ce n'est rien",
+          "mandarin_54_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "祝你好运",
+        "mandarin_55_20260126_095225.mp3",
+        "mandarin_55_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good luck",
+          "mandarin_55_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonne chance",
+          "mandarin_55_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "恭喜",
+        "mandarin_56_20260126_095225.mp3",
+        "mandarin_56_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Congratulations",
+          "mandarin_56_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Félicitations",
+          "mandarin_56_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "欢迎",
+        "mandarin_57_20260126_095225.mp3",
+        "mandarin_57_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Welcome",
+          "mandarin_57_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bienvenue",
+          "mandarin_57_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "晚安",
+        "mandarin_58_20260126_095225.mp3",
+        "mandarin_58_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good night",
+          "mandarin_58_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonne nuit",
+          "mandarin_58_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "一路平安",
+        "mandarin_59_20260126_095225.mp3",
+        "mandarin_59_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Have a safe trip",
+          "mandarin_59_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bon voyage",
+          "mandarin_59_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "左边",
+        "mandarin_60_20260126_095225.mp3",
+        "mandarin_60_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Left side",
+          "mandarin_60_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "À gauche",
+          "mandarin_60_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "右边",
+        "mandarin_61_20260126_095225.mp3",
+        "mandarin_61_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Right side",
+          "mandarin_61_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "À droite",
+          "mandarin_61_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "直走",
+        "mandarin_62_20260126_095225.mp3",
+        "mandarin_62_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Go straight",
+          "mandarin_62_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Tout droit",
+          "mandarin_62_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "前面",
+        "mandarin_63_20260126_095225.mp3",
+        "mandarin_63_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "In front",
+          "mandarin_63_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Devant",
+          "mandarin_63_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "后面",
+        "mandarin_64_20260126_095225.mp3",
+        "mandarin_64_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Behind",
+          "mandarin_64_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Derrière",
+          "mandarin_64_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "旁边",
+        "mandarin_65_20260126_095225.mp3",
+        "mandarin_65_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Next to",
+          "mandarin_65_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "À côté de",
+          "mandarin_65_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "远吗?",
+        "mandarin_66_20260126_095225.mp3",
+        "mandarin_66_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Is it far?",
+          "mandarin_66_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est loin?",
+          "mandarin_66_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "很近",
+        "mandarin_67_20260126_095225.mp3",
+        "mandarin_67_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Very close",
+          "mandarin_67_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Très proche",
+          "mandarin_67_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "公交车站",
+        "mandarin_68_20260126_095225.mp3",
+        "mandarin_68_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Bus stop",
+          "mandarin_68_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Arrêt de bus",
+          "mandarin_68_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "银行",
+        "mandarin_69_20260126_095225.mp3",
+        "mandarin_69_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Bank",
+          "mandarin_69_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Banque",
+          "mandarin_69_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "超市",
+        "mandarin_70_20260126_095225.mp3",
+        "mandarin_70_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Supermarket",
+          "mandarin_70_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Supermarché",
+          "mandarin_70_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "药店",
+        "mandarin_71_20260126_095225.mp3",
+        "mandarin_71_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Pharmacy",
+          "mandarin_71_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pharmacie",
+          "mandarin_71_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "邮局",
+        "mandarin_72_20260126_095225.mp3",
+        "mandarin_72_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Post office",
+          "mandarin_72_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bureau de poste",
+          "mandarin_72_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "博物馆",
+        "mandarin_73_20260126_095225.mp3",
+        "mandarin_73_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Museum",
+          "mandarin_73_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Musée",
+          "mandarin_73_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "公园",
+        "mandarin_74_20260126_095225.mp3",
+        "mandarin_74_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Park",
+          "mandarin_74_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Parc",
+          "mandarin_74_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "便宜",
+        "mandarin_75_20260126_095225.mp3",
+        "mandarin_75_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Cheap",
+          "mandarin_75_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bon marché",
+          "mandarin_75_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "贵",
+        "mandarin_76_20260126_095225.mp3",
+        "mandarin_76_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Expensive",
+          "mandarin_76_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Cher",
+          "mandarin_76_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "打折",
+        "mandarin_77_20260126_095225.mp3",
+        "mandarin_77_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Discount",
+          "mandarin_77_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Réduction",
+          "mandarin_77_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "收据",
+        "mandarin_78_20260126_095225.mp3",
+        "mandarin_78_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Receipt",
+          "mandarin_78_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Reçu",
+          "mandarin_78_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "现金",
+        "mandarin_79_20260126_095225.mp3",
+        "mandarin_79_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Cash",
+          "mandarin_79_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Espèces",
+          "mandarin_79_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "信用卡",
+        "mandarin_80_20260126_095225.mp3",
+        "mandarin_80_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Credit card",
+          "mandarin_80_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Carte de crédit",
+          "mandarin_80_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "换钱",
+        "mandarin_81_20260126_095225.mp3",
+        "mandarin_81_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Exchange money",
+          "mandarin_81_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Changer de l'argent",
+          "mandarin_81_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "找钱",
+        "mandarin_82_20260126_095225.mp3",
+        "mandarin_82_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Change (money back)",
+          "mandarin_82_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "La monnaie",
+          "mandarin_82_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "大的",
+        "mandarin_83_20260126_095225.mp3",
+        "mandarin_83_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Big/Large",
+          "mandarin_83_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Grand",
+          "mandarin_83_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "小的",
+        "mandarin_84_20260126_095225.mp3",
+        "mandarin_84_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Small",
+          "mandarin_84_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Petit",
+          "mandarin_84_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "颜色",
+        "mandarin_85_20260126_095225.mp3",
+        "mandarin_85_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Color",
+          "mandarin_85_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Couleur",
+          "mandarin_85_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "红色",
+        "mandarin_86_20260126_095225.mp3",
+        "mandarin_86_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Red",
+          "mandarin_86_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Rouge",
+          "mandarin_86_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "蓝色",
+        "mandarin_87_20260126_095225.mp3",
+        "mandarin_87_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Blue",
+          "mandarin_87_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bleu",
+          "mandarin_87_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "白色",
+        "mandarin_88_20260126_095225.mp3",
+        "mandarin_88_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "White",
+          "mandarin_88_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Blanc",
+          "mandarin_88_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "黑色",
+        "mandarin_89_20260126_095225.mp3",
+        "mandarin_89_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Black",
+          "mandarin_89_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Noir",
+          "mandarin_89_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "早餐",
+        "mandarin_90_20260126_095225.mp3",
+        "mandarin_90_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Breakfast",
+          "mandarin_90_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Petit-déjeuner",
+          "mandarin_90_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "午餐",
+        "mandarin_91_20260126_095225.mp3",
+        "mandarin_91_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Lunch",
+          "mandarin_91_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Déjeuner",
+          "mandarin_91_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "晚餐",
+        "mandarin_92_20260126_095225.mp3",
+        "mandarin_92_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Dinner",
+          "mandarin_92_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Dîner",
+          "mandarin_92_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "筷子",
+        "mandarin_93_20260126_095225.mp3",
+        "mandarin_93_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Chopsticks",
+          "mandarin_93_0_20260126_095225.mp3"
+        ],
+        [
+          "fr-FR",
+          "Baguettes",
+          "mandarin_93_1_20260126_095225.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "勺子",
+        "mandarin_94_20260126_105911.mp3",
+        "mandarin_94_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Spoon",
+          "mandarin_94_0_20260126_105911.mp3"
+        ],
+        [
+          "fr-FR",
+          "Cuillère",
+          "mandarin_94_1_20260126_105911.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "刀叉",
+        "mandarin_95_20260126_105911.mp3",
+        "mandarin_95_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Knife and fork",
+          "mandarin_95_0_20260126_105911.mp3"
+        ],
+        [
+          "fr-FR",
+          "Couteau et fourchette",
+          "mandarin_95_1_20260126_105911.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "辣",
+        "mandarin_96_20260126_105911.mp3",
+        "mandarin_96_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Spicy",
+          "mandarin_96_0_20260126_105911.mp3"
+        ],
+        [
+          "fr-FR",
+          "Épicé",
+          "mandarin_96_1_20260126_105911.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "不要辣",
+        "mandarin_97_t1_20260126_112642.mp3",
+        "mandarin_97_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Not spicy",
+          "mandarin_97_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pas épicé",
+          "mandarin_97_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "甜",
+        "mandarin_98_t1_20260126_112642.mp3",
+        "mandarin_98_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Sweet",
+          "mandarin_98_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Sucré",
+          "mandarin_98_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "酸",
+        "mandarin_99_t1_20260126_112642.mp3",
+        "mandarin_99_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Sour",
+          "mandarin_99_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aigre",
+          "mandarin_99_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "咸",
+        "mandarin_100_t1_20260126_112642.mp3",
+        "mandarin_100_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Salty",
+          "mandarin_100_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Salé",
+          "mandarin_100_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "苦",
+        "mandarin_101_t1_20260126_112642.mp3",
+        "mandarin_101_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Bitter",
+          "mandarin_101_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Amer",
+          "mandarin_101_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "面条",
+        "mandarin_102_t1_20260126_112642.mp3",
+        "mandarin_102_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Noodles",
+          "mandarin_102_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Nouilles",
+          "mandarin_102_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "饺子",
+        "mandarin_103_t1_20260126_112642.mp3",
+        "mandarin_103_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Dumplings",
+          "mandarin_103_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Raviolis chinois",
+          "mandarin_103_1_20260126_152429.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "包子",
+        "mandarin_104_t1_20260126_112642.mp3",
+        "mandarin_104_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Steamed buns",
+          "mandarin_104_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Brioches à la vapeur",
+          "mandarin_104_1_20260126_152429.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "鸡肉",
+        "mandarin_105_t1_20260126_112642.mp3",
+        "mandarin_105_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Chicken",
+          "mandarin_105_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Poulet",
+          "mandarin_105_1_20260126_152429.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "猪肉",
+        "mandarin_106_t1_20260126_112642.mp3",
+        "mandarin_106_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Pork",
+          "mandarin_106_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Porc",
+          "mandarin_106_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "牛肉",
+        "mandarin_107_t1_20260126_112642.mp3",
+        "mandarin_107_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Beef",
+          "mandarin_107_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bœuf",
+          "mandarin_107_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "鱼",
+        "mandarin_108_t1_20260126_112642.mp3",
+        "mandarin_108_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Fish",
+          "mandarin_108_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Poisson",
+          "mandarin_108_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "蔬菜",
+        "mandarin_109_t1_20260126_112642.mp3",
+        "mandarin_109_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Vegetables",
+          "mandarin_109_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Légumes",
+          "mandarin_109_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "房间",
+        "mandarin_110_t1_20260126_112642.mp3",
+        "mandarin_110_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Room",
+          "mandarin_110_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Chambre",
+          "mandarin_110_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "预订",
+        "mandarin_111_t1_20260126_112642.mp3",
+        "mandarin_111_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Reservation",
+          "mandarin_111_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Réservation",
+          "mandarin_111_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "单人间",
+        "mandarin_112_t1_20260126_112642.mp3",
+        "mandarin_112_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Single room",
+          "mandarin_112_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Chambre simple",
+          "mandarin_112_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "双人间",
+        "mandarin_113_t1_20260126_112642.mp3",
+        "mandarin_113_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Double room",
+          "mandarin_113_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Chambre double",
+          "mandarin_113_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "钥匙",
+        "mandarin_114_t1_20260126_112642.mp3",
+        "mandarin_114_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Key",
+          "mandarin_114_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Clé",
+          "mandarin_114_1_20260126_152643.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "空调",
+        "mandarin_115_t1_20260126_112642.mp3",
+        "mandarin_115_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Air conditioning",
+          "mandarin_115_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Climatisation",
+          "mandarin_115_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "热水",
+        "mandarin_116_t1_20260126_112642.mp3",
+        "mandarin_116_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hot water",
+          "mandarin_116_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Eau chaude",
+          "mandarin_116_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "毛巾",
+        "mandarin_117_t1_20260126_112642.mp3",
+        "mandarin_117_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Towel",
+          "mandarin_117_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Serviette",
+          "mandarin_117_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "退房",
+        "mandarin_118_t1_20260126_112642.mp3",
+        "mandarin_118_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Check out",
+          "mandarin_118_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quitter la chambre",
+          "mandarin_118_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "WiFi密码",
+        "mandarin_119_t1_20260126_112642.mp3",
+        "mandarin_119_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "WiFi password",
+          "mandarin_119_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Mot de passe WiFi",
+          "mandarin_119_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "现在",
+        "mandarin_120_t1_20260126_112642.mp3",
+        "mandarin_120_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Now",
+          "mandarin_120_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Maintenant",
+          "mandarin_120_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "昨天",
+        "mandarin_121_t1_20260126_112642.mp3",
+        "mandarin_121_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Yesterday",
+          "mandarin_121_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Hier",
+          "mandarin_121_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "早上",
+        "mandarin_122_t1_20260126_112642.mp3",
+        "mandarin_122_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Morning",
+          "mandarin_122_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Matin",
+          "mandarin_122_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "中午",
+        "mandarin_123_t1_20260126_112642.mp3",
+        "mandarin_123_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Noon",
+          "mandarin_123_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Midi",
+          "mandarin_123_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "下午",
+        "mandarin_124_t1_20260126_112642.mp3",
+        "mandarin_124_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Afternoon",
+          "mandarin_124_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Après-midi",
+          "mandarin_124_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "晚上",
+        "mandarin_125_t1_20260126_112642.mp3",
+        "mandarin_125_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Evening",
+          "mandarin_125_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Soir",
+          "mandarin_125_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "几点了?",
+        "mandarin_126_t1_20260126_112642.mp3",
+        "mandarin_126_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What time is it?",
+          "mandarin_126_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quelle heure est-il?",
+          "mandarin_126_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "一",
+        "mandarin_127_t1_20260126_112642.mp3",
+        "mandarin_127_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "One",
+          "mandarin_127_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Un",
+          "mandarin_127_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "二",
+        "mandarin_128_t1_20260126_112642.mp3",
+        "mandarin_128_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Two",
+          "mandarin_128_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Deux",
+          "mandarin_128_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "三",
+        "mandarin_129_t1_20260126_112642.mp3",
+        "mandarin_129_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Three",
+          "mandarin_129_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Trois",
+          "mandarin_129_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "四",
+        "mandarin_130_t1_20260126_112642.mp3",
+        "mandarin_130_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Four",
+          "mandarin_130_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quatre",
+          "mandarin_130_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "五",
+        "mandarin_131_t1_20260126_112642.mp3",
+        "mandarin_131_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Five",
+          "mandarin_131_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Cinq",
+          "mandarin_131_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "六",
+        "mandarin_132_t1_20260126_112642.mp3",
+        "mandarin_132_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Six",
+          "mandarin_132_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Six",
+          "mandarin_132_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "七",
+        "mandarin_133_t1_20260126_112642.mp3",
+        "mandarin_133_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Seven",
+          "mandarin_133_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Sept",
+          "mandarin_133_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "八",
+        "mandarin_134_t1_20260126_112642.mp3",
+        "mandarin_134_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Eight",
+          "mandarin_134_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Huit",
+          "mandarin_134_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "九",
+        "mandarin_135_t1_20260126_112642.mp3",
+        "mandarin_135_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Nine",
+          "mandarin_135_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Neuf",
+          "mandarin_135_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "十",
+        "mandarin_136_t1_20260126_112642.mp3",
+        "mandarin_136_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Ten",
+          "mandarin_136_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Dix",
+          "mandarin_136_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "一百",
+        "mandarin_137_t1_20260126_112642.mp3",
+        "mandarin_137_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "One hundred",
+          "mandarin_137_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Cent",
+          "mandarin_137_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "一千",
+        "mandarin_138_t1_20260126_112642.mp3",
+        "mandarin_138_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "One thousand",
+          "mandarin_138_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Mille",
+          "mandarin_138_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "手机",
+        "mandarin_139_t1_20260126_112642.mp3",
+        "mandarin_139_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Mobile phone",
+          "mandarin_139_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Téléphone portable",
+          "mandarin_139_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "充电器",
+        "mandarin_140_t1_20260126_112642.mp3",
+        "mandarin_140_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Charger",
+          "mandarin_140_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Chargeur",
+          "mandarin_140_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "网络",
+        "mandarin_141_t1_20260126_112642.mp3",
+        "mandarin_141_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Internet",
+          "mandarin_141_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Internet",
+          "mandarin_141_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "电话号码",
+        "mandarin_142_t1_20260126_112642.mp3",
+        "mandarin_142_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Phone number",
+          "mandarin_142_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Numéro de téléphone",
+          "mandarin_142_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "地址",
+        "mandarin_143_t1_20260126_112642.mp3",
+        "mandarin_143_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Address",
+          "mandarin_143_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Adresse",
+          "mandarin_143_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "邮件",
+        "mandarin_144_t1_20260126_112642.mp3",
+        "mandarin_144_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Email",
+          "mandarin_144_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Email",
+          "mandarin_144_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "照片",
+        "mandarin_145_t1_20260126_112642.mp3",
+        "mandarin_145_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Photo",
+          "mandarin_145_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Photo",
+          "mandarin_145_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "可以拍照吗?",
+        "mandarin_146_t1_20260126_112642.mp3",
+        "mandarin_146_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can I take a photo?",
+          "mandarin_146_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Puis-je prendre une photo?",
+          "mandarin_146_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我累了",
+        "mandarin_147_t1_20260126_112642.mp3",
+        "mandarin_147_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm tired",
+          "mandarin_147_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis fatigué(e)",
+          "mandarin_147_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "我需要休息",
+        "mandarin_148_t1_20260126_112642.mp3",
+        "mandarin_148_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I need to rest",
+          "mandarin_148_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai besoin de me reposer",
+          "mandarin_148_1_20260126_112642.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "帮我一下",
+        "mandarin_149_t1_20260126_112642.mp3",
+        "mandarin_149_t2_20260126_112642.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Help me",
+          "mandarin_149_0_20260126_112642.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aidez-moi",
+          "mandarin_149_1_20260126_112642.mp3"
+        ]
+      ]
+    }
+  ]
+}
