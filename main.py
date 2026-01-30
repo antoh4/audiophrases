@@ -21,6 +21,9 @@ json_files = sorted([f for f in os.listdir(languages_dir) if f.endswith('.json')
 
 print(f"Found {len(json_files)} JSON files in '{languages_dir}': {json_files}\n")
 
+site_description = """<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
+                <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
+                <p>The courses are made <b>to be listened a lot of times</b> (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
 html_content = """<!doctype html>
 <html lang="en">
   <head>
@@ -30,11 +33,9 @@ html_content = """<!doctype html>
     <link rel="stylesheet" href="styles.css">
   </head>
 <body>
-<h1>Language learning audio phrases</h1>
-<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
-<p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
-<p>The courses are made to be listened a lot of times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>
-<hr>
+<h1>Language learning audio phrases</h1>"""
+html_content += site_description
+html_content += """<hr>
 <h2>Courses</h2>"""
 
 
@@ -46,10 +47,18 @@ LANG_NAMES = {
     "es-ES": "Spanish",
     "de-DE": "German",
     "hi-IN": "Hindi",
+    "ar-EG": "Egyptian Arabic",
+    "tr-TR": "Turkish",
     "it-IT": "Italian",
+    "vi-VN": "Vietnamese",
+    "fil-PH": "Filipino",
+    "ja-JP": "Japanese",
+    "ko-KR": "Korean",
 }
 
 tmp_current_lang = ""
+
+phrases_per_audio = 30
 
 # Iterate and parse each json file
 for json_file in json_files:
@@ -109,7 +118,7 @@ for json_file in json_files:
 
                     possible_translations[language][1] += 1
 
-                    if possible_translations[language][1] % 40 == 0:
+                    if possible_translations[language][1] % phrases_per_audio == 0:
                         possible_translations[language][0].append(AudioSegment.empty())
                     
                     possible_translations[language][0][-1] += combined_sentence_audio
@@ -118,7 +127,7 @@ for json_file in json_files:
         if len(possible_translations[language][0][0]) > 10:
             tr_language_name = LANG_NAMES.get(language, language)
 
-            page_url = f"courses/{json_file.removesuffix('.json')}_{language}_.html"
+            page_url = f"courses/{json_file.removesuffix('.json')}_{language}.html"
 
             if language_category != tmp_current_lang:
                 if tmp_current_lang != "":
@@ -126,7 +135,7 @@ for json_file in json_files:
                 html_content += f"<h3>{language_category}</h3><ul>"
                 tmp_current_lang = language_category
 
-            html_content += f"""<li><a href="{page_url}"><b>{course_name}</b> for <i>{tr_language_name} speakers</i></a> ({possible_translations[language][1]} phrases)</li>"""
+            html_content += f"""<li><a href="{page_url}"><b>{course_name}</b> <i>for {tr_language_name} speakers</i></a> <small>({possible_translations[language][1]} phrases)</small></li>"""
 
             page_html_content = f"""<!doctype html>
                 <html lang="en">
@@ -138,19 +147,30 @@ for json_file in json_files:
                 </head>
                 <body>
                 <a href="../"><h1>Language learning audio phrases</h1></a>
-                <h2><b>{course_name}</b> for {tr_language_name} speakers</h2>
-                <p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
-                <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
-                <p>The courses are made to be listened a lot of times (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>
+                <h2><b>{course_name}</b> for {tr_language_name} speakers</h2>"""
+
+            page_html_content += site_description
+            page_html_content += f"""
                 <hr>
-                <p>({possible_translations[language][1]} phrases total)</p>
+                <p>{possible_translations[language][1]} phrases total, {phrases_per_audio} phrases (maximum) per part.</p>
+                <div class="playback-mode">
+                    <h3>Playback Mode:</h3>
+                    <label>
+                        <input type="radio" name="playback" value="loop" checked>
+                        Loop each track individually (default)
+                    </label>
+                    <label>
+                        <input type="radio" name="playback" value="sequential">
+                        Play tracks sequentially (one after another)
+                    </label>
+                </div>
                 """
 
 
             for z, split in enumerate(possible_translations[language][0]):
 
                 # Export the final course audio
-                output_filename = f"{json_file.removesuffix('.json')}_{tr_language_name.lower()}_{z}_course.mp3"
+                output_filename = f"{json_file.removesuffix('.json')}_{tr_language_name.lower()}_{z+1}_course.mp3"
                 output_filepath = os.path.join(output_audio_dir, output_filename)
                 #site_output_filepath = os.path.join('course', output_filename)
                 split = split.set_frame_rate(22050)
@@ -160,23 +180,72 @@ for json_file in json_files:
                 
                 page_html_content += f"""<div class="audio-item">
                     <p><b>Part {z+1}</b></p>
-                    <audio controls>
+                    <audio controls loop>
                         <source src="../audio_courses/{output_filename}" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
-                    </div></body>
-                    </html>
-                    """
+                    </div>"""
+            
+            page_html_content += """<br><hr><small><p><a href="https://github.com/antoh4/audiophrases">Open-source website</a></p></small><script>
+                // Get all audio elements and radio buttons
+                const audioElements = document.querySelectorAll('audio');
+                const radioButtons = document.querySelectorAll('input[name="playback"]');
                 
+                // Function to update playback mode
+                function updatePlaybackMode() {
+                    const selectedMode = document.querySelector('input[name="playback"]:checked').value;
+                    
+                    if (selectedMode === 'loop') {
+                        // Enable loop on all audio elements
+                        audioElements.forEach(audio => {
+                            audio.loop = true;
+                            // Remove any sequential playback listeners
+                            audio.removeEventListener('ended', handleSequentialPlayback);
+                        });
+                    } else if (selectedMode === 'sequential') {
+                        // Disable loop on all audio elements
+                        audioElements.forEach(audio => {
+                            audio.loop = false;
+                        });
+                        
+                        // Add sequential playback functionality
+                        audioElements.forEach((audio, index) => {
+                            audio.removeEventListener('ended', handleSequentialPlayback);
+                            audio.addEventListener('ended', function() {
+                                handleSequentialPlayback(index);
+                            });
+                        });
+                    }
+                }
+                
+                // Function to handle sequential playback
+                function handleSequentialPlayback(currentIndex) {
+                    const nextIndex = currentIndex + 1;
+                    
+                    // If there's a next audio element, play it
+                    if (nextIndex < audioElements.length) {
+                        audioElements[nextIndex].currentTime = 0;
+                        audioElements[nextIndex].play();
+                    }
+                }
+                
+                // Add event listeners to radio buttons
+                radioButtons.forEach(radio => {
+                    radio.addEventListener('change', updatePlaybackMode);
+                });
+                
+                // Initialize with default mode
+                updatePlaybackMode();
+            </script></body></html>"""
+
             with open(f"_site/{page_url}", 'w', encoding='utf-8') as f:
                 f.write(page_html_content)
-            
             
             print(f"Successfully created course audio: {course_name}")
 
 print("\nAll courses processed.")
 
-html_content += """</ul><br><hr><small><p><a href="https://codeberg.org/anto4/audiophrases/">Open-source website</a></p></small></body>
+html_content += """</ul><br><hr><small><p><a href="https://github.com/antoh4/audiophrases">Open-source website</a></p></small></body>
 </html>"""
 
 with open("_site/index.html", 'w', encoding='utf-8') as f:
