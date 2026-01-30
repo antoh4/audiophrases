@@ -103,7 +103,7 @@ for json_file in json_files:
         if sentence_content != "" and (sentence_file1 == "" or not os.path.exists(sentence_file_path1)):
             print(f"sentence audio file not found: {sentence_content}. We generate this sentence.")
 
-            output_filename = f"{json_file}_{i}_t1_{timestamp}.mp3"
+            output_filename = f"{json_file.removesuffix('.json')}_{i}_t1_{timestamp}.mp3"
             sentence_file_path1 = os.path.join(languages_dir, "individual_audios", output_filename)
 
             synthesize(text=sentence_content, language_code=language_code, output_filepath=sentence_file_path1, voice="Iapetus")
@@ -113,7 +113,7 @@ for json_file in json_files:
         if sentence_content != "" and (sentence_file2 == "" or not os.path.exists(sentence_file_path2)):
             print(f"sentence audio file not found: {sentence_content}. We generate this sentence.")
 
-            output_filename = f"{json_file}_{i}_t2_{timestamp}.mp3"
+            output_filename = f"{json_file.removesuffix('.json')}_{i}_t2_{timestamp}.mp3"
             sentence_file_path2 = os.path.join(languages_dir, "individual_audios", output_filename)
 
             synthesize(text=sentence_content, language_code=language_code, output_filepath=sentence_file_path2, voice="Erinome")
@@ -131,7 +131,7 @@ for json_file in json_files:
             if translation_content != "" and (translation_file == "" or not os.path.exists(translation_file_path)):
                 print(f"translation audio file not found: {translation_content}. We generate this translation.")
 
-                output_filename = f"{json_file}_{i}_{y}_{timestamp}.mp3"
+                output_filename = f"{json_file.removesuffix('.json')}_{i}_{y}_{timestamp}.mp3"
                 translation_file_path = os.path.join(languages_dir, "individual_audios", output_filename)
                 
                 synthesize(text=translation_content, language_code=translation_language_code, output_filepath=translation_file_path, is_translation=True)
