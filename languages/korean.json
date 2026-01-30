@@ -1,0 +1,1906 @@
+{
+  "course_name": "Korean basics",
+  "language_code": "ko-KR",
+  "sentences": [
+    {
+      "sentence": [
+        "안녕하세요",
+        "korean_0_t1_20260127_160901.mp3",
+        "korean_0_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hello",
+          "korean_0_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonjour",
+          "korean_0_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "안녕히 가세요",
+        "korean_1_t1_20260127_160901.mp3",
+        "korean_1_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Goodbye (to someone leaving)",
+          "korean_1_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Au revoir (à quelqu'un qui part)",
+          "korean_1_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "안녕히 계세요",
+        "korean_2_t1_20260127_160901.mp3",
+        "korean_2_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Goodbye (when you're leaving)",
+          "korean_2_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Au revoir (quand vous partez)",
+          "korean_2_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "감사합니다",
+        "korean_3_t1_20260127_160901.mp3",
+        "korean_3_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you",
+          "korean_3_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Merci",
+          "korean_3_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "고맙습니다",
+        "korean_4_t1_20260127_160901.mp3",
+        "korean_4_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you (informal)",
+          "korean_4_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Merci (informel)",
+          "korean_4_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "죄송합니다",
+        "korean_5_t1_20260127_160901.mp3",
+        "korean_5_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm sorry",
+          "korean_5_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis désolé(e)",
+          "korean_5_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "실례합니다",
+        "korean_6_t1_20260127_160901.mp3",
+        "korean_6_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Excuse me",
+          "korean_6_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Excusez-moi",
+          "korean_6_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "괜찮아요",
+        "korean_7_t1_20260127_160901.mp3",
+        "korean_7_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's okay",
+          "korean_7_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Ça va",
+          "korean_7_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "네",
+        "korean_8_t1_20260127_160901.mp3",
+        "korean_8_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Yes",
+          "korean_8_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Oui",
+          "korean_8_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "아니요",
+        "korean_9_t1_20260127_160901.mp3",
+        "korean_9_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "No",
+          "korean_9_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Non",
+          "korean_9_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "저는 ___입니다",
+        "korean_10_t1_20260127_160901.mp3",
+        "korean_10_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I am ___",
+          "korean_10_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis ___",
+          "korean_10_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "이름이 뭐예요?",
+        "korean_11_t1_20260127_160901.mp3",
+        "korean_11_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What's your name?",
+          "korean_11_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment vous appelez-vous?",
+          "korean_11_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "만나서 반갑습니다",
+        "korean_12_t1_20260127_160901.mp3",
+        "korean_12_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Nice to meet you",
+          "korean_12_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Enchanté(e) de vous rencontrer",
+          "korean_12_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "어디에서 왔어요?",
+        "korean_13_t1_20260127_160901.mp3",
+        "korean_13_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where are you from?",
+          "korean_13_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "D'où venez-vous?",
+          "korean_13_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "저는 ___에서 왔어요",
+        "korean_14_t1_20260127_160901.mp3",
+        "korean_14_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm from ___",
+          "korean_14_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je viens de ___",
+          "korean_14_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "영어 할 수 있어요?",
+        "korean_15_t1_20260127_160901.mp3",
+        "korean_15_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can you speak English?",
+          "korean_15_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Parlez-vous anglais?",
+          "korean_15_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "이것이 뭐예요?",
+        "korean_16_t1_20260127_160901.mp3",
+        "korean_16_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What is this?",
+          "korean_16_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Qu'est-ce que c'est?",
+          "korean_16_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "어디예요?",
+        "korean_17_t1_20260127_160901.mp3",
+        "korean_17_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is it?",
+          "korean_17_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où est-ce?",
+          "korean_17_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "얼마예요?",
+        "korean_18_t1_20260127_160901.mp3",
+        "korean_18_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much is it?",
+          "korean_18_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est combien?",
+          "korean_18_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "왜요?",
+        "korean_19_t1_20260127_160901.mp3",
+        "korean_19_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Why?",
+          "korean_19_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pourquoi?",
+          "korean_19_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "언제요?",
+        "korean_20_t1_20260127_160901.mp3",
+        "korean_20_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "When?",
+          "korean_20_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quand?",
+          "korean_20_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "누구예요?",
+        "korean_21_t1_20260127_160901.mp3",
+        "korean_21_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Who?",
+          "korean_21_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Qui?",
+          "korean_21_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "어떻게 가요?",
+        "korean_22_t1_20260127_160901.mp3",
+        "korean_22_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How do I get there?",
+          "korean_22_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment y aller?",
+          "korean_22_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "화장실이 어디예요?",
+        "korean_23_t1_20260127_160901.mp3",
+        "korean_23_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is the bathroom?",
+          "korean_23_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où sont les toilettes?",
+          "korean_23_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "역이 어디예요?",
+        "korean_24_t1_20260127_160901.mp3",
+        "korean_24_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is the station?",
+          "korean_24_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où est la gare?",
+          "korean_24_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "버스 정류장",
+        "korean_25_t1_20260127_160901.mp3",
+        "korean_25_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Bus stop",
+          "korean_25_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Arrêt de bus",
+          "korean_25_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "지하철역",
+        "korean_26_t1_20260127_160901.mp3",
+        "korean_26_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Subway station",
+          "korean_26_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Station de métro",
+          "korean_26_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "공항",
+        "korean_27_t1_20260127_160901.mp3",
+        "korean_27_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Airport",
+          "korean_27_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aéroport",
+          "korean_27_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "택시",
+        "korean_28_t1_20260127_160901.mp3",
+        "korean_28_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Taxi",
+          "korean_28_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Taxi",
+          "korean_28_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "여기요",
+        "korean_29_t1_20260127_160901.mp3",
+        "korean_29_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Here",
+          "korean_29_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Ici",
+          "korean_29_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "저기요",
+        "korean_30_t1_20260127_160901.mp3",
+        "korean_30_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Over there",
+          "korean_30_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Là-bas",
+          "korean_30_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "왼쪽",
+        "korean_31_t1_20260127_160901.mp3",
+        "korean_31_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Left",
+          "korean_31_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Gauche",
+          "korean_31_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "오른쪽",
+        "korean_32_t1_20260127_160901.mp3",
+        "korean_32_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Right",
+          "korean_32_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Droite",
+          "korean_32_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "직진",
+        "korean_33_t1_20260127_160901.mp3",
+        "korean_33_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Straight ahead",
+          "korean_33_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Tout droit",
+          "korean_33_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "멈춰 주세요",
+        "korean_34_t1_20260127_160901.mp3",
+        "korean_34_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please stop",
+          "korean_34_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Arrêtez s'il vous plaît",
+          "korean_34_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "___까지 가주세요",
+        "korean_35_t1_20260127_160901.mp3",
+        "korean_35_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please go to ___",
+          "korean_35_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "S'il vous plaît allez à ___",
+          "korean_35_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "이거 주세요",
+        "korean_36_t1_20260127_160901.mp3",
+        "korean_36_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please give me this",
+          "korean_36_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Donnez-moi ceci s'il vous plaît",
+          "korean_36_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "얼마나 비싸요?",
+        "korean_37_t1_20260127_160901.mp3",
+        "korean_37_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How expensive is it?",
+          "korean_37_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est cher?",
+          "korean_37_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "너무 비싸요",
+        "korean_38_t1_20260127_160901.mp3",
+        "korean_38_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's too expensive",
+          "korean_38_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est trop cher",
+          "korean_38_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "깎아 주세요",
+        "korean_39_t1_20260127_160901.mp3",
+        "korean_39_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please give me a discount",
+          "korean_39_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Faites-moi une réduction s'il vous plaît",
+          "korean_39_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "카드 돼요?",
+        "korean_40_t1_20260127_160901.mp3",
+        "korean_40_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you accept cards?",
+          "korean_40_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Vous acceptez les cartes?",
+          "korean_40_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "현금만 돼요",
+        "korean_41_t1_20260127_160901.mp3",
+        "korean_41_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Cash only",
+          "korean_41_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Seulement en espèces",
+          "korean_41_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "영수증 주세요",
+        "korean_42_t1_20260127_160901.mp3",
+        "korean_42_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Receipt please",
+          "korean_42_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Le reçu s'il vous plaît",
+          "korean_42_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "포장해 주세요",
+        "korean_43_t1_20260127_160901.mp3",
+        "korean_43_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please wrap it",
+          "korean_43_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Emballez-le s'il vous plaît",
+          "korean_43_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "환불 가능해요?",
+        "korean_44_t1_20260127_160901.mp3",
+        "korean_44_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can I get a refund?",
+          "korean_44_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Puis-je me faire rembourser?",
+          "korean_44_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "작아요",
+        "korean_45_t1_20260127_160901.mp3",
+        "korean_45_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's small",
+          "korean_45_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est petit",
+          "korean_45_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "커요",
+        "korean_46_t1_20260127_160901.mp3",
+        "korean_46_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's big",
+          "korean_46_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est grand",
+          "korean_46_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "메뉴판 주세요",
+        "korean_47_t1_20260127_160901.mp3",
+        "korean_47_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Menu please",
+          "korean_47_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Le menu s'il vous plaît",
+          "korean_47_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "물 주세요",
+        "korean_48_t1_20260127_160901.mp3",
+        "korean_48_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Water please",
+          "korean_48_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "De l'eau s'il vous plaît",
+          "korean_48_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "맛있어요",
+        "korean_49_t1_20260127_160901.mp3",
+        "korean_49_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's delicious",
+          "korean_49_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est délicieux",
+          "korean_49_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "맵지 않게 해주세요",
+        "korean_50_t1_20260127_160901.mp3",
+        "korean_50_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Not spicy please",
+          "korean_50_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pas épicé s'il vous plaît",
+          "korean_50_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "맵게 해주세요",
+        "korean_51_t1_20260127_160901.mp3",
+        "korean_51_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Make it spicy please",
+          "korean_51_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Épicé s'il vous plaît",
+          "korean_51_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "추천해 주세요",
+        "korean_52_t1_20260127_160901.mp3",
+        "korean_52_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please recommend",
+          "korean_52_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Recommandez-moi s'il vous plaît",
+          "korean_52_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "이거 하나 주세요",
+        "korean_53_t1_20260127_160901.mp3",
+        "korean_53_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "One of this please",
+          "korean_53_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Un de ceci s'il vous plaît",
+          "korean_53_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "배불러요",
+        "korean_54_t1_20260127_160901.mp3",
+        "korean_54_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm full",
+          "korean_54_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis rassasié(e)",
+          "korean_54_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "배고파요",
+        "korean_55_t1_20260127_160901.mp3",
+        "korean_55_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm hungry",
+          "korean_55_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai faim",
+          "korean_55_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "목말라요",
+        "korean_56_t1_20260127_160901.mp3",
+        "korean_56_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm thirsty",
+          "korean_56_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai soif",
+          "korean_56_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "계산해 주세요",
+        "korean_57_t1_20260127_160901.mp3",
+        "korean_57_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Check please",
+          "korean_57_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "L'addition s'il vous plaît",
+          "korean_57_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "따로따로 계산해 주세요",
+        "korean_58_t1_20260127_160901.mp3",
+        "korean_58_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Separate checks please",
+          "korean_58_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Addition séparée s'il vous plaît",
+          "korean_58_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "잘 먹겠습니다",
+        "korean_59_t1_20260127_160901.mp3",
+        "korean_59_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I will eat well (before eating)",
+          "korean_59_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bon appétit (avant de manger)",
+          "korean_59_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "잘 먹었습니다",
+        "korean_60_t1_20260127_160901.mp3",
+        "korean_60_t2_20260127_160901.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I ate well (after eating)",
+          "korean_60_0_20260127_160901.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'était délicieux (après avoir mangé)",
+          "korean_60_1_20260127_160901.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "채식주의자예요",
+        "korean_61_t1_20260130_104805.mp3",
+        "korean_61_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm vegetarian",
+          "korean_61_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis végétarien(ne)",
+          "korean_61_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "알레르기 있어요",
+        "korean_62_t1_20260130_104805.mp3",
+        "korean_62_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have allergies",
+          "korean_62_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai des allergies",
+          "korean_62_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "예약했어요",
+        "korean_63_t1_20260130_104805.mp3",
+        "korean_63_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a reservation",
+          "korean_63_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai une réservation",
+          "korean_63_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "체크인 하고 싶어요",
+        "korean_64_t1_20260130_104805.mp3",
+        "korean_64_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I want to check in",
+          "korean_64_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je veux faire le check-in",
+          "korean_64_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "체크아웃 시간이 언제예요?",
+        "korean_65_t1_20260130_104805.mp3",
+        "korean_65_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What time is check out?",
+          "korean_65_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "À quelle heure est le check-out?",
+          "korean_65_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "방 청소 안 해도 돼요",
+        "korean_66_t1_20260130_104805.mp3",
+        "korean_66_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Don't need room cleaning",
+          "korean_66_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pas besoin de nettoyage de chambre",
+          "korean_66_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "열쇠 주세요",
+        "korean_67_t1_20260130_104805.mp3",
+        "korean_67_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Key please",
+          "korean_67_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "La clé s'il vous plaît",
+          "korean_67_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "와이파이 비밀번호가 뭐예요?",
+        "korean_68_t1_20260130_104805.mp3",
+        "korean_68_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What's the WiFi password?",
+          "korean_68_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quel est le mot de passe WiFi?",
+          "korean_68_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "하나",
+        "korean_69_t1_20260130_104805.mp3",
+        "korean_69_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "One",
+          "korean_69_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Un",
+          "korean_69_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "둘",
+        "korean_70_t1_20260130_104805.mp3",
+        "korean_70_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Two",
+          "korean_70_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Deux",
+          "korean_70_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "셋",
+        "korean_71_t1_20260130_104805.mp3",
+        "korean_71_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Three",
+          "korean_71_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Trois",
+          "korean_71_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "넷",
+        "korean_72_t1_20260130_104805.mp3",
+        "korean_72_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Four",
+          "korean_72_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quatre",
+          "korean_72_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "다섯",
+        "korean_73_t1_20260130_104805.mp3",
+        "korean_73_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Five",
+          "korean_73_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Cinq",
+          "korean_73_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "여섯",
+        "korean_74_t1_20260130_104805.mp3",
+        "korean_74_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Six",
+          "korean_74_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Six",
+          "korean_74_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "일곱",
+        "korean_75_t1_20260130_104805.mp3",
+        "korean_75_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Seven",
+          "korean_75_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Sept",
+          "korean_75_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "여덟",
+        "korean_76_t1_20260130_104805.mp3",
+        "korean_76_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Eight",
+          "korean_76_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Huit",
+          "korean_76_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "아홉",
+        "korean_77_t1_20260130_104805.mp3",
+        "korean_77_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Nine",
+          "korean_77_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Neuf",
+          "korean_77_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "열",
+        "korean_78_t1_20260130_104805.mp3",
+        "korean_78_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Ten",
+          "korean_78_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Dix",
+          "korean_78_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "도와주세요",
+        "korean_79_t1_20260130_104805.mp3",
+        "korean_79_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Help me please",
+          "korean_79_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aidez-moi s'il vous plaît",
+          "korean_79_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "경찰",
+        "korean_80_t1_20260130_104805.mp3",
+        "korean_80_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Police",
+          "korean_80_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Police",
+          "korean_80_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "병원",
+        "korean_81_t1_20260130_104805.mp3",
+        "korean_81_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hospital",
+          "korean_81_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Hôpital",
+          "korean_81_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "약국",
+        "korean_82_t1_20260130_104805.mp3",
+        "korean_82_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Pharmacy",
+          "korean_82_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pharmacie",
+          "korean_82_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "아파요",
+        "korean_83_t1_20260130_104805.mp3",
+        "korean_83_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It hurts",
+          "korean_83_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Ça fait mal",
+          "korean_83_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "두통이 있어요",
+        "korean_84_t1_20260130_104805.mp3",
+        "korean_84_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a headache",
+          "korean_84_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai mal à la tête",
+          "korean_84_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "배탈이 났어요",
+        "korean_85_t1_20260130_104805.mp3",
+        "korean_85_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a stomachache",
+          "korean_85_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai mal au ventre",
+          "korean_85_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "119",
+        "korean_86_t1_20260130_104805.mp3",
+        "korean_86_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Emergency number",
+          "korean_86_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Numéro d'urgence",
+          "korean_86_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "조심하세요",
+        "korean_87_t1_20260130_104805.mp3",
+        "korean_87_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Be careful",
+          "korean_87_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Faites attention",
+          "korean_87_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "모르겠어요",
+        "korean_88_t1_20260130_104805.mp3",
+        "korean_88_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't know",
+          "korean_88_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je ne sais pas",
+          "korean_88_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "잘 모르겠어요",
+        "korean_89_t1_20260130_104805.mp3",
+        "korean_89_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm not sure",
+          "korean_89_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je ne suis pas sûr(e)",
+          "korean_89_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "천천히 말해 주세요",
+        "korean_90_t1_20260130_104805.mp3",
+        "korean_90_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please speak slowly",
+          "korean_90_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Parlez lentement s'il vous plaît",
+          "korean_90_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "다시 한번 말해 주세요",
+        "korean_91_t1_20260130_104805.mp3",
+        "korean_91_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please say it again",
+          "korean_91_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Répétez s'il vous plaît",
+          "korean_91_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "이해해요",
+        "korean_92_t1_20260130_104805.mp3",
+        "korean_92_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I understand",
+          "korean_92_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je comprends",
+          "korean_92_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "이해 못 해요",
+        "korean_93_t1_20260130_104805.mp3",
+        "korean_93_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't understand",
+          "korean_93_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je ne comprends pas",
+          "korean_93_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "잠깐만요",
+        "korean_94_t1_20260130_104805.mp3",
+        "korean_94_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Just a moment",
+          "korean_94_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Un instant",
+          "korean_94_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "괜찮아요",
+        "korean_95_t1_20260130_104805.mp3",
+        "korean_95_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm okay",
+          "korean_95_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Ça va",
+          "korean_95_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "재미있어요",
+        "korean_96_t1_20260130_104805.mp3",
+        "korean_96_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's fun",
+          "korean_96_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est amusant",
+          "korean_96_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "좋아요",
+        "korean_97_t1_20260130_104805.mp3",
+        "korean_97_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I like it",
+          "korean_97_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'aime ça",
+          "korean_97_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "싫어요",
+        "korean_98_t1_20260130_104805.mp3",
+        "korean_98_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't like it",
+          "korean_98_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je n'aime pas ça",
+          "korean_98_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "사진 찍어도 돼요?",
+        "korean_99_t1_20260130_104805.mp3",
+        "korean_99_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can I take a picture?",
+          "korean_99_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Puis-je prendre une photo?",
+          "korean_99_1_20260130_104805.mp3"
+        ]
+      ]
+    }
+  ]
+}

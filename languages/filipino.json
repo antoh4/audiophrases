@@ -1,0 +1,1906 @@
+{
+  "course_name": "Filipino basics",
+  "language_code": "fil-PH",
+  "sentences": [
+    {
+      "sentence": [
+        "Kumusta",
+        "filipino_0_t1_20260130_104805.mp3",
+        "filipino_0_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hello/How are you?",
+          "filipino_0_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonjour/Comment allez-vous?",
+          "filipino_0_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kumusta ka",
+        "filipino_1_t1_20260130_104805.mp3",
+        "filipino_1_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How are you? (informal)",
+          "filipino_1_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment vas-tu?",
+          "filipino_1_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Mabuti, salamat",
+        "filipino_2_t1_20260130_104805.mp3",
+        "filipino_2_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm fine, thank you",
+          "filipino_2_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je vais bien, merci",
+          "filipino_2_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Salamat",
+        "filipino_3_t1_20260130_104805.mp3",
+        "filipino_3_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you",
+          "filipino_3_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Merci",
+          "filipino_3_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Maraming salamat",
+        "filipino_4_t1_20260130_104805.mp3",
+        "filipino_4_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Thank you very much",
+          "filipino_4_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Merci beaucoup",
+          "filipino_4_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Walang anuman",
+        "filipino_5_t1_20260130_104805.mp3",
+        "filipino_5_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "You're welcome",
+          "filipino_5_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "De rien",
+          "filipino_5_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Oo",
+        "filipino_6_t1_20260130_104805.mp3",
+        "filipino_6_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Yes",
+          "filipino_6_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Oui",
+          "filipino_6_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Hindi",
+        "filipino_7_t1_20260130_104805.mp3",
+        "filipino_7_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "No",
+          "filipino_7_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Non",
+          "filipino_7_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Paumanhin",
+        "filipino_8_t1_20260130_104805.mp3",
+        "filipino_8_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Excuse me/Sorry",
+          "filipino_8_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Excusez-moi/Pardon",
+          "filipino_8_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pasensya na",
+        "filipino_9_t1_20260130_104805.mp3",
+        "filipino_9_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm sorry",
+          "filipino_9_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis désolé(e)",
+          "filipino_9_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Paalam",
+        "filipino_10_t1_20260130_104805.mp3",
+        "filipino_10_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Goodbye",
+          "filipino_10_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Au revoir",
+          "filipino_10_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magandang umaga",
+        "filipino_11_t1_20260130_104805.mp3",
+        "filipino_11_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good morning",
+          "filipino_11_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonjour (matin)",
+          "filipino_11_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magandang hapon",
+        "filipino_12_t1_20260130_104805.mp3",
+        "filipino_12_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good afternoon",
+          "filipino_12_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bon après-midi",
+          "filipino_12_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magandang gabi",
+        "filipino_13_t1_20260130_104805.mp3",
+        "filipino_13_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Good evening",
+          "filipino_13_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bonsoir",
+          "filipino_13_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Maligayang pagdating",
+        "filipino_14_t1_20260130_104805.mp3",
+        "filipino_14_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Welcome",
+          "filipino_14_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bienvenue",
+          "filipino_14_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ako si...",
+        "filipino_15_t1_20260130_104805.mp3",
+        "filipino_15_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I am...",
+          "filipino_15_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis...",
+          "filipino_15_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ano ang pangalan mo?",
+        "filipino_16_t1_20260130_104805.mp3",
+        "filipino_16_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What is your name?",
+          "filipino_16_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment tu t'appelles?",
+          "filipino_16_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Saan ka galing?",
+        "filipino_17_t1_20260130_104805.mp3",
+        "filipino_17_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where are you from?",
+          "filipino_17_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "D'où viens-tu?",
+          "filipino_17_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Taga-saan ka?",
+        "filipino_18_t1_20260130_104805.mp3",
+        "filipino_18_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where are you from?",
+          "filipino_18_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Tu viens d'où?",
+          "filipino_18_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Natutuwa akong makilala ka",
+        "filipino_19_t1_20260130_104805.mp3",
+        "filipino_19_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Nice to meet you",
+          "filipino_19_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Enchanté(e) de te rencontrer",
+          "filipino_19_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Turista ako",
+        "filipino_20_t1_20260130_104805.mp3",
+        "filipino_20_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I am a tourist",
+          "filipino_20_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis touriste",
+          "filipino_20_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Filipino ka ba?",
+        "filipino_21_t1_20260130_104805.mp3",
+        "filipino_21_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Are you Filipino?",
+          "filipino_21_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Es-tu philippin(e)?",
+          "filipino_21_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Hindi ko maintindihan",
+        "filipino_22_t1_20260130_104805.mp3",
+        "filipino_22_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I don't understand",
+          "filipino_22_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je ne comprends pas",
+          "filipino_22_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Marunong ka ba mag-Ingles?",
+        "filipino_23_t1_20260130_104805.mp3",
+        "filipino_23_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you speak English?",
+          "filipino_23_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Parles-tu anglais?",
+          "filipino_23_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pakiulit nga",
+        "filipino_24_t1_20260130_104805.mp3",
+        "filipino_24_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Please repeat",
+          "filipino_24_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Répète s'il te plaît",
+          "filipino_24_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Mabagal lang",
+        "filipino_25_t1_20260130_104805.mp3",
+        "filipino_25_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Slowly please",
+          "filipino_25_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Lentement s'il vous plaît",
+          "filipino_25_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ano ito?",
+        "filipino_26_t1_20260130_104805.mp3",
+        "filipino_26_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "What is this?",
+          "filipino_26_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Qu'est-ce que c'est?",
+          "filipino_26_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Paano sabihin ito sa Filipino?",
+        "filipino_27_t1_20260130_104805.mp3",
+        "filipino_27_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How do you say this in Filipino?",
+          "filipino_27_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment dit-on cela en filipino?",
+          "filipino_27_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Saan?",
+        "filipino_28_t1_20260130_104805.mp3",
+        "filipino_28_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where?",
+          "filipino_28_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où?",
+          "filipino_28_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kailan?",
+        "filipino_29_t1_20260130_104805.mp3",
+        "filipino_29_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "When?",
+          "filipino_29_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Quand?",
+          "filipino_29_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bakit?",
+        "filipino_30_t1_20260130_104805.mp3",
+        "filipino_30_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Why?",
+          "filipino_30_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pourquoi?",
+          "filipino_30_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Paano?",
+        "filipino_31_t1_20260130_104805.mp3",
+        "filipino_31_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How?",
+          "filipino_31_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Comment?",
+          "filipino_31_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Sino?",
+        "filipino_32_t1_20260130_104805.mp3",
+        "filipino_32_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Who?",
+          "filipino_32_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Qui?",
+          "filipino_32_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magkano?",
+        "filipino_33_t1_20260130_104805.mp3",
+        "filipino_33_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much?",
+          "filipino_33_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Combien?",
+          "filipino_33_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Saan ang...?",
+        "filipino_34_t1_20260130_104805.mp3",
+        "filipino_34_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is...?",
+          "filipino_34_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où est...?",
+          "filipino_34_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Nasaan ang banyo?",
+        "filipino_35_t1_20260130_104805.mp3",
+        "filipino_35_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where is the bathroom?",
+          "filipino_35_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où sont les toilettes?",
+          "filipino_35_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Malayo ba?",
+        "filipino_36_t1_20260130_104805.mp3",
+        "filipino_36_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Is it far?",
+          "filipino_36_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Est-ce loin?",
+          "filipino_36_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Malapit lang",
+        "filipino_37_t1_20260130_104805.mp3",
+        "filipino_37_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's nearby",
+          "filipino_37_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "C'est proche",
+          "filipino_37_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kanan",
+        "filipino_38_t1_20260130_104805.mp3",
+        "filipino_38_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Right",
+          "filipino_38_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Droite",
+          "filipino_38_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kaliwa",
+        "filipino_39_t1_20260130_104805.mp3",
+        "filipino_39_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Left",
+          "filipino_39_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Gauche",
+          "filipino_39_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Diretso",
+        "filipino_40_t1_20260130_104805.mp3",
+        "filipino_40_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Straight ahead",
+          "filipino_40_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Tout droit",
+          "filipino_40_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Para po",
+        "filipino_41_t1_20260130_104805.mp3",
+        "filipino_41_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Stop please (in transport)",
+          "filipino_41_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Arrêtez s'il vous plaît",
+          "filipino_41_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magkano ang pamasahe?",
+        "filipino_42_t1_20260130_104805.mp3",
+        "filipino_42_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much is the fare?",
+          "filipino_42_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Combien coûte le billet?",
+          "filipino_42_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Gusto kong pumunta sa...",
+        "filipino_43_t1_20260130_104805.mp3",
+        "filipino_43_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I want to go to...",
+          "filipino_43_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je veux aller à...",
+          "filipino_43_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Saan ako makakakuha ng taksi?",
+        "filipino_44_t1_20260130_104805.mp3",
+        "filipino_44_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Where can I get a taxi?",
+          "filipino_44_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Où puis-je prendre un taxi?",
+          "filipino_44_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Airport",
+        "filipino_45_t1_20260130_104805.mp3",
+        "filipino_45_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Airport",
+          "filipino_45_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Aéroport",
+          "filipino_45_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Hotel",
+        "filipino_46_t1_20260130_104805.mp3",
+        "filipino_46_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hotel",
+          "filipino_46_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Hôtel",
+          "filipino_46_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ospital",
+        "filipino_47_t1_20260130_104805.mp3",
+        "filipino_47_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Hospital",
+          "filipino_47_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Hôpital",
+          "filipino_47_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magkano ito?",
+        "filipino_48_t1_20260130_104805.mp3",
+        "filipino_48_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much is this?",
+          "filipino_48_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Combien ça coûte?",
+          "filipino_48_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Mahal",
+        "filipino_49_t1_20260130_104805.mp3",
+        "filipino_49_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Expensive",
+          "filipino_49_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Cher",
+          "filipino_49_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Mura",
+        "filipino_50_t1_20260130_104805.mp3",
+        "filipino_50_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Cheap",
+          "filipino_50_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Pas cher",
+          "filipino_50_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pwedeng tumawad?",
+        "filipino_51_t1_20260130_104805.mp3",
+        "filipino_51_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can I bargain?",
+          "filipino_51_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Puis-je négocier?",
+          "filipino_51_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tawaran mo na",
+        "filipino_52_t1_20260130_104805.mp3",
+        "filipino_52_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Give me a discount",
+          "filipino_52_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Faites-moi une réduction",
+          "filipino_52_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bibilhin ko ito",
+        "filipino_53_t1_20260130_104805.mp3",
+        "filipino_53_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'll buy this",
+          "filipino_53_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je vais acheter ça",
+          "filipino_53_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "May mas mura ba?",
+        "filipino_54_t1_20260130_104805.mp3",
+        "filipino_54_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have something cheaper?",
+          "filipino_54_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Avez-vous quelque chose de moins cher?",
+          "filipino_54_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "May sukli ka?",
+        "filipino_55_t1_20260130_104805.mp3",
+        "filipino_55_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have change?",
+          "filipino_55_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Avez-vous la monnaie?",
+          "filipino_55_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Piso",
+        "filipino_56_t1_20260130_104805.mp3",
+        "filipino_56_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Peso (currency)",
+          "filipino_56_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Peso",
+          "filipino_56_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bayad",
+        "filipino_57_t1_20260130_104805.mp3",
+        "filipino_57_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Payment",
+          "filipino_57_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Paiement",
+          "filipino_57_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Resibo",
+        "filipino_58_t1_20260130_104805.mp3",
+        "filipino_58_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Receipt",
+          "filipino_58_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Reçu",
+          "filipino_58_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Gutom ako",
+        "filipino_59_t1_20260130_104805.mp3",
+        "filipino_59_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm hungry",
+          "filipino_59_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai faim",
+          "filipino_59_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Uhaw ako",
+        "filipino_60_t1_20260130_104805.mp3",
+        "filipino_60_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm thirsty",
+          "filipino_60_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai soif",
+          "filipino_60_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Busog na ako",
+        "filipino_61_t1_20260130_104805.mp3",
+        "filipino_61_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm full",
+          "filipino_61_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis rassasié(e)",
+          "filipino_61_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Masarap",
+        "filipino_62_t1_20260130_104805.mp3",
+        "filipino_62_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Delicious",
+          "filipino_62_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Délicieux",
+          "filipino_62_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Menu",
+        "filipino_63_t1_20260130_104805.mp3",
+        "filipino_63_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Menu",
+          "filipino_63_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Menu",
+          "filipino_63_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tubig",
+        "filipino_64_t1_20260130_104805.mp3",
+        "filipino_64_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Water",
+          "filipino_64_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Eau",
+          "filipino_64_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kape",
+        "filipino_65_t1_20260130_104805.mp3",
+        "filipino_65_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Coffee",
+          "filipino_65_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Café",
+          "filipino_65_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tsaa",
+        "filipino_66_t1_20260130_104805.mp3",
+        "filipino_66_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Tea",
+          "filipino_66_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Thé",
+          "filipino_66_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kanin",
+        "filipino_67_t1_20260130_104805.mp3",
+        "filipino_67_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Rice",
+          "filipino_67_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Riz",
+          "filipino_67_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Gulay",
+        "filipino_68_t1_20260130_104805.mp3",
+        "filipino_68_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Vegetables",
+          "filipino_68_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Légumes",
+          "filipino_68_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Karne",
+        "filipino_69_t1_20260130_104805.mp3",
+        "filipino_69_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Meat",
+          "filipino_69_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Viande",
+          "filipino_69_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Isda",
+        "filipino_70_t1_20260130_104805.mp3",
+        "filipino_70_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Fish",
+          "filipino_70_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Poisson",
+          "filipino_70_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Manok",
+        "filipino_71_t1_20260130_104805.mp3",
+        "filipino_71_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Chicken",
+          "filipino_71_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Poulet",
+          "filipino_71_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Vegetarian ako",
+        "filipino_72_t1_20260130_104805.mp3",
+        "filipino_72_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm vegetarian",
+          "filipino_72_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis végétarien(ne)",
+          "filipino_72_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pwede bang pabili ng...",
+        "filipino_73_t1_20260130_104805.mp3",
+        "filipino_73_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Can I order...?",
+          "filipino_73_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Puis-je commander...?",
+          "filipino_73_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Bill/Tsek",
+        "filipino_74_t1_20260130_104805.mp3",
+        "filipino_74_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Bill/Check",
+          "filipino_74_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Addition",
+          "filipino_74_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Maanghang ba ito?",
+        "filipino_75_t1_20260130_104805.mp3",
+        "filipino_75_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Is this spicy?",
+          "filipino_75_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Est-ce piquant?",
+          "filipino_75_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tulong!",
+        "filipino_76_t1_20260130_104805.mp3",
+        "filipino_76_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Help!",
+          "filipino_76_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Au secours!",
+          "filipino_76_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Saklolo!",
+        "filipino_77_t1_20260130_104805.mp3",
+        "filipino_77_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Help!/Emergency!",
+          "filipino_77_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "À l'aide!",
+          "filipino_77_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Pulis",
+        "filipino_78_t1_20260130_104805.mp3",
+        "filipino_78_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Police",
+          "filipino_78_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Police",
+          "filipino_78_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "May sakit ako",
+        "filipino_79_t1_20260130_104805.mp3",
+        "filipino_79_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm sick",
+          "filipino_79_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis malade",
+          "filipino_79_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kailangan ko ng doktor",
+        "filipino_80_t1_20260130_104805.mp3",
+        "filipino_80_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I need a doctor",
+          "filipino_80_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai besoin d'un médecin",
+          "filipino_80_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Gamot",
+        "filipino_81_t1_20260130_104805.mp3",
+        "filipino_81_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Medicine",
+          "filipino_81_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Médicament",
+          "filipino_81_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Masakit ang ulo ko",
+        "filipino_82_t1_20260130_104805.mp3",
+        "filipino_82_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a headache",
+          "filipino_82_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai mal à la tête",
+          "filipino_82_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Masakit ang tiyan ko",
+        "filipino_83_t1_20260130_104805.mp3",
+        "filipino_83_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I have a stomachache",
+          "filipino_83_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "J'ai mal au ventre",
+          "filipino_83_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Allergic ako sa...",
+        "filipino_84_t1_20260130_104805.mp3",
+        "filipino_84_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I'm allergic to...",
+          "filipino_84_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je suis allergique à...",
+          "filipino_84_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "May bakante ba kayong kwarto?",
+        "filipino_85_t1_20260130_104805.mp3",
+        "filipino_85_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Do you have a vacant room?",
+          "filipino_85_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Avez-vous une chambre libre?",
+          "filipino_85_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Magkano isang gabi?",
+        "filipino_86_t1_20260130_104805.mp3",
+        "filipino_86_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "How much per night?",
+          "filipino_86_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Combien par nuit?",
+          "filipino_86_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kasama na ba ang almusal?",
+        "filipino_87_t1_20260130_104805.mp3",
+        "filipino_87_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Is breakfast included?",
+          "filipino_87_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Le petit-déjeuner est-il inclus?",
+          "filipino_87_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Susi",
+        "filipino_88_t1_20260130_104805.mp3",
+        "filipino_88_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Key",
+          "filipino_88_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Clé",
+          "filipino_88_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Kuwarto",
+        "filipino_89_t1_20260130_104805.mp3",
+        "filipino_89_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Room",
+          "filipino_89_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Chambre",
+          "filipino_89_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Aircon",
+        "filipino_90_t1_20260130_104805.mp3",
+        "filipino_90_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Air conditioning",
+          "filipino_90_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Climatisation",
+          "filipino_90_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Wifi",
+        "filipino_91_t1_20260130_104805.mp3",
+        "filipino_91_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Wifi",
+          "filipino_91_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Wifi",
+          "filipino_91_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Sandali lang",
+        "filipino_92_t1_20260130_104805.mp3",
+        "filipino_92_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Just a moment",
+          "filipino_92_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Un moment",
+          "filipino_92_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Tara na",
+        "filipino_93_t1_20260130_104805.mp3",
+        "filipino_93_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Let's go",
+          "filipino_93_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Allons-y",
+          "filipino_93_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Sige",
+        "filipino_94_t1_20260130_104805.mp3",
+        "filipino_94_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Okay/Go ahead",
+          "filipino_94_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "D'accord/Vas-y",
+          "filipino_94_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ayos lang",
+        "filipino_95_t1_20260130_104805.mp3",
+        "filipino_95_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "It's okay/No problem",
+          "filipino_95_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Ça va/Pas de problème",
+          "filipino_95_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Talaga?",
+        "filipino_96_t1_20260130_104805.mp3",
+        "filipino_96_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Really?",
+          "filipino_96_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Vraiment?",
+          "filipino_96_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Siyempre",
+        "filipino_97_t1_20260130_104805.mp3",
+        "filipino_97_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Of course",
+          "filipino_97_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Bien sûr",
+          "filipino_97_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Ingat",
+        "filipino_98_t1_20260130_104805.mp3",
+        "filipino_98_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "Take care",
+          "filipino_98_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Fais attention/Prends soin de toi",
+          "filipino_98_1_20260130_104805.mp3"
+        ]
+      ]
+    },
+    {
+      "sentence": [
+        "Mahal kita",
+        "filipino_99_t1_20260130_104805.mp3",
+        "filipino_99_t2_20260130_104805.mp3"
+      ],
+      "translations": [
+        [
+          "en-US",
+          "I love you",
+          "filipino_99_0_20260130_104805.mp3"
+        ],
+        [
+          "fr-FR",
+          "Je t'aime",
+          "filipino_99_1_20260130_104805.mp3"
+        ]
+      ]
+    }
+  ]
+}
