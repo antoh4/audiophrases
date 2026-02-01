@@ -88,6 +88,9 @@ for json_file in json_files:
 
     course_name = data['course_name']
     language_code = data['language_code']
+
+    is_updated = 0
+
     print(f"\n--- Processing {course_name} ({json_file}) ---\n")
 
     course_audio = AudioSegment.empty()
@@ -110,6 +113,11 @@ for json_file in json_files:
 
             data['sentences'][i]["sentence"][1] = output_filename
 
+            if is_updated == 0:
+                data['version'] += 1
+                is_updated = 1
+
+
         if sentence_content != "" and (sentence_file2 == "" or not os.path.exists(sentence_file_path2)):
             print(f"sentence audio file not found: {sentence_content}. We generate this sentence.")
 
@@ -120,6 +128,9 @@ for json_file in json_files:
 
             data['sentences'][i]["sentence"][2] = output_filename
 
+            if is_updated == 0:
+                data['version'] += 1
+                is_updated = 1
 
         for y, translation in enumerate(entry['translations']):
             translation_language_code = translation[0]
@@ -138,6 +149,9 @@ for json_file in json_files:
                 
                 data['sentences'][i]["translations"][y][2] = output_filename
         
+                if is_updated == 0:
+                    data['version'] += 1
+                    is_updated = 1
 
         # we save the updates at each sentence. to avoid losing some generations. but not saving at each translation either
         with open(file_path, 'w') as file:
