@@ -3,40 +3,48 @@ import os
 from pydub import AudioSegment
 from pydub.silence import *
 import shutil
+from datetime import datetime, timezone
 
 languages_dir = 'languages'
 output_audio_dir = '_site/audio_courses'
-output_pages_dir = '_site/courses'
 
-# Ensure output directories exist
-# we remove the old pages and recreate the folder. as we regenerate the pages
+# we remove the old audio courses and recreate the folder. as we will regenerate the courses
 shutil.rmtree(output_audio_dir, ignore_errors=True)
+# Ensure output directories exist
 os.makedirs(output_audio_dir, exist_ok=True)
 
-shutil.rmtree(output_pages_dir, ignore_errors=True)
-os.makedirs(output_pages_dir, exist_ok=True)
+
+# # we read the old courses.json file to check if we need to regenerate some courses or not
+# with open("_site/courses.json", 'r') as file:
+#     old_courses_data = json.load(file)
+
+
+# we create a new courses.json file, but won't save it if there are no updates? or we update either way
+courses = {}
+courses["lastUpdated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+courses["courses"] = []
+
+# course = {
+#     "id": i,
+#     "name": f"Product {i}",
+#     "price": round(9.99 * i, 2),
+#     "tags": [f"tag{i}a", f"tag{i}b"],
+    # "id": "spanish-basics",
+    # "title": "Spanish Basics",
+    # "language": "es",
+    # "description": "A beginner course covering everyday Spanish.",
+    # "thumbnail": "/courses/spanish-basics/thumbnail.jpg",
+    # "version": 2,
+    # "lessons": 12,
+    # "totalSizeMB": 45.2,
+    # "audioBaseUrl": "/courses/spanish-basics/audio/"
+# }
+# courses["courses"].append(course)
 
 # List all json files in the languages directory
 json_files = sorted([f for f in os.listdir(languages_dir) if f.endswith('.json')])
 
 print(f"Found {len(json_files)} JSON files in '{languages_dir}': {json_files}\n")
-
-site_description = """<p>Learn the basics of foreign languages with audio phrases, to communicate more easily around the world and make people smile.</p>
-                <p>Listen to the phrase in the target language, repeat it, listen to the translation, and repeat the phrase again and think of the link between the phrase and the translation.</p>
-                <p>The courses are made <b>to be listened a lot of times</b> (for instance while going on walks), make your memory work (mix of repetition and active recall), and get used to the sonorities of the language.</p>"""
-html_content = """<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Language learning audio phrases</title>
-    <link rel="stylesheet" href="styles.css">
-  </head>
-<body>
-<h1>Language learning audio phrases</h1>"""
-html_content += site_description
-html_content += """<hr>
-<h2>Courses</h2>"""
 
 
 LANG_NAMES = {
@@ -56,8 +64,6 @@ LANG_NAMES = {
     "ko-KR": "Korean",
 }
 
-tmp_current_lang = ""
-
 phrases_per_audio = 30
 
 # Iterate and parse each json file
@@ -65,23 +71,20 @@ for json_file in json_files:
     file_path = os.path.join(languages_dir, json_file)
     with open(file_path, 'r') as file:
         data = json.load(file)
+
+    slug = json_file.removesuffix('.json')
+
+    #old_version = next((c.get("version") for c in data.get("courses", []) if c.get("id") == f"{slug}_{language}"), None)
     
-    possible_translations = {"en-US": [[AudioSegment.empty()], 0], "fr-FR": [[AudioSegment.empty()], 0]}
+    possible_translations = {"en-US": [[AudioSegment.empty()], 0, False], "fr-FR": [[AudioSegment.empty()], 0, False]}
 
     course_name = data['course_name']
-    language_category = LANG_NAMES.get(data['language_code'], data['language_code'])
 
     print(f"\n--- Processing {course_name} ({json_file}) ---\n")
-
-    # html_content += f"""<hr><h2>{course_name} courses</h2><ul>"""
 
     pre_silence = AudioSegment.silent(duration=2500) # ms
     post_silence = AudioSegment.silent(duration=2500) # ms
     small_silence = AudioSegment.silent(duration=2500) # ms
-
-    
-
-    
 
     for i, sentence in enumerate(data['sentences']):
         target_audio_filename1 = sentence['sentence'][1]
@@ -127,126 +130,33 @@ for json_file in json_files:
         if len(possible_translations[language][0][0]) > 10:
             tr_language_name = LANG_NAMES.get(language, language)
 
-            page_url = f"courses/{json_file.removesuffix('.json')}_{language}.html"
-
-            if language_category != tmp_current_lang:
-                if tmp_current_lang != "":
-                    html_content += "</ul>"
-                html_content += f"<h3>{language_category}</h3><ul>"
-                tmp_current_lang = language_category
-
-            html_content += f"""<li><a href="{page_url}"><b>{course_name}</b> <i>for {tr_language_name} speakers</i></a> <small>({possible_translations[language][1]} phrases)</small></li>"""
-
-            page_html_content = f"""<!doctype html>
-                <html lang="en">
-                <head>
-                    <meta charset="utf-8" />
-                    <meta name="viewport" content="width=device-width" />
-                    <title>Language learning audio phrases</title>
-                    <link rel="stylesheet" href="../styles.css">
-                </head>
-                <body>
-                <a href="../"><h1>Language learning audio phrases</h1></a>
-                <h2><b>{course_name}</b> for {tr_language_name} speakers</h2>"""
-
-            page_html_content += site_description
-            page_html_content += f"""
-                <hr>
-                <p>{possible_translations[language][1]} phrases total, {phrases_per_audio} phrases (maximum) per part.</p>
-                <div class="playback-mode">
-                    <h3>Playback Mode:</h3>
-                    <label>
-                        <input type="radio" name="playback" value="loop" checked>
-                        Loop each track individually (default)
-                    </label>
-                    <label>
-                        <input type="radio" name="playback" value="sequential">
-                        Play tracks sequentially (one after another)
-                    </label>
-                </div>
-                """
-
-
             for z, split in enumerate(possible_translations[language][0]):
 
                 # Export the final course audio
-                output_filename = f"{json_file.removesuffix('.json')}_{tr_language_name.lower()}_{z+1}_course.mp3"
+                output_filename = f"{slug}_{language}_{z+1}_course.mp3"
                 output_filepath = os.path.join(output_audio_dir, output_filename)
                 #site_output_filepath = os.path.join('course', output_filename)
                 split = split.set_frame_rate(22050)
                 split = split.set_sample_width(2)
                 split.export(output_filepath, format="mp3", bitrate="128k")
-
-                
-                page_html_content += f"""<div class="audio-item">
-                    <p><b>Part {z+1}</b></p>
-                    <audio controls loop>
-                        <source src="../audio_courses/{output_filename}" type="audio/mpeg">
-                        Your browser does not support the audio element.
-                    </audio>
-                    </div>"""
             
-            page_html_content += """<br><hr><small><p><a href="https://github.com/antoh4/audiophrases">Open-source website</a></p></small><script>
-                // Get all audio elements and radio buttons
-                const audioElements = document.querySelectorAll('audio');
-                const radioButtons = document.querySelectorAll('input[name="playback"]');
-                
-                // Function to update playback mode
-                function updatePlaybackMode() {
-                    const selectedMode = document.querySelector('input[name="playback"]:checked').value;
-                    
-                    if (selectedMode === 'loop') {
-                        // Enable loop on all audio elements
-                        audioElements.forEach(audio => {
-                            audio.loop = true;
-                            // Remove any sequential playback listeners
-                            audio.removeEventListener('ended', handleSequentialPlayback);
-                        });
-                    } else if (selectedMode === 'sequential') {
-                        // Disable loop on all audio elements
-                        audioElements.forEach(audio => {
-                            audio.loop = false;
-                        });
-                        
-                        // Add sequential playback functionality
-                        audioElements.forEach((audio, index) => {
-                            audio.removeEventListener('ended', handleSequentialPlayback);
-                            audio.addEventListener('ended', function() {
-                                handleSequentialPlayback(index);
-                            });
-                        });
-                    }
-                }
-                
-                // Function to handle sequential playback
-                function handleSequentialPlayback(currentIndex) {
-                    const nextIndex = currentIndex + 1;
-                    
-                    // If there's a next audio element, play it
-                    if (nextIndex < audioElements.length) {
-                        audioElements[nextIndex].currentTime = 0;
-                        audioElements[nextIndex].play();
-                    }
-                }
-                
-                // Add event listeners to radio buttons
-                radioButtons.forEach(radio => {
-                    radio.addEventListener('change', updatePlaybackMode);
-                });
-                
-                // Initialize with default mode
-                updatePlaybackMode();
-            </script></body></html>"""
+            course = {
+                "id": f"{slug}_{language}",
+                "title": data['course_name'],
+                "language": data['language_code'],
+                "translation": language,
+                #"description": "A beginner course covering everyday Spanish.",
+                #"thumbnail": "/courses/spanish-basics/thumbnail.jpg",
+                "version": data['version'],
+                #"lessons": 12,
+                #"totalSizeMB": 45.2,
+                #"audioBaseUrl": "/courses/spanish-basics/audio/"
+            }
+            courses["courses"].append(course)
 
-            with open(f"_site/{page_url}", 'w', encoding='utf-8') as f:
-                f.write(page_html_content)
-            
-            print(f"Successfully created course audio: {course_name}")
+            print(f"Successfully created audio course: {tr_language_name} -> {course_name}")
 
 print("\nAll courses processed.")
 
-html_content += """</ul><br><hr><small><p><a href="https://github.com/antoh4/audiophrases">Open-source website</a></p></small></body>
-</html>"""
-
-with open("_site/index.html", 'w', encoding='utf-8') as f:
-    f.write(html_content)
+with open("_site/courses.json", "w") as f:
+    json.dump(courses, f, indent=2)
