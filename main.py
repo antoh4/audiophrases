@@ -64,7 +64,7 @@ LANG_NAMES = {
     "ko-KR": "Korean",
 }
 
-phrases_per_audio = 30
+phrases_per_audio = 1000
 
 # Iterate and parse each json file
 for json_file in json_files:
@@ -130,6 +130,8 @@ for json_file in json_files:
         if len(possible_translations[language][0][0]) > 10:
             tr_language_name = LANG_NAMES.get(language, language)
 
+            filesize = 0
+
             for z, split in enumerate(possible_translations[language][0]):
 
                 # Export the final course audio
@@ -139,6 +141,11 @@ for json_file in json_files:
                 split = split.set_frame_rate(22050)
                 split = split.set_sample_width(2)
                 split.export(output_filepath, format="mp3", bitrate="128k")
+
+                if z == 0:
+                    size_bytes = os.path.getsize(output_filepath)
+                    size_mb = size_bytes / 1_000_000
+                    filesize = round(size_mb, 1)  # e.g., 2.3 MB
             
             course = {
                 "id": f"{slug}_{language}",
@@ -149,7 +156,7 @@ for json_file in json_files:
                 #"thumbnail": "/courses/spanish-basics/thumbnail.jpg",
                 "version": data['version'],
                 #"lessons": 12,
-                #"totalSizeMB": 45.2,
+                "totalSizeMB": filesize,
                 #"audioBaseUrl": "/courses/spanish-basics/audio/"
             }
             courses["courses"].append(course)
