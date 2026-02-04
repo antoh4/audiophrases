@@ -1,0 +1,69 @@
+{
+  "lastUpdated": "2026-02-04T10:47:20Z",
+  "courses": [
+    {
+      "id": "egyptian_arabic_en-US",
+      "title": "Egyptian Arabic basics",
+      "language": "ar-EG",
+      "translation": "en-US",
+      "version": 1,
+      "totalSizeMB": 2.7
+    },
+    {
+      "id": "egyptian_arabic_fr-FR",
+      "title": "Egyptian Arabic basics",
+      "language": "ar-EG",
+      "translation": "fr-FR",
+      "version": 1,
+      "totalSizeMB": 2.7
+    },
+    {
+      "id": "hindi_en-US",
+      "title": "Hindi basics",
+      "language": "hi-IN",
+      "translation": "en-US",
+      "version": 1,
+      "totalSizeMB": 3.3
+    },
+    {
+      "id": "hindi_fr-FR",
+      "title": "Hindi basics",
+      "language": "hi-IN",
+      "translation": "fr-FR",
+      "version": 1,
+      "totalSizeMB": 3.3
+    },
+    {
+      "id": "mandarin_chinese_en-US",
+      "title": "Mandarin Chinese basics",
+      "language": "cmn-CN",
+      "translation": "en-US",
+      "version": 1,
+      "totalSizeMB": 2.9
+    },
+    {
+      "id": "mandarin_chinese_fr-FR",
+      "title": "Mandarin Chinese basics",
+      "language": "cmn-CN",
+      "translation": "fr-FR",
+      "version": 1,
+      "totalSizeMB": 2.9
+    },
+    {
+      "id": "russian_en-US",
+      "title": "Russian basics",
+      "language": "ru-RU",
+      "translation": "en-US",
+      "version": 1,
+      "totalSizeMB": 2.9
+    },
+    {
+      "id": "russian_fr-FR",
+      "title": "Russian basics",
+      "language": "ru-RU",
+      "translation": "fr-FR",
+      "version": 1,
+      "totalSizeMB": 2.9
+    }
+  ]
+}
